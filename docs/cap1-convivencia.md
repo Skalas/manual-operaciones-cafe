@@ -1,0 +1,197 @@
+# 1.2 Lineamientos de Convivencia y Cultura de Hospitalidad
+
+### 1. Objetivo
+
+Establecer principios de convivencia, comunicación y colaboración que contribuyan a mantener un ambiente de trabajo respetuoso, profesional y orientado al servicio.
+
+La hospitalidad comienza dentro del equipo. La forma en que los colaboradores se relacionan entre sí influye directamente en la experiencia de los clientes, proveedores y visitantes.
+
+---
+
+## 2. Principios de Cultura Organizacional
+
+Toda persona que forme parte de la empresa deberá procurar:
+
+* Respeto.  
+* Profesionalismo.  
+* Honestidad.  
+* Responsabilidad.  
+* Colaboración.  
+* Empatía.  
+* Actitud de servicio.  
+* Mejora continua.
+
+Estos principios deberán reflejarse tanto en la atención al cliente como en la interacción entre compañeros.
+
+---
+
+## 3. Respeto Mutuo
+
+Todo colaborador deberá:
+
+* Tratar a los demás con cortesía.  
+* Escuchar con atención.  
+* Evitar expresiones ofensivas.  
+* Respetar diferencias de opinión.  
+* Mantener un trato digno hacia todas las personas.
+
+No se tolerarán conductas destinadas a humillar, intimidar o menospreciar a compañeros, clientes o proveedores.
+
+---
+
+## 4. Comunicación Profesional
+
+La comunicación dentro del equipo deberá ser:
+
+* Clara.  
+* Directa.  
+* Respetuosa.  
+* Constructiva.
+
+Se espera que los colaboradores:
+
+* Expresen dudas oportunamente.  
+* Soliciten apoyo cuando lo necesiten.  
+* Informen errores de manera transparente.  
+* Mantengan disposición para recibir retroalimentación.
+
+---
+
+## 5. Retroalimentación y Aprendizaje
+
+La empresa reconoce que los errores forman parte del proceso de aprendizaje.
+
+Por ello:
+
+* Los errores deberán utilizarse como oportunidades de mejora.  
+* La retroalimentación deberá enfocarse en conductas y procesos, no en ataques personales.  
+* Toda corrección deberá realizarse con respeto y profesionalismo.
+
+Se espera que cada colaborador mantenga apertura para aprender y mejorar continuamente.
+
+---
+
+## 6. Trabajo en Equipo
+
+Toda persona deberá contribuir al buen funcionamiento de la operación.
+
+Esto implica:
+
+* Apoyar a compañeros cuando sea posible.  
+* Compartir información relevante para la operación.  
+* Mantener disposición para colaborar.  
+* Evitar actitudes individualistas que perjudiquen al equipo.
+
+El éxito de la operación es una responsabilidad compartida.
+
+---
+
+## 7. Manejo de Conflictos
+
+Los desacuerdos son una situación normal dentro de cualquier organización.
+
+Cuando surjan conflictos:
+
+* Se deberá privilegiar el diálogo respetuoso.  
+* Se evitarán confrontaciones frente a clientes.  
+* Se buscará resolver las diferencias de manera profesional.  
+* Se podrá solicitar apoyo de responsables o gerencia cuando sea necesario.
+
+Queda prohibido escalar conflictos mediante insultos, amenazas o agresiones.
+
+---
+
+## 8. Conducta Durante Periodos de Alta Demanda
+
+Durante horas pico o situaciones de presión operativa se espera que los colaboradores:
+
+* Mantengan la calma.  
+* Se comuniquen de manera clara.  
+* Eviten discusiones innecesarias.  
+* Prioricen el servicio al cliente.  
+* Mantengan una actitud colaborativa.
+
+La presión operativa no justifica faltas de respeto.
+
+---
+
+## 9. Hospitalidad Interna
+
+La hospitalidad no se limita a los clientes.
+
+Se espera que cada colaborador:
+
+* Salude a sus compañeros.  
+* Mantenga disposición para ayudar.  
+* Muestre consideración hacia el trabajo de los demás.  
+* Contribuya a generar un ambiente agradable y profesional.
+
+---
+
+## 10. Relación con Clientes
+
+Toda interacción con clientes deberá caracterizarse por:
+
+* Cortesía.  
+* Paciencia.  
+* Profesionalismo.  
+* Honestidad.  
+* Disposición de ayuda.
+
+Incluso ante situaciones difíciles, el personal deberá mantener la compostura y buscar soluciones razonables.
+
+---
+
+## 11. Relación con Proveedores y Visitantes
+
+Los proveedores y visitantes deberán recibir un trato respetuoso y profesional.
+
+Toda interacción deberá reflejar los valores de la empresa.
+
+---
+
+## 12. Inclusión y Diversidad
+
+La empresa valora la diversidad de experiencias, conocimientos y perspectivas.
+
+Se espera que todas las personas contribuyan a crear un ambiente donde cada individuo sea tratado con respeto y dignidad.
+
+---
+
+## 13. Uso Responsable del Humor
+
+Las bromas y conversaciones informales forman parte de la convivencia cotidiana.
+
+Sin embargo:
+
+* No deberán generar incomodidad.  
+* No deberán ser ofensivas.  
+* No deberán humillar a otras personas.  
+* No deberán afectar la operación.
+
+Cuando una persona manifieste incomodidad respecto a un tema, éste deberá detenerse inmediatamente.
+
+---
+
+## 14. Imagen Profesional
+
+Cada colaborador representa a la empresa mediante su conducta, presentación y actitud.
+
+Se espera que las acciones diarias reflejen:
+
+* Orgullo por el trabajo realizado.  
+* Respeto por el cliente.  
+* Respeto por los compañeros.  
+* Compromiso con la calidad.
+
+---
+
+## 15. Filosofía de Hospitalidad
+
+La empresa entiende la hospitalidad como la capacidad de hacer que otras personas se sientan bienvenidas, respetadas y atendidas.
+
+Esta filosofía aplica tanto para clientes como para colaboradores.
+
+La excelencia operativa y la excelencia humana son inseparables.
+
+Por ello, cada integrante del equipo tiene la responsabilidad de contribuir a un entorno de trabajo donde prevalezcan el respeto, la colaboración, el aprendizaje continuo y el servicio genuino.

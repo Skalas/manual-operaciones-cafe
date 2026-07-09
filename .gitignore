@@ -1,0 +1,13 @@
+.venv/
+site/
+__pycache__/
+*.pyc
+
+# Formatos PDF: artefactos generados (una versión por marca). Se regeneran con
+# scripts/build_formatos_pdf.py o scripts/build_all.py; no se versionan.
+docs/descargas/
+
+# PDFs imprimibles del manual (locales, por marca). Se regeneran con
+# scripts/build_manual_pdf.py; no se versionan.
+pdf/
+.DS_Store

@@ -1,0 +1,64 @@
+/* Ajustes de legibilidad para el manual. */
+
+:root {
+  --md-typeset-line-height: 1.7;
+}
+
+/* Medida de línea cómoda: evita renglones larguísimos en pantallas anchas. */
+.md-grid {
+  max-width: 56rem;
+}
+
+.md-typeset {
+  font-size: 0.85rem;
+}
+
+.md-typeset p,
+.md-typeset li {
+  line-height: 1.7;
+}
+
+/* El manual usa mucho "una frase por párrafo": los junto un poco para que
+   se lean como un bloque y no como una lista dispersa. */
+.md-typeset p {
+  margin: 0.35em 0 0.7em;
+}
+
+/* Jerarquía visible: contraste claro de tamaño entre niveles y aire arriba. */
+.md-typeset h1 {
+  font-weight: 700;
+  font-size: 1.9rem;
+  line-height: 1.25;
+  margin: 0 0 0.8em;
+}
+
+.md-typeset h2 {
+  font-weight: 700;
+  font-size: 1.3rem;
+  margin: 2.2em 0 0.6em;
+  padding-top: 0.5em;
+  border-top: 1px solid var(--md-default-fg-color--lightest);
+}
+
+.md-typeset h3 {
+  font-weight: 600;
+  font-size: 1.05rem;
+  margin: 1.5em 0 0.4em;
+}
+
+.md-typeset h4 {
+  font-weight: 600;
+  font-size: 0.9rem;
+  color: var(--md-default-fg-color--light);
+  margin: 1.1em 0 0.3em;
+}
+
+/* Viñetas y celdas con un poco más de aire. */
+.md-typeset ul li {
+  margin-bottom: 0.2em;
+}
+
+.md-typeset table:not([class]) th,
+.md-typeset table:not([class]) td {
+  padding: 0.5em 0.9em;
+}
