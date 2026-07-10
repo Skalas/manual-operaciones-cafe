@@ -1,6 +1,6 @@
 # Anexo D — Conservación y Vida Útil de Productos
 
-### Objetivo
+## Objetivo
 
 Establecer los tiempos máximos de conservación, almacenamiento y utilización de materias primas, productos preparados y bebidas comercializadas por la empresa, con el fin de garantizar calidad, inocuidad, consistencia operativa y control de mermas.
 
@@ -87,6 +87,8 @@ La presencia de alteraciones organolépticas (olor, sabor, textura, color o apar
 | Jugo prensado en frío | Refrigeración | 72 horas |
 | Jugo comercial abierto | Refrigeración | 72 horas |
 
+---
+
 ## 8. Hielo
 
 | Producto | Condición | Vida útil máxima |
@@ -95,6 +97,8 @@ La presencia de alteraciones organolépticas (olor, sabor, textura, color o apar
 | Hielo embolsado abierto | Contenedor sanitario | 7 días |
 
 El hielo deberá manipularse únicamente con pala o utensilios destinados para ello.
+
+---
 
 ## 9. Panadería y Repostería
 

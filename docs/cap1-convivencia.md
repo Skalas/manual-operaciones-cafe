@@ -1,6 +1,6 @@
 # 1.2 Lineamientos de Convivencia y Cultura de Hospitalidad
 
-### 1. Objetivo
+## 1. Objetivo
 
 Establecer principios de convivencia, comunicación y colaboración que contribuyan a mantener un ambiente de trabajo respetuoso, profesional y orientado al servicio.
 
@@ -12,14 +12,7 @@ La hospitalidad comienza dentro del equipo. La forma en que los colaboradores se
 
 Toda persona que forme parte de la empresa deberá procurar:
 
-* Respeto.  
-* Profesionalismo.  
-* Honestidad.  
-* Responsabilidad.  
-* Colaboración.  
-* Empatía.  
-* Actitud de servicio.  
-* Mejora continua.
+<div class="chips"><span>Respeto</span><span>Profesionalismo</span><span>Honestidad</span><span>Responsabilidad</span><span>Colaboración</span><span>Empatía</span><span>Actitud de servicio</span><span>Mejora continua</span></div>
 
 Estos principios deberán reflejarse tanto en la atención al cliente como en la interacción entre compañeros.
 
@@ -29,13 +22,16 @@ Estos principios deberán reflejarse tanto en la atención al cliente como en la
 
 Todo colaborador deberá:
 
-* Tratar a los demás con cortesía.  
-* Escuchar con atención.  
-* Evitar expresiones ofensivas.  
-* Respetar diferencias de opinión.  
-* Mantener un trato digno hacia todas las personas.
+<ul class="do">
+<li>Tratar a los demás con cortesía</li>
+<li>Escuchar con atención</li>
+<li>Evitar expresiones ofensivas</li>
+<li>Respetar diferencias de opinión</li>
+<li>Mantener un trato digno hacia todas las personas</li>
+</ul>
 
-No se tolerarán conductas destinadas a humillar, intimidar o menospreciar a compañeros, clientes o proveedores.
+!!! danger "Queda prohibido"
+    * Humillar, intimidar o menospreciar a compañeros, clientes o proveedores
 
 ---
 
@@ -43,17 +39,16 @@ No se tolerarán conductas destinadas a humillar, intimidar o menospreciar a com
 
 La comunicación dentro del equipo deberá ser:
 
-* Clara.  
-* Directa.  
-* Respetuosa.  
-* Constructiva.
+<div class="chips"><span>Clara</span><span>Directa</span><span>Respetuosa</span><span>Constructiva</span></div>
 
 Se espera que los colaboradores:
 
-* Expresen dudas oportunamente.  
-* Soliciten apoyo cuando lo necesiten.  
-* Informen errores de manera transparente.  
-* Mantengan disposición para recibir retroalimentación.
+<ul class="do">
+<li>Expresen dudas oportunamente</li>
+<li>Soliciten apoyo cuando lo necesiten</li>
+<li>Informen errores de manera transparente</li>
+<li>Mantengan disposición para recibir retroalimentación</li>
+</ul>
 
 ---
 
@@ -63,9 +58,11 @@ La empresa reconoce que los errores forman parte del proceso de aprendizaje.
 
 Por ello:
 
-* Los errores deberán utilizarse como oportunidades de mejora.  
-* La retroalimentación deberá enfocarse en conductas y procesos, no en ataques personales.  
-* Toda corrección deberá realizarse con respeto y profesionalismo.
+<ul class="do">
+<li>Los errores deberán utilizarse como oportunidades de mejora</li>
+<li>La retroalimentación deberá enfocarse en conductas y procesos, no en ataques personales</li>
+<li>Toda corrección deberá realizarse con respeto y profesionalismo</li>
+</ul>
 
 Se espera que cada colaborador mantenga apertura para aprender y mejorar continuamente.
 
@@ -77,10 +74,12 @@ Toda persona deberá contribuir al buen funcionamiento de la operación.
 
 Esto implica:
 
-* Apoyar a compañeros cuando sea posible.  
-* Compartir información relevante para la operación.  
-* Mantener disposición para colaborar.  
-* Evitar actitudes individualistas que perjudiquen al equipo.
+<ul class="do">
+<li>Apoyar a compañeros cuando sea posible</li>
+<li>Compartir información relevante para la operación</li>
+<li>Mantener disposición para colaborar</li>
+<li>Evitar actitudes individualistas que perjudiquen al equipo</li>
+</ul>
 
 El éxito de la operación es una responsabilidad compartida.
 
@@ -92,12 +91,15 @@ Los desacuerdos son una situación normal dentro de cualquier organización.
 
 Cuando surjan conflictos:
 
-* Se deberá privilegiar el diálogo respetuoso.  
-* Se evitarán confrontaciones frente a clientes.  
-* Se buscará resolver las diferencias de manera profesional.  
-* Se podrá solicitar apoyo de responsables o gerencia cuando sea necesario.
+<ul class="do">
+<li>Se deberá privilegiar el diálogo respetuoso</li>
+<li>Se evitarán confrontaciones frente a clientes</li>
+<li>Se buscará resolver las diferencias de manera profesional</li>
+<li>Se podrá solicitar apoyo de responsables o gerencia cuando sea necesario</li>
+</ul>
 
-Queda prohibido escalar conflictos mediante insultos, amenazas o agresiones.
+!!! danger "Queda prohibido"
+    * Escalar conflictos mediante insultos, amenazas o agresiones
 
 ---
 
@@ -105,11 +107,13 @@ Queda prohibido escalar conflictos mediante insultos, amenazas o agresiones.
 
 Durante horas pico o situaciones de presión operativa se espera que los colaboradores:
 
-* Mantengan la calma.  
-* Se comuniquen de manera clara.  
-* Eviten discusiones innecesarias.  
-* Prioricen el servicio al cliente.  
-* Mantengan una actitud colaborativa.
+<ul class="do">
+<li>Mantengan la calma</li>
+<li>Se comuniquen de manera clara</li>
+<li>Eviten discusiones innecesarias</li>
+<li>Prioricen el servicio al cliente</li>
+<li>Mantengan una actitud colaborativa</li>
+</ul>
 
 La presión operativa no justifica faltas de respeto.
 
@@ -121,10 +125,12 @@ La hospitalidad no se limita a los clientes.
 
 Se espera que cada colaborador:
 
-* Salude a sus compañeros.  
-* Mantenga disposición para ayudar.  
-* Muestre consideración hacia el trabajo de los demás.  
-* Contribuya a generar un ambiente agradable y profesional.
+<ul class="do">
+<li>Salude a sus compañeros</li>
+<li>Mantenga disposición para ayudar</li>
+<li>Muestre consideración hacia el trabajo de los demás</li>
+<li>Contribuya a generar un ambiente agradable y profesional</li>
+</ul>
 
 ---
 
@@ -132,11 +138,7 @@ Se espera que cada colaborador:
 
 Toda interacción con clientes deberá caracterizarse por:
 
-* Cortesía.  
-* Paciencia.  
-* Profesionalismo.  
-* Honestidad.  
-* Disposición de ayuda.
+<div class="chips"><span>Cortesía</span><span>Paciencia</span><span>Profesionalismo</span><span>Honestidad</span><span>Disposición de ayuda</span></div>
 
 Incluso ante situaciones difíciles, el personal deberá mantener la compostura y buscar soluciones razonables.
 
@@ -164,10 +166,11 @@ Las bromas y conversaciones informales forman parte de la convivencia cotidiana.
 
 Sin embargo:
 
-* No deberán generar incomodidad.  
-* No deberán ser ofensivas.  
-* No deberán humillar a otras personas.  
-* No deberán afectar la operación.
+!!! warning "Evitar"
+    * Generar incomodidad
+    * Ser ofensivas
+    * Humillar a otras personas
+    * Afectar la operación
 
 Cuando una persona manifieste incomodidad respecto a un tema, éste deberá detenerse inmediatamente.
 
@@ -179,10 +182,12 @@ Cada colaborador representa a la empresa mediante su conducta, presentación y a
 
 Se espera que las acciones diarias reflejen:
 
-* Orgullo por el trabajo realizado.  
-* Respeto por el cliente.  
-* Respeto por los compañeros.  
-* Compromiso con la calidad.
+<ul class="do">
+<li>Orgullo por el trabajo realizado</li>
+<li>Respeto por el cliente</li>
+<li>Respeto por los compañeros</li>
+<li>Compromiso con la calidad</li>
+</ul>
 
 ---
 

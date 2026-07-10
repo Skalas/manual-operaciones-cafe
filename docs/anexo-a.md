@@ -1,6 +1,6 @@
 # Anexo A — Consumo de Café para Capacitación Sensorial y Control de Calidad
 
-### 1. Objetivo
+## 1. Objetivo
 
 Reconocer que la evaluación sensorial, calibración y conocimiento del producto forman parte de las funciones operativas de una cafetería de especialidad, permitiendo el consumo controlado de café con fines de capacitación, control de calidad y mejora continua.
 
@@ -21,16 +21,20 @@ Las actividades reguladas por este anexo no se consideran consumo personal cuand
 
 Se autoriza el uso de café para:
 
-* Ajuste de molienda.  
-* Calibración de recetas.  
-* Verificación de extracción.  
-* Validación de parámetros operativos.
+<ul class="do">
+<li>Ajuste de molienda</li>
+<li>Calibración de recetas</li>
+<li>Verificación de extracción</li>
+<li>Validación de parámetros operativos</li>
+</ul>
 
 Los espressos utilizados durante la calibración:
 
-* No se consideran consumo personal.  
-* No requieren pago por parte del colaborador.  
-* Deberán mantenerse dentro de parámetros razonables para la operación.
+<ul class="do">
+<li>No se consideran consumo personal</li>
+<li>No requieren pago por parte del colaborador</li>
+<li>Deberán mantenerse dentro de parámetros razonables para la operación</li>
+</ul>
 
 Cuando sea posible, los espressos utilizados para calibración podrán ser aprovechados para evaluación sensorial.
 
@@ -40,10 +44,12 @@ Cuando sea posible, los espressos utilizados para calibración podrán ser aprov
 
 Se permite la preparación de muestras para:
 
-* Evaluar consistencia de bebidas.  
-* Verificar calidad de insumos.  
-* Revisar desempeño de equipos.  
-* Detectar desviaciones de sabor.
+<ul class="do">
+<li>Evaluar consistencia de bebidas</li>
+<li>Verificar calidad de insumos</li>
+<li>Revisar desempeño de equipos</li>
+<li>Detectar desviaciones de sabor</li>
+</ul>
 
 Las muestras deberán prepararse en cantidades mínimas necesarias para cumplir el objetivo de evaluación.
 
@@ -53,12 +59,14 @@ Las muestras deberán prepararse en cantidades mínimas necesarias para cumplir 
 
 La empresa podrá realizar actividades de capacitación que incluyan:
 
-* Cuppings.  
-* Catas comparativas.  
-* Evaluaciones de origen.  
-* Evaluaciones de tostado.  
-* Entrenamiento de atributos sensoriales.  
-* Desarrollo de habilidades de servicio y venta.
+<ul class="do">
+<li>Cuppings</li>
+<li>Catas comparativas</li>
+<li>Evaluaciones de origen</li>
+<li>Evaluaciones de tostado</li>
+<li>Entrenamiento de atributos sensoriales</li>
+<li>Desarrollo de habilidades de servicio y venta</li>
+</ul>
 
 Los productos utilizados durante estas actividades no serán considerados consumo personal.
 
@@ -68,10 +76,12 @@ Los productos utilizados durante estas actividades no serán considerados consum
 
 Se autoriza el uso de café e insumos para:
 
-* Desarrollo de nuevas bebidas.  
-* Pruebas de menú.  
-* Evaluación de ingredientes.  
-* Innovación de productos.
+<ul class="do">
+<li>Desarrollo de nuevas bebidas</li>
+<li>Pruebas de menú</li>
+<li>Evaluación de ingredientes</li>
+<li>Innovación de productos</li>
+</ul>
 
 Toda actividad de desarrollo deberá contar con autorización del responsable correspondiente.
 
@@ -83,9 +93,11 @@ Con fines de aprendizaje y familiarización con el menú, cada colaborador podr�
 
 Estas degustaciones deberán:
 
-* Mantenerse en cantidades razonables.  
-* Tener un propósito formativo.  
-* No interferir con la operación.
+<ul class="do">
+<li>Mantenerse en cantidades razonables</li>
+<li>Tener un propósito formativo</li>
+<li>No interferir con la operación</li>
+</ul>
 
 ---
 
@@ -101,13 +113,12 @@ Este beneficio es independiente del café utilizado para calibración, control d
 
 ## 9. Uso Responsable
 
-No se considerará capacitación sensorial:
-
-* Preparar bebidas para terceros sin autorización.  
-* Preparar bebidas para consumo recreativo excesivo.  
-* Generar desperdicio deliberado.  
-* Repetir calibraciones innecesarias.  
-* Utilizar insumos premium sin justificación operativa.
+!!! danger "No se considerará capacitación sensorial"
+    - Preparar bebidas para terceros sin autorización.
+    - Preparar bebidas para consumo recreativo excesivo.
+    - Generar desperdicio deliberado.
+    - Repetir calibraciones innecesarias.
+    - Utilizar insumos premium sin justificación operativa.
 
 Estas conductas podrán clasificarse como incumplimientos a la Política de Consumo de Alimentos y Bebidas.
 

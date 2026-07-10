@@ -4,7 +4,7 @@
 
 Establecer lineamientos para prevenir, identificar, reportar y atender conductas de hostigamiento, acoso, violencia y discriminación dentro de la empresa, promoviendo un ambiente laboral seguro, digno, respetuoso y profesional para todas las personas.
 
-La empresa mantiene una política de tolerancia hacia conductas que atenten contra la dignidad, integridad o bienestar de cualquier persona dentro del entorno laboral.
+La empresa mantiene una política de tolerancia cero hacia conductas que atenten contra la dignidad, integridad o bienestar de cualquier persona dentro del entorno laboral.
 
 ---
 
@@ -12,14 +12,16 @@ La empresa mantiene una política de tolerancia hacia conductas que atenten cont
 
 Esta política aplica a:
 
-* Colaboradores.  
-* Personal administrativo.  
-* Socios operativos.  
-* Practicantes.  
-* Proveedores.  
-* Clientes.  
-* Visitantes.  
-* Cualquier persona que interactúe dentro de las instalaciones o actividades relacionadas con la empresa.
+<div class="chips">
+<span>Colaboradores</span>
+<span>Personal administrativo</span>
+<span>Socios operativos</span>
+<span>Practicantes</span>
+<span>Proveedores</span>
+<span>Clientes</span>
+<span>Visitantes</span>
+<span>Cualquier persona que interactúe dentro de las instalaciones o actividades relacionadas con la empresa</span>
+</div>
 
 ---
 
@@ -27,10 +29,12 @@ Esta política aplica a:
 
 Toda persona deberá:
 
-* Conducirse con respeto.  
-* Mantener un trato profesional.  
-* Evitar conductas intimidatorias, ofensivas o degradantes.  
-* Respetar la integridad física y emocional de terceros.
+<ul class="do">
+<li>Conducirse con respeto</li>
+<li>Mantener un trato profesional</li>
+<li>Evitar conductas intimidatorias, ofensivas o degradantes</li>
+<li>Respetar la integridad física y emocional de terceros</li>
+</ul>
 
 La empresa promoverá un entorno libre de violencia, hostigamiento y discriminación.
 
@@ -38,61 +42,43 @@ La empresa promoverá un entorno libre de violencia, hostigamiento y discriminac
 
 ## 4. Definiciones
 
-### Hostigamiento
+<div class="grid cards" markdown>
 
-Conducta reiterada de intimidación, presión, abuso de poder o trato humillante que afecte las condiciones laborales, dignidad o bienestar de una persona.
+-   :material-account-alert:{ .lg } __Hostigamiento__
 
-Puede presentarse entre personas con distintos niveles jerárquicos.
+    Conducta reiterada de intimidación, presión, abuso de poder o trato humillante que afecte las condiciones laborales, dignidad o bienestar de una persona. Puede presentarse entre personas con distintos niveles jerárquicos.
 
----
+-   :material-shield-alert:{ .lg } __Acoso__
 
-### Acoso
+    Conducta no deseada de carácter verbal, físico, psicológico, digital o sexual que genere incomodidad, intimidación, humillación o afectación a otra persona. Puede ocurrir entre personas del mismo nivel jerárquico o sin relación de subordinación.
 
-Conducta no deseada de carácter verbal, físico, psicológico, digital o sexual que genere incomodidad, intimidación, humillación o afectación a otra persona.
+-   :material-scale-balance:{ .lg } __Discriminación__
 
-Puede ocurrir entre personas del mismo nivel jerárquico o sin relación de subordinación.
+    Trato diferenciado injustificado que limite derechos, oportunidades o condiciones laborales debido a apariencia, género, edad, nacionalidad, discapacidad, condición social, idioma, estado civil, embarazo, preferencias personales, creencias o cualquier otra condición protegida por la legislación aplicable.
 
----
-
-### Discriminación
-
-Cualquier trato diferenciado injustificado que limite derechos, oportunidades o condiciones laborales debido a:
-
-* Apariencia.  
-* Género.  
-* Edad.  
-* Nacionalidad.  
-* Discapacidad.  
-* Condición social.  
-* Idioma.  
-* Estado civil.  
-* Embarazo.  
-* Preferencias personales.  
-* Creencias.  
-* O cualquier otra condición protegida por la legislación aplicable.
+</div>
 
 ---
 
 ## 5. Conductas Prohibidas
 
-Quedan prohibidas, entre otras:
-
-* Insultos.  
-* Burlas humillantes.  
-* Apodos ofensivos.  
-* Gritos intimidatorios.  
-* Amenazas.  
-* Difusión de rumores malintencionados.  
-* Comentarios discriminatorios.  
-* Comentarios sexuales no deseados.  
-* Contacto físico inapropiado.  
-* Acercamientos insistentes no deseados.  
-* Hostigamiento digital.  
-* Exclusión deliberada.  
-* Represalias contra personas que presenten reportes.  
-* Forzar conversaciones o temas que generen incomodidad.  
-* Publicar contenido humillante relacionado con compañeros.  
-* Ridiculizar errores operativos de otros colaboradores.
+!!! danger "Queda prohibido, entre otras conductas"
+    - Insultos.
+    - Burlas humillantes.
+    - Apodos ofensivos.
+    - Gritos intimidatorios.
+    - Amenazas.
+    - Difusión de rumores malintencionados.
+    - Comentarios discriminatorios.
+    - Comentarios sexuales no deseados.
+    - Contacto físico inapropiado.
+    - Acercamientos insistentes no deseados.
+    - Hostigamiento digital.
+    - Exclusión deliberada.
+    - Represalias contra personas que presenten reportes.
+    - Forzar conversaciones o temas que generen incomodidad.
+    - Publicar contenido humillante relacionado con compañeros.
+    - Ridiculizar errores operativos de otros colaboradores.
 
 ---
 
@@ -102,10 +88,11 @@ Todo colaborador deberá mantener trato respetuoso hacia clientes y proveedores.
 
 Asimismo, la empresa procurará proteger al personal frente a:
 
-* Agresiones verbales.  
-* Acoso.  
-* Conductas violentas.  
-* Discriminación proveniente de terceros.
+!!! danger "Conductas no permitidas de terceros"
+    - Agresiones verbales.
+    - Acoso.
+    - Conductas violentas.
+    - Discriminación proveniente de terceros.
 
 La empresa podrá negar servicio o solicitar el retiro de personas que generen riesgos para el personal o la operación.
 
@@ -115,12 +102,15 @@ La empresa podrá negar servicio o solicitar el retiro de personas que generen r
 
 Las relaciones personales entre colaboradores deberán manejarse con profesionalismo y sin afectar:
 
-* El ambiente laboral.  
-* La operación.  
-* La toma de decisiones.  
-* La comodidad de terceros.
+<div class="chips">
+<span>El ambiente laboral</span>
+<span>La operación</span>
+<span>La toma de decisiones</span>
+<span>La comodidad de terceros</span>
+</div>
 
-Queda prohibido utilizar relaciones personales para ejercer presión, favoritismo o intimidación.
+!!! danger "Queda prohibido"
+    Utilizar relaciones personales para ejercer presión, favoritismo o intimidación.
 
 ---
 
@@ -128,18 +118,22 @@ Queda prohibido utilizar relaciones personales para ejercer presión, favoritism
 
 Toda persona podrá reportar situaciones relacionadas con:
 
-* Hostigamiento.  
-* Acoso.  
-* Violencia.  
-* Discriminación.  
-* Represalias.
+<ul class="do">
+<li>Hostigamiento</li>
+<li>Acoso</li>
+<li>Violencia</li>
+<li>Discriminación</li>
+<li>Represalias</li>
+</ul>
 
 Los reportes podrán realizarse ante:
 
-* Responsables de turno.  
-* Gerencia.  
-* Dirección.  
-* Personas designadas por la empresa.
+<ul class="do">
+<li>Responsables de turno</li>
+<li>Gerencia</li>
+<li>Dirección</li>
+<li>Personas designadas por la empresa</li>
+</ul>
 
 ---
 
@@ -157,10 +151,12 @@ La empresa podrá realizar revisiones internas cuando exista conocimiento de pos
 
 Las investigaciones podrán incluir:
 
-* Entrevistas.  
-* Revisión de mensajes o evidencia relacionada con la operación.  
-* Declaraciones de testigos.  
-* Revisión de cámaras de seguridad conforme a la legislación aplicable (ver apartado 3.3).
+<div class="chips">
+<span>Entrevistas</span>
+<span>Revisión de mensajes o evidencia relacionada con la operación</span>
+<span>Declaraciones de testigos</span>
+<span>Revisión de cámaras de seguridad conforme a la legislación aplicable (ver apartado 3.3)</span>
+</div>
 
 Toda persona involucrada deberá conducirse con honestidad y respeto durante el proceso.
 
@@ -168,11 +164,12 @@ Toda persona involucrada deberá conducirse con honestidad y respeto durante el 
 
 ## 11. Prohibición de Represalias
 
-Queda prohibido tomar represalias contra cualquier persona que:
+!!! danger "Queda prohibido"
+    Tomar represalias contra cualquier persona que:
 
-* Presente un reporte de buena fe.  
-* Participe como testigo.  
-* Colabore en una investigación interna.
+    - Presente un reporte de buena fe.
+    - Participe como testigo.
+    - Colabore en una investigación interna.
 
 Las represalias podrán considerarse faltas graves o muy graves.
 
@@ -182,11 +179,11 @@ Las represalias podrán considerarse faltas graves o muy graves.
 
 Cuando se determine la existencia de conductas contrarias a esta política, la empresa podrá aplicar medidas conforme a la gravedad de la situación, incluyendo:
 
-* Amonestaciones.  
-* Actas administrativas.  
-* Suspensiones.  
-* Restricciones operativas.  
-* Terminación de la relación laboral conforme a la legislación aplicable.
+1. Amonestaciones.
+2. Actas administrativas.
+3. Suspensiones.
+4. Restricciones operativas.
+5. Terminación de la relación laboral conforme a la legislación aplicable.
 
 ---
 

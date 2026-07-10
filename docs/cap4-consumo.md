@@ -10,10 +10,12 @@ Esta política aplica a todos los colaboradores, socios operativos, practicantes
 
 ## 2. Principios Generales
 
-1. Ningún producto destinado a la venta podrá consumirse sin autorización o registro correspondiente.  
-2. Todo consumo deberá estar debidamente identificado, autorizado o registrado según los procedimientos establecidos.  
-3. El consumo de productos no constituye un derecho adquirido salvo disposición expresa de la empresa.  
-4. La empresa podrá modificar o suspender beneficios de consumo interno cuando las condiciones operativas lo requieran.
+<ul class="do">
+<li>Ningún producto destinado a la venta se consume sin autorización o registro correspondiente</li>
+<li>Todo consumo está debidamente identificado, autorizado o registrado según los procedimientos establecidos</li>
+<li>El consumo de productos no constituye un derecho adquirido salvo disposición expresa de la empresa</li>
+<li>La empresa podrá modificar o suspender beneficios de consumo interno cuando las condiciones operativas lo requieran</li>
+</ul>
 
 ---
 
@@ -31,9 +33,11 @@ Con el objetivo de fomentar el conocimiento del producto y la calidad del servic
 
 Este beneficio está sujeto a las siguientes condiciones:
 
-* No deberá interferir con la operación.  
-* No deberá generar desperdicio innecesario.  
-* No deberá afectar inventarios destinados a la venta.
+<ul class="do">
+<li>No interfiere con la operación</li>
+<li>No genera desperdicio innecesario</li>
+<li>No afecta inventarios destinados a la venta</li>
+</ul>
 
 El consumo de agua potable es libre y no cuenta como la bebida de cortesía (ver apartado 3). Las degustaciones y catas con fines de calidad o capacitación tampoco cuentan como consumo personal (ver Anexo A). La empresa podrá ajustar este beneficio cuando las condiciones operativas lo requieran.
 
@@ -43,16 +47,15 @@ El consumo de agua potable es libre y no cuenta como la bebida de cortesía (ver
 
 Se consideran degustaciones operativas aquellas necesarias para:
 
-* Control de calidad.  
-* Capacitación.  
-* Desarrollo de productos.  
-* Verificación de recetas.
+<div class="chips"><span>Control de calidad</span><span>Capacitación</span><span>Desarrollo de productos</span><span>Verificación de recetas</span></div>
 
 Estas degustaciones:
 
-* Deberán realizarse en cantidades mínimas necesarias.  
-* Deberán registrarse cuando los procedimientos internos así lo indiquen.  
-* No se considerarán consumo personal.
+<ul class="do">
+<li>Se realizan en cantidades mínimas necesarias</li>
+<li>Se registran cuando los procedimientos internos así lo indiquen</li>
+<li>No se consideran consumo personal</li>
+</ul>
 
 ---
 
@@ -60,9 +63,8 @@ Estas degustaciones:
 
 El personal podrá consumir alimentos propios únicamente en áreas y horarios autorizados.
 
-Queda prohibido:
-
-* Consumir alimentos en áreas de preparación.
+!!! danger "Queda prohibido"
+    - Consumir alimentos en áreas de preparación.
 
 ---
 
@@ -70,10 +72,12 @@ Queda prohibido:
 
 Todo producto destinado a la venta que sea consumido por el personal deberá cumplir alguno de los siguientes supuestos:
 
-* Haber sido adquirido por el colaborador.  
-* Haber sido autorizado como beneficio interno.  
-* Haber sido autorizado como degustación operativa.  
-* Haber sido clasificado como merma autorizada.
+<ul class="do">
+<li>Haber sido adquirido por el colaborador</li>
+<li>Haber sido autorizado como beneficio interno</li>
+<li>Haber sido autorizado como degustación operativa</li>
+<li>Haber sido clasificado como merma autorizada</li>
+</ul>
 
 Fuera de estos supuestos, el consumo se considerará no autorizado.
 
@@ -83,9 +87,7 @@ Fuera de estos supuestos, el consumo se considerará no autorizado.
 
 Se consideran productos de merma aquellos que:
 
-* No cumplen estándares de presentación.  
-* Se encuentran próximos a vencer.  
-* No son aptos para comercialización pero mantienen condiciones seguras para consumo.
+<div class="chips"><span>No cumplen estándares de presentación</span><span>Se encuentran próximos a vencer</span><span>No son aptos para comercialización pero mantienen condiciones seguras para consumo</span></div>
 
 La autorización para consumo de mermas corresponde exclusivamente al responsable designado por la empresa.
 
@@ -105,11 +107,7 @@ Ningún colaborador podrá otorgar productos gratuitos sin autorización expresa
 
 Cuando la empresa lo determine, los consumos internos deberán registrarse indicando:
 
-* Producto.  
-* Cantidad.  
-* Motivo.  
-* Responsable de autorización.  
-* Fecha.
+<div class="chips"><span>Producto</span><span>Cantidad</span><span>Motivo</span><span>Responsable de autorización</span><span>Fecha</span></div>
 
 La omisión deliberada de registros podrá constituir una falta disciplinaria.
 
@@ -117,13 +115,12 @@ La omisión deliberada de registros podrá constituir una falta disciplinaria.
 
 ## 11. Consumo de Bebidas Alcohólicas
 
-Queda prohibido:
-
-* Consumir bebidas alcohólicas durante la jornada laboral.  
-* Presentarse a trabajar bajo los efectos del alcohol.  
-* Almacenar bebidas alcohólicas personales dentro de las instalaciones.  
-* Facilitar el consumo de bebidas alcohólicas a clientes sin autorización expresa de la dirección y sin los permisos correspondientes.  
-* Permitir el consumo de bebidas alcohólicas por parte de terceros cuando ello contravenga las políticas de la empresa.
+!!! danger "Queda prohibido"
+    - Consumir bebidas alcohólicas durante la jornada laboral.
+    - Presentarse a trabajar bajo los efectos del alcohol.
+    - Almacenar bebidas alcohólicas personales dentro de las instalaciones.
+    - Facilitar el consumo de bebidas alcohólicas a clientes sin autorización expresa de la dirección y sin los permisos correspondientes.
+    - Permitir el consumo de bebidas alcohólicas por parte de terceros cuando ello contravenga las políticas de la empresa.
 
 Las excepciones relacionadas con catas, desarrollo de producto o eventos especiales deberán contar con autorización previa de la dirección.
 
@@ -131,11 +128,10 @@ Las excepciones relacionadas con catas, desarrollo de producto o eventos especia
 
 ## 12. Sustancias Prohibidas
 
-Queda estrictamente prohibido:
-
-* Consumir drogas o sustancias ilícitas.  
-* Poseer sustancias ilícitas dentro de las instalaciones.  
-* Distribuir o facilitar sustancias ilícitas a terceros.
+!!! danger "Queda estrictamente prohibido"
+    - Consumir drogas o sustancias ilícitas.
+    - Poseer sustancias ilícitas dentro de las instalaciones.
+    - Distribuir o facilitar sustancias ilícitas a terceros.
 
 Estas conductas podrán considerarse faltas muy graves.
 

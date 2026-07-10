@@ -78,6 +78,37 @@ PREAMBLE = r"""
 """
 
 
+_ADM_TITLE = {"danger": "Prohibido", "warning": "Importante", "info": "Nota",
+              "note": "Nota", "tip": "Recomendación", "quote": "Detalle"}
+
+
+def expand_admonitions(md: str) -> str:
+    """Convierte los admonitions `!!! tipo "Título"` a markdown plano.
+
+    Pandoc no entiende la sintaxis `!!!`/`???`; sin esto, el encabezado saldría
+    como texto y el contenido indentado a 4 espacios se volvería bloque de código.
+    Se emite el título en negrita y se desindenta el cuerpo.
+    """
+    out, in_adm = [], False
+    for ln in md.split("\n"):
+        m = re.match(r'^(?:!!!|\?\?\?\+?)\s+([\w-]+)(?:\s+"([^"]*)")?\s*$', ln)
+        if m:
+            title = m.group(2) or _ADM_TITLE.get(m.group(1), m.group(1).capitalize())
+            out += [f"**{title}**", ""]
+            in_adm = True
+            continue
+        if in_adm:
+            if ln.strip() == "":
+                out.append("")
+                continue
+            if ln.startswith("    "):
+                out.append(ln[4:])
+                continue
+            in_adm = False
+        out.append(ln)
+    return "\n".join(out)
+
+
 def strip_web_components(md: str) -> str:
     """Convierte los componentes solo-web a markdown plano para el PDF.
 
@@ -85,6 +116,7 @@ def strip_web_components(md: str) -> str:
     maquetación (grids, tiles, timeline, cards) no tienen sentido en papel: se
     eliminan dejando intacto el texto/listas/tablas que llevan dentro.
     """
+    md = expand_admonitions(md)
     # Bloques Mermaid -> fuera (la tabla de equivalencias contigua ya explica).
     md = re.sub(r"```mermaid.*?```", "", md, flags=re.DOTALL)
     # Shortcodes de iconos y attr-lists de tamaño/clase.

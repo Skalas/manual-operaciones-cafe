@@ -21,16 +21,13 @@ Todo colaborador deberá conocer, respetar y aplicar las disposiciones contenida
 ## 3. Presentación Personal y Equipo de Protección
 
 1. Es obligatorio utilizar ropa limpia y adecuada para las actividades asignadas.  
-2. Por seguridad, queda prohibido el uso de:  
-    * Sandalias.  
-    * Chanclas.  
-    * Huaraches.  
-    * Calzado abierto.  
-    * Calzado con daños que comprometan la seguridad.  
-3. Se recomienda el uso de calzado antiderrapante.  
-4. El cabello largo deberá mantenerse recogido durante la jornada laboral.  
-5. Las uñas deberán mantenerse limpias y en condiciones que no comprometan la inocuidad de los alimentos.  
-6. Queda prohibido utilizar accesorios que puedan representar riesgo de contaminación o accidentes durante la preparación de alimentos y bebidas.
+2. Se recomienda el uso de calzado antiderrapante.  
+3. El cabello largo deberá mantenerse recogido durante la jornada laboral.  
+4. Las uñas deberán mantenerse limpias y en condiciones que no comprometan la inocuidad de los alimentos.
+
+!!! danger "Queda prohibido"
+    - Por seguridad, el uso de sandalias, chanclas, huaraches, calzado abierto o calzado con daños que comprometan la seguridad.
+    - Utilizar accesorios que puedan representar riesgo de contaminación o accidentes durante la preparación de alimentos y bebidas.
 
 ---
 
@@ -96,10 +93,12 @@ Todo colaborador deberá conocer, respetar y aplicar las disposiciones contenida
 
 ## 9. Consumo de Alcohol, Drogas y Sustancias que Alteren la Capacidad de Trabajo
 
-1. Queda prohibido presentarse a laborar bajo los efectos del alcohol, drogas o sustancias que alteren las capacidades físicas o mentales.  
-2. Queda prohibido consumir dichas sustancias durante la jornada laboral.  
-3. Queda prohibido permitir o facilitar el consumo de bebidas alcohólicas dentro del establecimiento sin autorización expresa de la dirección y sin los permisos legales correspondientes.  
-4. El incumplimiento de esta disposición podrá considerarse falta grave o muy grave.
+!!! danger "Queda prohibido"
+    - Presentarse a laborar bajo los efectos del alcohol, drogas o sustancias que alteren las capacidades físicas o mentales.
+    - Consumir dichas sustancias durante la jornada laboral.
+    - Permitir o facilitar el consumo de bebidas alcohólicas dentro del establecimiento sin autorización expresa de la dirección y sin los permisos legales correspondientes.
+
+El incumplimiento de esta disposición podrá considerarse falta grave o muy grave.
 
 ---
 

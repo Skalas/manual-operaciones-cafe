@@ -23,9 +23,9 @@ Las cantidades señaladas son referencias operativas y podrán ser modificadas p
 
 ### Calibración de Apertura
 
-Se considera aceptable:
-
-* Entre 3 y 4 extracciones de espresso para calibración inicial del molino y receta.
+<ul class="do">
+<li>Se considera aceptable entre 3 y 4 extracciones de espresso para calibración inicial del molino y receta</li>
+</ul>
 
 La cantidad podrá variar según:
 
@@ -38,17 +38,17 @@ La cantidad podrá variar según:
 
 ### Ajustes Durante la Jornada
 
-Se considera aceptable:
-
-* Entre 1 y 3 extracciones por ajuste de molienda cuando existan cambios de temperatura, humedad o comportamiento del café.
+<ul class="do">
+<li>Se considera aceptable entre 1 y 3 extracciones por ajuste de molienda cuando existan cambios de temperatura, humedad o comportamiento del café</li>
+</ul>
 
 ---
 
 ### Purga de Molino
 
-Se considera aceptable:
-
-* Entre 5 y 20 gramos por ajuste de molienda.
+<ul class="do">
+<li>Se considera aceptable entre 5 y 20 gramos por ajuste de molienda</li>
+</ul>
 
 ---
 
@@ -56,29 +56,30 @@ Se considera aceptable:
 
 ### Batch Brew
 
-Se considera aceptable:
+<ul class="do">
+<li>Se considera aceptable el producto remanente al final de la ventana de servicio establecida por la empresa</li>
+</ul>
 
-* Producto remanente al final de la ventana de servicio establecida por la empresa.
-
-La venta de café fuera de los tiempos de frescura establecidos queda prohibida.
+!!! danger "Queda prohibido"
+    La venta de café fuera de los tiempos de frescura establecidos.
 
 ---
 
 ### Métodos Manuales
 
-Se considera aceptable:
-
-* Una preparación de prueba cuando se realicen capacitaciones, validaciones o ajustes de receta.
+<ul class="do">
+<li>Se considera aceptable una preparación de prueba cuando se realicen capacitaciones, validaciones o ajustes de receta</li>
+</ul>
 
 ---
 
 ## 5. Cuppings y Evaluación Sensorial
 
-Se considera aceptable:
-
-* Todo café utilizado en actividades autorizadas de capacitación.  
-* Todo café utilizado en control de calidad.  
-* Todo café utilizado para evaluación de proveedores o nuevas compras.
+<ul class="do">
+<li>Se considera aceptable todo café utilizado en actividades autorizadas de capacitación</li>
+<li>Se considera aceptable todo café utilizado en control de calidad</li>
+<li>Se considera aceptable todo café utilizado para evaluación de proveedores o nuevas compras</li>
+</ul>
 
 Estas actividades no constituyen merma injustificada.
 
@@ -88,18 +89,18 @@ Estas actividades no constituyen merma injustificada.
 
 ### Calibración de Texturización
 
-Se considera aceptable:
-
-* Utilización de leche para entrenamiento técnico.  
-* Utilización de leche para evaluación de texturas.
+<ul class="do">
+<li>Utilización de leche para entrenamiento técnico</li>
+<li>Utilización de leche para evaluación de texturas</li>
+</ul>
 
 ---
 
 ### Errores de Preparación
 
-Se considera aceptable:
-
-* Desecho de bebidas preparadas incorrectamente cuando no sea posible corregirlas sin afectar la calidad.
+<ul class="do">
+<li>Desecho de bebidas preparadas incorrectamente cuando no sea posible corregirlas sin afectar la calidad</li>
+</ul>
 
 Toda incidencia deberá registrarse cuando los procedimientos internos lo requieran.
 
@@ -107,37 +108,36 @@ Toda incidencia deberá registrarse cuando los procedimientos internos lo requie
 
 ## 7. Tés e Infusiones
 
-Se considera aceptable:
-
-* Preparaciones destinadas a capacitación.  
-* Preparaciones destinadas a pruebas de menú.  
-* Preparaciones destinadas a control de calidad.
+<ul class="do">
+<li>Preparaciones destinadas a capacitación</li>
+<li>Preparaciones destinadas a pruebas de menú</li>
+<li>Preparaciones destinadas a control de calidad</li>
+</ul>
 
 ---
 
 ## 8. Concentrados, Jarabes y Pulpas
 
-Se considera aceptable:
+<ul class="do">
+<li>Muestras para desarrollo de bebidas</li>
+<li>Degustaciones autorizadas</li>
+<li>Pérdidas inevitables derivadas del trasvase de producto</li>
+</ul>
 
-* Muestras para desarrollo de bebidas.  
-* Degustaciones autorizadas.  
-* Pérdidas inevitables derivadas del trasvase de producto.
-
-No se considera aceptable:
-
-* Preparaciones innecesarias.  
-* Elaboraciones sin autorización.  
-* Preparaciones fuera de los procedimientos establecidos.
+!!! danger "No se considera aceptable"
+    - Preparaciones innecesarias.
+    - Elaboraciones sin autorización.
+    - Preparaciones fuera de los procedimientos establecidos.
 
 ---
 
 ## 9. Frutas y Garnituras
 
-Se considera aceptable:
-
-* Recortes derivados de preparación.  
-* Deshidratación natural del producto.  
-* Pérdidas asociadas a selección de calidad.
+<ul class="do">
+<li>Recortes derivados de preparación</li>
+<li>Deshidratación natural del producto</li>
+<li>Pérdidas asociadas a selección de calidad</li>
+</ul>
 
 Toda fruta con signos de deterioro deberá retirarse de operación.
 
@@ -145,11 +145,11 @@ Toda fruta con signos de deterioro deberá retirarse de operación.
 
 ## 10. Panadería y Repostería
 
-Se considera aceptable:
-
-* Producto no vendido al finalizar su periodo comercial establecido.  
-* Producto utilizado para degustaciones autorizadas.  
-* Producto afectado por defectos de presentación.
+<ul class="do">
+<li>Producto no vendido al finalizar su periodo comercial establecido</li>
+<li>Producto utilizado para degustaciones autorizadas</li>
+<li>Producto afectado por defectos de presentación</li>
+</ul>
 
 No deberá comercializarse producto cuya calidad no cumpla los estándares de la empresa.
 
@@ -157,10 +157,10 @@ No deberá comercializarse producto cuya calidad no cumpla los estándares de la
 
 ## 11. Bebidas Devueltas por Clientes
 
-Se considera aceptable:
-
-* Desecho de bebidas cuando exista error de preparación.  
-* Desecho de bebidas por reclamaciones justificadas.
+<ul class="do">
+<li>Desecho de bebidas cuando exista error de preparación</li>
+<li>Desecho de bebidas por reclamaciones justificadas</li>
+</ul>
 
 La empresa priorizará la satisfacción del cliente sobre la recuperación económica del producto.
 
@@ -193,14 +193,13 @@ La investigación tendrá como finalidad identificar causas operativas y oportun
 
 ## 14. Conductas No Consideradas Merma Operativa
 
-No se consideran mermas aceptables:
-
-* Consumo personal no autorizado.  
-* Desperdicio deliberado.  
-* Ocultamiento de producto.  
-* Manipulación de registros.  
-* Uso de producto para fines ajenos a la operación.  
-* Sustracción de mercancía.
+!!! danger "No se consideran mermas aceptables"
+    - Consumo personal no autorizado.
+    - Desperdicio deliberado.
+    - Ocultamiento de producto.
+    - Manipulación de registros.
+    - Uso de producto para fines ajenos a la operación.
+    - Sustracción de mercancía.
 
 Estas conductas podrán clasificarse como faltas graves o muy graves conforme a la normativa interna de la empresa.
 

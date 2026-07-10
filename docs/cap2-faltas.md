@@ -28,7 +28,7 @@ Conductas que afectan la operación, imagen o disciplina **sin** poner en riesgo
 
 <div class="sev grave" markdown>
 
-### :material-alert:{ } Faltas graves <span class="tag">Nivel 2</span>
+### :material-alert: Faltas graves <span class="tag">Nivel 2</span>
 
 Conductas que afectan **significativamente** la operación, la seguridad alimentaria, la imagen del establecimiento o el ambiente laboral.
 

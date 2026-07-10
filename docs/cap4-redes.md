@@ -12,13 +12,7 @@ La empresa reconoce el derecho de cada persona a mantener y utilizar sus redes s
 
 Esta política aplica a:
 
-* Publicaciones en redes sociales.  
-* Mensajería instantánea.  
-* Foros digitales.  
-* Plataformas de video.  
-* Blogs.  
-* Podcasts.  
-* Cualquier medio digital de comunicación pública.
+<div class="chips"><span>Publicaciones en redes sociales</span><span>Mensajería instantánea</span><span>Foros digitales</span><span>Plataformas de video</span><span>Blogs</span><span>Podcasts</span><span>Cualquier medio digital de comunicación pública</span></div>
 
 ---
 
@@ -26,10 +20,12 @@ Esta política aplica a:
 
 Todo colaborador deberá:
 
-* Actuar con respeto y profesionalismo.  
-* Proteger la información interna de la empresa.  
-* Evitar publicaciones que puedan dañar la reputación de la organización.  
-* Respetar la privacidad de clientes, compañeros y proveedores.
+<ul class="do">
+<li>Actuar con respeto y profesionalismo</li>
+<li>Proteger la información interna de la empresa</li>
+<li>Evitar publicaciones que puedan dañar la reputación de la organización</li>
+<li>Respetar la privacidad de clientes, compañeros y proveedores</li>
+</ul>
 
 La empresa no pretende supervisar la actividad privada de los colaboradores fuera del ámbito laboral, salvo cuando ésta genere afectaciones directas a la organización.
 
@@ -39,16 +35,15 @@ La empresa no pretende supervisar la actividad privada de los colaboradores fuer
 
 Se permite compartir:
 
-* Experiencias laborales positivas.  
-* Actividades autorizadas por la empresa.  
-* Eventos públicos.  
-* Contenido previamente autorizado para difusión.
+<div class="chips"><span>Experiencias laborales positivas</span><span>Actividades autorizadas por la empresa</span><span>Eventos públicos</span><span>Contenido previamente autorizado para difusión</span></div>
 
 Siempre que dicha información:
 
-* Sea veraz.  
-* No revele información confidencial.  
-* No afecte la reputación de terceros.
+<ul class="do">
+<li>Sea veraz</li>
+<li>No revele información confidencial</li>
+<li>No afecte la reputación de terceros</li>
+</ul>
 
 ---
 
@@ -56,20 +51,10 @@ Siempre que dicha información:
 
 Se considera información confidencial, entre otra:
 
-* Costos y márgenes.  
-* Información financiera.  
-* Ventas.  
-* Inventarios.  
-* Datos de clientes.  
-* Datos personales de colaboradores.  
-* Recetas propietarias.  
-* Procesos internos no públicos.  
-* Estrategias comerciales.  
-* Contratos.  
-* Acuerdos con proveedores.  
-* Información de desarrollo de productos.
+<div class="chips"><span>Costos y márgenes</span><span>Información financiera</span><span>Ventas</span><span>Inventarios</span><span>Datos de clientes</span><span>Datos personales de colaboradores</span><span>Recetas propietarias</span><span>Procesos internos no públicos</span><span>Estrategias comerciales</span><span>Contratos</span><span>Acuerdos con proveedores</span><span>Información de desarrollo de productos</span></div>
 
-Queda prohibida su divulgación sin autorización expresa.
+!!! danger "Queda prohibido"
+    Su divulgación sin autorización expresa.
 
 ---
 
@@ -77,10 +62,12 @@ Queda prohibida su divulgación sin autorización expresa.
 
 Se permite tomar fotografías o videos personales siempre que:
 
-* No interfieran con la operación.  
-* No comprometan la seguridad alimentaria.  
-* No expongan información confidencial.  
-* No afecten la privacidad de terceros.
+<ul class="do">
+<li>No interfieran con la operación</li>
+<li>No comprometan la seguridad alimentaria</li>
+<li>No expongan información confidencial</li>
+<li>No afecten la privacidad de terceros</li>
+</ul>
 
 La empresa podrá restringir la toma de imágenes en áreas específicas cuando existan razones operativas o de confidencialidad.
 
@@ -88,12 +75,11 @@ La empresa podrá restringir la toma de imágenes en áreas específicas cuando 
 
 ## 7. Clientes
 
-Queda prohibido:
-
-* Publicar fotografías de clientes sin su consentimiento.  
-* Compartir información personal de clientes.  
-* Difundir conversaciones privadas.  
-* Ridiculizar, exhibir o desacreditar clientes.
+!!! danger "Queda prohibido"
+    - Publicar fotografías de clientes sin su consentimiento.
+    - Compartir información personal de clientes.
+    - Difundir conversaciones privadas.
+    - Ridiculizar, exhibir o desacreditar clientes.
 
 La experiencia y privacidad de los clientes deberán respetarse en todo momento.
 
@@ -101,12 +87,11 @@ La experiencia y privacidad de los clientes deberán respetarse en todo momento.
 
 ## 8. Compañeros de Trabajo y Proveedores
 
-Queda prohibido:
-
-* Difundir información privada de compañeros.  
-* Publicar contenido de acoso u hostigamiento.  
-* Compartir información personal sin consentimiento.  
-* Realizar publicaciones destinadas a humillar, intimidar o perjudicar a otras personas relacionadas con la empresa.
+!!! danger "Queda prohibido"
+    - Difundir información privada de compañeros.
+    - Publicar contenido de acoso u hostigamiento.
+    - Compartir información personal sin consentimiento.
+    - Realizar publicaciones destinadas a humillar, intimidar o perjudicar a otras personas relacionadas con la empresa.
 
 ---
 
@@ -122,10 +107,12 @@ Su utilización con fines comerciales requerirá autorización previa.
 
 Únicamente las personas autorizadas podrán:
 
-* Emitir comunicados oficiales.  
-* Responder a medios de comunicación.  
-* Realizar declaraciones institucionales.  
-* Representar públicamente la postura de la empresa.
+<ul class="do">
+<li>Emitir comunicados oficiales</li>
+<li>Responder a medios de comunicación</li>
+<li>Realizar declaraciones institucionales</li>
+<li>Representar públicamente la postura de la empresa</li>
+</ul>
 
 Ningún colaborador deberá presentarse como portavoz oficial sin autorización expresa.
 
@@ -133,15 +120,14 @@ Ningún colaborador deberá presentarse como portavoz oficial sin autorización 
 
 ## 11. Contenido Prohibido
 
-Queda prohibido publicar contenido que:
-
-* Revele información confidencial.  
-* Dañe deliberadamente la reputación de la empresa.  
-* Difunda información falsa relacionada con la organización.  
-* Promueva discriminación, violencia o acoso.  
-* Muestre incumplimientos deliberados de normas sanitarias o de seguridad.  
-* Muestre consumo de sustancias prohibidas dentro de las instalaciones.  
-* Muestre conductas contrarias a las políticas internas mientras se representa a la empresa.
+!!! danger "Queda prohibido publicar contenido que"
+    - Revele información confidencial.
+    - Dañe deliberadamente la reputación de la empresa.
+    - Difunda información falsa relacionada con la organización.
+    - Promueva discriminación, violencia o acoso.
+    - Muestre incumplimientos deliberados de normas sanitarias o de seguridad.
+    - Muestre consumo de sustancias prohibidas dentro de las instalaciones.
+    - Muestre conductas contrarias a las políticas internas mientras se representa a la empresa.
 
 ---
 
@@ -149,18 +135,19 @@ Queda prohibido publicar contenido que:
 
 Las cuentas oficiales de la empresa:
 
-* Son propiedad de la organización.  
-* No pertenecen a colaboradores individuales.  
-* Deberán utilizarse exclusivamente para fines autorizados.
+<ul class="do">
+<li>Son propiedad de la organización</li>
+<li>No pertenecen a colaboradores individuales</li>
+<li>Deberán utilizarse exclusivamente para fines autorizados</li>
+</ul>
 
 Todo acceso deberá mantenerse protegido y confidencial.
 
-Queda prohibido:
-
-* Compartir contraseñas sin autorización.  
-* Eliminar contenido sin autorización.  
-* Modificar configuraciones sin autorización.  
-* Utilizar cuentas oficiales para fines personales.
+!!! danger "Queda prohibido"
+    - Compartir contraseñas sin autorización.
+    - Eliminar contenido sin autorización.
+    - Modificar configuraciones sin autorización.
+    - Utilizar cuentas oficiales para fines personales.
 
 ---
 
@@ -168,9 +155,11 @@ Queda prohibido:
 
 La generación de contenido para redes sociales deberá:
 
-* Formar parte de las funciones asignadas.  
-* Contar con autorización cuando corresponda.  
-* No afectar la calidad del servicio.
+<ul class="do">
+<li>Formar parte de las funciones asignadas</li>
+<li>Contar con autorización cuando corresponda</li>
+<li>No afectar la calidad del servicio</li>
+</ul>
 
 La atención a clientes siempre tendrá prioridad sobre la generación de contenido.
 
@@ -186,11 +175,13 @@ Todo material desarrollado dentro de las funciones laborales para la empresa pod
 
 Todo colaborador deberá informar cuando detecte:
 
-* Publicaciones falsas relacionadas con la empresa.  
-* Uso indebido de marcas.  
-* Suplantación de identidad.  
-* Filtración de información interna.  
-* Riesgos significativos para la reputación de la organización.
+<ul class="do">
+<li>Publicaciones falsas relacionadas con la empresa</li>
+<li>Uso indebido de marcas</li>
+<li>Suplantación de identidad</li>
+<li>Filtración de información interna</li>
+<li>Riesgos significativos para la reputación de la organización</li>
+</ul>
 
 ---
 

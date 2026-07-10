@@ -1,6 +1,6 @@
 # 4.2 Política de Inventarios y Control de Mermas
 
-### 1. Objetivo
+## 1. Objetivo
 
 Establecer los lineamientos para la recepción, almacenamiento, control, uso, registro y disposición de materias primas, productos terminados, insumos, materiales de operación y mercancías, con el fin de garantizar la integridad del inventario, reducir pérdidas y mantener la rentabilidad de la empresa.
 
@@ -10,11 +10,13 @@ Esta política es obligatoria para todo colaborador que tenga acceso a inventari
 
 ## 2. Principios Generales
 
-1. Todo producto que ingrese a la empresa deberá ser identificable y registrable.  
-2. Todo producto que salga del inventario deberá contar con una justificación operativa, comercial o administrativa.  
-3. Ninguna merma deberá ocultarse o registrarse de manera incorrecta.  
-4. La transparencia en el manejo de inventarios es responsabilidad de todos los colaboradores.  
-5. La reducción de mermas es una responsabilidad compartida por todo el equipo.
+<ul class="do">
+<li>Todo producto que ingrese a la empresa es identificable y registrable</li>
+<li>Todo producto que salga del inventario cuenta con una justificación operativa, comercial o administrativa</li>
+<li>Ninguna merma se oculta o se registra de manera incorrecta</li>
+<li>La transparencia en el manejo de inventarios es responsabilidad de todos los colaboradores</li>
+<li>La reducción de mermas es una responsabilidad compartida por todo el equipo</li>
+</ul>
 
 ---
 
@@ -22,21 +24,22 @@ Esta política es obligatoria para todo colaborador que tenga acceso a inventari
 
 Al recibir mercancía deberá verificarse:
 
-* Cantidad recibida.  
-* Estado físico del producto.  
-* Fechas de caducidad o consumo preferente.  
-* Integridad de empaques.  
-* Coincidencia con la orden de compra o remisión.
+<ul class="do">
+<li>Cantidad recibida</li>
+<li>Estado físico del producto</li>
+<li>Fechas de caducidad o consumo preferente</li>
+<li>Integridad de empaques</li>
+<li>Coincidencia con la orden de compra o remisión</li>
+</ul>
 
 Cualquier anomalía deberá reportarse inmediatamente.
 
-No deberán recibirse productos:
-
-* Caducados.  
-* Dañados.  
-* Contaminados.  
-* Con evidencia de plagas.  
-* Que no cumplan las especificaciones acordadas.
+!!! danger "No deberán recibirse productos"
+    - Caducados.
+    - Dañados.
+    - Contaminados.
+    - Con evidencia de plagas.
+    - Que no cumplan las especificaciones acordadas.
 
 ---
 
@@ -44,10 +47,12 @@ No deberán recibirse productos:
 
 Todos los productos deberán almacenarse:
 
-* En condiciones adecuadas para su conservación.  
-* Conforme a los procedimientos de inocuidad.  
-* Correctamente identificados.  
-* Protegidos contra contaminación, humedad y plagas.
+<ul class="do">
+<li>En condiciones adecuadas para su conservación</li>
+<li>Conforme a los procedimientos de inocuidad</li>
+<li>Correctamente identificados</li>
+<li>Protegidos contra contaminación, humedad y plagas</li>
+</ul>
 
 Los alimentos, bebidas y materiales deberán mantenerse organizados para facilitar su rotación.
 
@@ -71,14 +76,7 @@ Todo movimiento deberá ser justificable y, cuando corresponda, registrarse.
 
 Se consideran movimientos válidos:
 
-* Venta.  
-* Producción.  
-* Consumo interno autorizado.  
-* Degustaciones autorizadas.  
-* Cortesías autorizadas.  
-* Transferencias.  
-* Ajustes autorizados.  
-* Mermas registradas.
+<div class="chips"><span>Venta</span><span>Producción</span><span>Consumo interno autorizado</span><span>Degustaciones autorizadas</span><span>Cortesías autorizadas</span><span>Transferencias</span><span>Ajustes autorizados</span><span>Mermas registradas</span></div>
 
 ---
 
@@ -94,11 +92,9 @@ Derivada de actividades normales de trabajo.
 
 Ejemplos:
 
-* Calibración de espresso.  
-* Pruebas de recetas.  
-* Catas.  
-* Ajustes de molienda.  
-* Purgas necesarias.
+<div class="chips">
+<span>Calibración de espresso</span><span>Pruebas de recetas</span><span>Catas</span><span>Ajustes de molienda</span><span>Purgas necesarias</span>
+</div>
 
 #### Merma por Producción
 
@@ -106,9 +102,9 @@ Derivada de procesos de preparación.
 
 Ejemplos:
 
-* Derrames accidentales.  
-* Errores de preparación.  
-* Desperdicios inevitables.
+<div class="chips">
+<span>Derrames accidentales</span><span>Errores de preparación</span><span>Desperdicios inevitables</span>
+</div>
 
 #### Merma por Caducidad
 
@@ -124,10 +120,9 @@ Pérdidas derivadas de eventos fuera de lo normal.
 
 Ejemplos:
 
-* Fallas eléctricas.  
-* Averías de equipos.  
-* Desastres naturales.  
-* Plagas.
+<div class="chips">
+<span>Fallas eléctricas</span><span>Averías de equipos</span><span>Desastres naturales</span><span>Plagas</span>
+</div>
 
 ---
 
@@ -137,11 +132,7 @@ Toda merma deberá registrarse cuando los procedimientos internos así lo requie
 
 El registro deberá incluir:
 
-* Producto.  
-* Cantidad.  
-* Motivo.  
-* Fecha.  
-* Responsable del registro.
+<div class="chips"><span>Producto</span><span>Cantidad</span><span>Motivo</span><span>Fecha</span><span>Responsable del registro</span></div>
 
 La omisión deliberada de mermas podrá considerarse una falta disciplinaria.
 
@@ -167,10 +158,7 @@ No constituyen mermas cuando formen parte de estrategias comerciales o de capaci
 
 La empresa podrá realizar:
 
-* Inventarios diarios.  
-* Inventarios semanales.  
-* Inventarios mensuales.  
-* Auditorías extraordinarias.
+<div class="chips"><span>Inventarios diarios</span><span>Inventarios semanales</span><span>Inventarios mensuales</span><span>Auditorías extraordinarias</span></div>
 
 Todo colaborador deberá colaborar durante los procesos de conteo y verificación.
 
@@ -180,9 +168,11 @@ Todo colaborador deberá colaborar durante los procesos de conteo y verificació
 
 Cuando se detecten diferencias:
 
-* Deberán investigarse las posibles causas.  
-* Deberán verificarse registros de ventas, producción, mermas y consumos.  
-* Deberán documentarse los hallazgos.
+<ul class="do">
+<li>Se investigan las posibles causas</li>
+<li>Se verifican registros de ventas, producción, mermas y consumos</li>
+<li>Se documentan los hallazgos</li>
+</ul>
 
 Las diferencias no implican automáticamente responsabilidad individual.
 
@@ -192,10 +182,12 @@ Las diferencias no implican automáticamente responsabilidad individual.
 
 Los productos cercanos a su fecha límite deberán identificarse oportunamente para:
 
-* Favorecer su rotación.  
-* Implementar promociones.  
-* Autorizar su consumo interno cuando proceda.  
-* Evitar desperdicios innecesarios.
+<ul class="do">
+<li>Favorecer su rotación</li>
+<li>Implementar promociones</li>
+<li>Autorizar su consumo interno cuando proceda</li>
+<li>Evitar desperdicios innecesarios</li>
+</ul>
 
 ---
 
@@ -203,12 +195,11 @@ Los productos cercanos a su fecha límite deberán identificarse oportunamente p
 
 Todo producto caducado, contaminado o no apto para consumo deberá retirarse inmediatamente del inventario activo.
 
-Queda prohibido:
-
-* Alterar fechas.  
-* Reetiquetar productos vencidos.  
-* Mezclar producto nuevo con producto vencido.  
-* Comercializar productos cuya inocuidad sea cuestionable.
+!!! danger "Queda prohibido"
+    - Alterar fechas.
+    - Reetiquetar productos vencidos.
+    - Mezclar producto nuevo con producto vencido.
+    - Comercializar productos cuya inocuidad sea cuestionable.
 
 ---
 
@@ -216,26 +207,27 @@ Queda prohibido:
 
 Todo colaborador deberá:
 
-* Utilizar correctamente los insumos.  
-* Reportar faltantes o anomalías.  
-* Registrar información cuando corresponda.  
-* Evitar desperdicios innecesarios.  
-* Seguir procedimientos de conservación y rotación.
+<ul class="do">
+<li>Utilizar correctamente los insumos</li>
+<li>Reportar faltantes o anomalías</li>
+<li>Registrar información cuando corresponda</li>
+<li>Evitar desperdicios innecesarios</li>
+<li>Seguir procedimientos de conservación y rotación</li>
+</ul>
 
 ---
 
 ## 16. Conductas Consideradas Graves o Muy Graves
 
-Podrán considerarse faltas graves o muy graves:
-
-* Ocultar mermas.  
-* Alterar registros.  
-* Sustraer producto sin autorización.  
-* Falsificar inventarios.  
-* Simular pérdidas inexistentes.  
-* Alterar fechas de elaboración o caducidad.  
-* Comercializar productos no aptos para consumo.  
-* Utilizar productos para fines personales sin autorización.
+!!! danger "Podrán considerarse faltas graves o muy graves"
+    - Ocultar mermas.
+    - Alterar registros.
+    - Sustraer producto sin autorización.
+    - Falsificar inventarios.
+    - Simular pérdidas inexistentes.
+    - Alterar fechas de elaboración o caducidad.
+    - Comercializar productos no aptos para consumo.
+    - Utilizar productos para fines personales sin autorización.
 
 ---
 

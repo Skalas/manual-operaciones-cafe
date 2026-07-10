@@ -14,11 +14,9 @@ La calidad del café es responsabilidad de todo el equipo.
 
 En el establecimiento creemos que un excelente café depende de cinco factores:
 
-* Materia prima  
-* Conservación  
-* Molienda  
-* Extracción  
-* Hospitalidad
+<div class="chips">
+<span>Materia prima</span><span>Conservación</span><span>Molienda</span><span>Extracción</span><span>Hospitalidad</span>
+</div>
 
 La experiencia completa del cliente comienza antes de servir la bebida.
 
@@ -30,11 +28,13 @@ La experiencia completa del cliente comienza antes de servir la bebida.
 
 Todo café utilizado deberá cumplir con:
 
-* Libre de defectos visibles  
-* Trazabilidad conocida  
-* Fecha de tueste identificada  
-* Etiquetado completo  
-* Conservación adecuada
+<ul class="do">
+<li>Libre de defectos visibles</li>
+<li>Trazabilidad conocida</li>
+<li>Fecha de tueste identificada</li>
+<li>Etiquetado completo</li>
+<li>Conservación adecuada</li>
+</ul>
 
 ---
 
@@ -48,11 +48,13 @@ Los tiempos de conservación y vida útil de todos los insumos y bebidas se defi
 
 El café deberá mantenerse:
 
-* Entre 18 y 24°C  
-* Alejado de luz solar  
-* Sin humedad  
-* Sin olores fuertes  
-* En recipientes herméticos
+<div class="spec-grid">
+  <div class="spec"><p class="label">Temperatura</p><span class="value">18–24</span> <span class="unit">°C</span></div>
+</div>
+
+<div class="chips">
+<span>Alejado de luz solar</span><span>Sin humedad</span><span>Sin olores fuertes</span><span>En recipientes herméticos</span>
+</div>
 
 Nunca deberá almacenarse junto a productos químicos.
 
@@ -62,23 +64,17 @@ Nunca deberá almacenarse junto a productos químicos.
 
 Antes de comenzar el servicio deberá verificarse:
 
-☐ Máquina estabilizada
-
-☐ Presión correcta
-
-☐ Temperatura correcta
-
-☐ Molino limpio
-
-☐ Tolva limpia
-
-☐ Café fresco
-
-☐ Agua disponible
-
-☐ Filtros limpios
-
-☐ Vaporizadores purgados
+<ul class="do">
+<li>Máquina estabilizada</li>
+<li>Presión correcta</li>
+<li>Temperatura correcta</li>
+<li>Molino limpio</li>
+<li>Tolva limpia</li>
+<li>Café fresco</li>
+<li>Agua disponible</li>
+<li>Filtros limpios</li>
+<li>Vaporizadores purgados</li>
+</ul>
 
 ---
 
@@ -101,61 +97,14 @@ Los valores podrán ajustarse según el café utilizado. Toda calibración deber
 
 Cada espresso deberá evaluarse considerando:
 
-Aroma
-
-☐ Excelente
-
-☐ Bueno
-
-☐ Deficiente
-
----
-
-Acidez
-
-☐ Balanceada
-
-☐ Alta
-
-☐ Baja
-
----
-
-Dulzor
-
-☐ Alto
-
-☐ Medio
-
-☐ Bajo
-
----
-
-Amargor
-
-☐ Balanceado
-
-☐ Excesivo
-
----
-
-Cuerpo
-
-☐ Ligero
-
-☐ Medio
-
-☐ Alto
-
----
-
-Postgusto
-
-☐ Limpio
-
-☐ Persistente
-
-☐ Corto
+| Atributo | Opciones |
+| ----- | ----- |
+| Aroma | ☐ Excelente · ☐ Bueno · ☐ Deficiente |
+| Acidez | ☐ Balanceada · ☐ Alta · ☐ Baja |
+| Dulzor | ☐ Alto · ☐ Medio · ☐ Bajo |
+| Amargor | ☐ Balanceado · ☐ Excesivo |
+| Cuerpo | ☐ Ligero · ☐ Medio · ☐ Alto |
+| Postgusto | ☐ Limpio · ☐ Persistente · ☐ Corto |
 
 ---
 
@@ -163,13 +112,9 @@ Postgusto
 
 Toda receta oficial deberá incluir:
 
-* Gramaje  
-* Tiempo  
-* Tipo de molienda  
-* Temperatura  
-* Cantidad de leche  
-* Tipo de vaso  
-* Decoración
+<div class="chips">
+<span>Gramaje</span><span>Tiempo</span><span>Tipo de molienda</span><span>Temperatura</span><span>Cantidad de leche</span><span>Tipo de vaso</span><span>Decoración</span>
+</div>
 
 No se permite modificar recetas sin autorización.
 
@@ -190,17 +135,9 @@ No reutilizar leche vaporizada.
 
 Cada método deberá respetar:
 
-Relación agua/café
-
-Temperatura
-
-Tiempo
-
-Agitación
-
-Tipo de molienda
-
-Agua filtrada
+<div class="chips">
+<span>Relación agua/café</span><span>Temperatura</span><span>Tiempo</span><span>Agitación</span><span>Tipo de molienda</span><span>Agua filtrada</span>
+</div>
 
 ---
 
@@ -218,38 +155,40 @@ Toda preparación utilizará agua filtrada. Parámetros ideales:
 
 ## 12. Control de Molinos
 
-Cada apertura:
+### Cada apertura
 
-☐ Limpieza
+<ul class="do">
+<li>Limpieza</li>
+<li>Ajuste</li>
+<li>Calibración</li>
+</ul>
 
-☐ Ajuste
+### Cada cierre
 
-☐ Calibración
+<ul class="do">
+<li>Cepillado</li>
+<li>Purga</li>
+</ul>
 
-Cada cierre:
+### Semanal
 
-☐ Cepillado
-
-☐ Purga
-
-Semanal:
-
-☐ Limpieza profunda
+<ul class="do">
+<li>Limpieza profunda</li>
+</ul>
 
 ---
 
 ## 13. Criterios para repetir una bebida
 
-Una bebida deberá prepararse nuevamente cuando presente cualquiera de las siguientes condiciones:
-
-* Extracción incorrecta.  
-* Leche sobrecalentada.  
-* Latte art deteriorado cuando aplique.  
-* Error en receta.  
-* Error en tamaño.  
-* Error en personalización.  
-* Contaminación del producto.  
-* Derrames o mala presentación.
+!!! warning "Repetir la bebida si…"
+    * Extracción incorrecta.
+    * Leche sobrecalentada.
+    * Latte art deteriorado cuando aplique.
+    * Error en receta.
+    * Error en tamaño.
+    * Error en personalización.
+    * Contaminación del producto.
+    * Derrames o mala presentación.
 
 Nunca se entregará un producto que no cumpla con el estándar.
 

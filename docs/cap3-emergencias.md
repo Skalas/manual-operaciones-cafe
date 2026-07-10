@@ -34,26 +34,34 @@ Toda emergencia deberá atenderse bajo los siguientes principios:
 
 ## 4. Roles y Responsabilidades
 
-### Responsable de turno
+<div class="grid cards" markdown>
 
-* Dirigir la respuesta.  
-* Coordinar evacuaciones.  
-* Solicitar apoyo externo.  
-* Autorizar el cierre temporal.
+-   :material-account-tie:{ .lg } __Responsable de turno__
 
-### Personal operativo
+    <ul class="do">
+    <li>Dirigir la respuesta</li>
+    <li>Coordinar evacuaciones</li>
+    <li>Solicitar apoyo externo</li>
+    <li>Autorizar el cierre temporal</li>
+    </ul>
 
-* Mantener la calma.  
-* Seguir instrucciones.  
-* Auxiliar a clientes.  
-* No actuar fuera de su capacitación.
+-   :material-account-hard-hat:{ .lg } __Personal operativo__
+
+    <ul class="do">
+    <li>Mantener la calma</li>
+    <li>Seguir instrucciones</li>
+    <li>Auxiliar a clientes</li>
+    <li>No actuar fuera de su capacitación</li>
+    </ul>
+
+</div>
 
 ---
 
 ## 5. Emergencias Contempladas
 
 <div class="chips">
-<span>Incendio</span><span>Sismo</span><span>Fuga de gas</span><span>Falla eléctrica</span><span>Inundación</span><span>Robo</span><span>Asalto</span><span>Persona lesionada</span><span>Cliente inconsciente</span><span>Quemaduras</span><span>Cortaduras</span><span>Derrames químicos</span><span>Contaminación alimentaria</span><span>Intoxicación</span><span>Amenaza externa</span><span>Visitas de autoridad (COFEPRIS, Protección Civil)</span>
+<span>Incendio</span><span>Sismo</span><span>Fuga de gas</span><span>Falla eléctrica</span><span>Inundación</span><span>Robo</span><span>Asalto</span><span>Persona lesionada</span><span>Cliente inconsciente</span><span>Quemaduras</span><span>Cortaduras</span><span>Derrames químicos</span><span>Contaminación alimentaria</span><span>Intoxicación</span><span>Amenaza externa</span><span>Visitas de autoridad (COFEPRIS, Protección Civil u otras)</span>
 </div>
 
 ---
@@ -167,21 +175,25 @@ Cuando se presente una autoridad competente:
 
 El establecimiento deberá contar, como mínimo, con:
 
-* Botiquín de primeros auxilios completo.  
-* Extintores vigentes y señalizados.  
-* Señalización de rutas de evacuación.  
-* Lámparas de emergencia.  
-* Lista visible de teléfonos de emergencia.  
-* Croquis con punto de reunión.
+<ul class="do">
+<li>Botiquín de primeros auxilios completo</li>
+<li>Extintores vigentes y señalizados</li>
+<li>Señalización de rutas de evacuación</li>
+<li>Lámparas de emergencia</li>
+<li>Lista visible de teléfonos de emergencia</li>
+<li>Croquis con punto de reunión</li>
+</ul>
 
 ---
 
 ## 16. Capacitación y Simulacros
 
-* Inducción obligatoria para todo colaborador de nuevo ingreso.  
-* Capacitación anual en uso de extintores y primeros auxilios.  
-* Simulacros de evacuación al menos dos veces por año.  
-* Registro documental de cada simulacro y de las acciones de mejora identificadas.
+<ul class="do">
+<li>Inducción obligatoria para todo colaborador de nuevo ingreso</li>
+<li>Capacitación anual en uso de extintores y primeros auxilios</li>
+<li>Simulacros de evacuación al menos dos veces por año</li>
+<li>Registro documental de cada simulacro y de las acciones de mejora identificadas</li>
+</ul>
 
 ---
 
@@ -189,12 +201,6 @@ El establecimiento deberá contar, como mínimo, con:
 
 Toda emergencia deberá documentarse mediante un reporte que incluya:
 
-* Fecha y hora.  
-* Tipo de incidente.  
-* Personas involucradas.  
-* Descripción de los hechos.  
-* Acciones realizadas.  
-* Daños materiales o personales.  
-* Causa raíz (cuando sea posible determinarla).  
-* Acciones correctivas y preventivas.  
-* Responsable del seguimiento y fecha de cierre del incidente.
+<div class="chips">
+<span>Fecha y hora</span><span>Tipo de incidente</span><span>Personas involucradas</span><span>Descripción de los hechos</span><span>Acciones realizadas</span><span>Daños materiales o personales</span><span>Causa raíz (cuando sea posible)</span><span>Acciones correctivas y preventivas</span><span>Responsable del seguimiento</span><span>Fecha de cierre</span>
+</div>

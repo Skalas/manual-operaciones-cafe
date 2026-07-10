@@ -10,11 +10,13 @@ Esta política es de cumplimiento obligatorio para todo colaborador que tenga ac
 
 ## 2. Principios Generales
 
-1. Todo ingreso deberá registrarse en el sistema de venta autorizado por la empresa.  
-2. Ninguna venta podrá realizarse fuera de los mecanismos oficiales de cobro.  
-3. Todo movimiento de efectivo deberá ser verificable.  
-4. Los fondos de la empresa deberán mantenerse separados del dinero personal de los colaboradores.  
-5. El manejo de efectivo deberá realizarse con honestidad, precisión y transparencia.
+<ul class="do">
+<li>Todo ingreso se registra en el sistema de venta autorizado por la empresa</li>
+<li>Ninguna venta se realiza fuera de los mecanismos oficiales de cobro</li>
+<li>Todo movimiento de efectivo es verificable</li>
+<li>Los fondos de la empresa se mantienen separados del dinero personal de los colaboradores</li>
+<li>El manejo de efectivo se realiza con honestidad, precisión y transparencia</li>
+</ul>
 
 ---
 
@@ -24,9 +26,11 @@ La empresa podrá asignar un fondo de caja para operaciones diarias.
 
 Al inicio de cada turno:
 
-* El responsable deberá verificar el monto asignado.  
-* Cualquier diferencia deberá reportarse inmediatamente.  
-* El fondo deberá registrarse conforme a los procedimientos internos.
+<ul class="do">
+<li>El responsable verifica el monto asignado</li>
+<li>Cualquier diferencia se reporta inmediatamente</li>
+<li>El fondo se registra conforme a los procedimientos internos</li>
+</ul>
 
 Ningún colaborador podrá modificar el monto del fondo sin autorización.
 
@@ -36,16 +40,17 @@ Ningún colaborador podrá modificar el monto del fondo sin autorización.
 
 Toda venta deberá:
 
-* Registrarse antes de entregar el producto.  
-* Emitirse mediante el sistema autorizado.  
-* Reflejar correctamente productos, cantidades y precios.
+<ul class="do">
+<li>Registrarse antes de entregar el producto</li>
+<li>Emitirse mediante el sistema autorizado</li>
+<li>Reflejar correctamente productos, cantidades y precios</li>
+</ul>
 
-Queda prohibido:
-
-* Omitir registros.  
-* Registrar ventas ficticias.  
-* Alterar precios sin autorización.  
-* Utilizar cuentas alternas para ocultar operaciones.
+!!! danger "Queda prohibido"
+    - Omitir registros.
+    - Registrar ventas ficticias.
+    - Alterar precios sin autorización.
+    - Utilizar cuentas alternas para ocultar operaciones.
 
 ---
 
@@ -53,16 +58,17 @@ Queda prohibido:
 
 El efectivo recibido deberá:
 
-* Verificarse al momento de la transacción.  
-* Guardarse inmediatamente en caja.  
-* Mantenerse protegido durante la jornada.
+<ul class="do">
+<li>Verificarse al momento de la transacción</li>
+<li>Guardarse inmediatamente en caja</li>
+<li>Mantenerse protegido durante la jornada</li>
+</ul>
 
-Queda prohibido:
-
-* Utilizar efectivo de caja para fines personales.  
-* Prestar dinero de caja.  
-* Tomar dinero de caja sin autorización.  
-* Realizar compras personales con fondos de la empresa.
+!!! danger "Queda prohibido"
+    - Utilizar efectivo de caja para fines personales.
+    - Prestar dinero de caja.
+    - Tomar dinero de caja sin autorización.
+    - Realizar compras personales con fondos de la empresa.
 
 ---
 
@@ -70,15 +76,16 @@ Queda prohibido:
 
 Todo colaborador autorizado para operar terminales deberá:
 
-* Verificar el monto antes de procesar el cobro.  
-* Entregar comprobantes cuando corresponda.  
-* Reportar fallas inmediatamente.
+<ul class="do">
+<li>Verificar el monto antes de procesar el cobro</li>
+<li>Entregar comprobantes cuando corresponda</li>
+<li>Reportar fallas inmediatamente</li>
+</ul>
 
-Queda prohibido:
-
-* Procesar cobros ajenos a la operación.  
-* Utilizar terminales para transacciones personales.  
-* Compartir contraseñas o accesos autorizados.
+!!! danger "Queda prohibido"
+    - Procesar cobros ajenos a la operación.
+    - Utilizar terminales para transacciones personales.
+    - Compartir contraseñas o accesos autorizados.
 
 ---
 
@@ -86,9 +93,11 @@ Queda prohibido:
 
 Toda cancelación o reembolso deberá:
 
-* Contar con justificación documentada.  
-* Seguir los procedimientos internos establecidos.  
-* Ser autorizada por el personal facultado.
+<ul class="do">
+<li>Contar con justificación documentada</li>
+<li>Seguir los procedimientos internos establecidos</li>
+<li>Ser autorizada por el personal facultado</li>
+</ul>
 
 Las cancelaciones no autorizadas podrán ser sujetas a investigación.
 
@@ -100,9 +109,11 @@ Los descuentos y cortesías únicamente podrán otorgarse por personas autorizad
 
 Todo descuento deberá:
 
-* Registrarse.  
-* Justificarse.  
-* Ser identificable en el sistema cuando corresponda.
+<ul class="do">
+<li>Registrarse</li>
+<li>Justificarse</li>
+<li>Ser identificable en el sistema cuando corresponda</li>
+</ul>
 
 Queda prohibido aplicar descuentos personales sin autorización.
 
@@ -112,10 +123,7 @@ Queda prohibido aplicar descuentos personales sin autorización.
 
 La empresa podrá realizar arqueos:
 
-* Programados.  
-* Aleatorios.  
-* Preventivos.  
-* Derivados de auditorías internas.
+<div class="chips"><span>Programados</span><span>Aleatorios</span><span>Preventivos</span><span>Derivados de auditorías internas</span></div>
 
 Todo colaborador deberá colaborar durante el proceso de verificación.
 
@@ -125,10 +133,12 @@ Todo colaborador deberá colaborar durante el proceso de verificación.
 
 Al finalizar cada turno deberá realizarse:
 
-* Conteo de efectivo.  
-* Verificación de terminales.  
-* Verificación de depósitos cuando corresponda.  
-* Registro de incidencias.
+<ul class="do">
+<li>Conteo de efectivo</li>
+<li>Verificación de terminales</li>
+<li>Verificación de depósitos cuando corresponda</li>
+<li>Registro de incidencias</li>
+</ul>
 
 Toda diferencia detectada deberá documentarse.
 
@@ -138,9 +148,11 @@ Toda diferencia detectada deberá documentarse.
 
 Cuando exista una diferencia entre el efectivo esperado y el efectivo encontrado:
 
-* Deberá registrarse inmediatamente.  
-* Deberá realizarse una revisión razonable de la operación.  
-* Deberán verificarse tickets, cancelaciones, descuentos y movimientos registrados.
+<ul class="do">
+<li>Se registra inmediatamente</li>
+<li>Se realiza una revisión razonable de la operación</li>
+<li>Se verifican tickets, cancelaciones, descuentos y movimientos registrados</li>
+</ul>
 
 La existencia de diferencias no implica automáticamente responsabilidad individual.
 
@@ -170,28 +182,29 @@ La empresa podrá solicitar que mochilas, carteras u objetos personales permanez
 
 Deberán reportarse inmediatamente:
 
-* Billetes presuntamente falsos.  
-* Intentos de fraude.  
-* Errores de cobro.  
-* Fallas de terminales.  
-* Pérdida de efectivo.  
-* Situaciones sospechosas relacionadas con valores de la empresa.
+<ul class="do">
+<li>Billetes presuntamente falsos</li>
+<li>Intentos de fraude</li>
+<li>Errores de cobro</li>
+<li>Fallas de terminales</li>
+<li>Pérdida de efectivo</li>
+<li>Situaciones sospechosas relacionadas con valores de la empresa</li>
+</ul>
 
 ---
 
 ## 15. Conductas Consideradas Graves o Muy Graves
 
-Podrán considerarse faltas graves o muy graves:
-
-* Omitir registros de venta.  
-* Alterar información financiera.  
-* Tomar efectivo sin autorización.  
-* Manipular arqueos.  
-* Falsificar comprobantes.  
-* Realizar cancelaciones fraudulentas.  
-* Apropiarse de propinas ajenas.  
-* Ocultar diferencias deliberadamente.  
-* Facilitar actos de robo o fraude.
+!!! danger "Podrán considerarse faltas graves o muy graves"
+    - Omitir registros de venta.
+    - Alterar información financiera.
+    - Tomar efectivo sin autorización.
+    - Manipular arqueos.
+    - Falsificar comprobantes.
+    - Realizar cancelaciones fraudulentas.
+    - Apropiarse de propinas ajenas.
+    - Ocultar diferencias deliberadamente.
+    - Facilitar actos de robo o fraude.
 
 ---
 

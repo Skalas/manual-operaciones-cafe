@@ -1,6 +1,6 @@
 # 1.1 Manual de Marca Operativa y Experiencia del Cliente
 
-### Objetivo
+## Objetivo
 
 Traducir la cultura, filosofía y valores de la empresa en comportamientos observables dentro de la operación diaria.
 
@@ -36,10 +36,9 @@ Una gran experiencia puede convertir una bebida en un recuerdo.
 
 Toda decisión operativa deberá considerar:
 
-* Al cliente.  
-* Al equipo.  
-* Al producto.  
-* A la comunidad.
+<div class="chips">
+<span>Al cliente</span><span>Al equipo</span><span>Al producto</span><span>A la comunidad</span>
+</div>
 
 ---
 
@@ -111,10 +110,9 @@ Toda decisión operativa deberá considerar:
 
 La comunicación deberá ser:
 
-* Clara.  
-* Cercana.  
-* Profesional.  
-* Respetuosa.
+<div class="chips">
+<span>Clara</span><span>Cercana</span><span>Profesional</span><span>Respetuosa</span>
+</div>
 
 ---
 
@@ -148,10 +146,12 @@ La presión operativa no modifica nuestros valores.
 
 Durante periodos de alta demanda:
 
-* Mantenemos respeto.  
-* Priorizamos comunicación clara.  
-* Ayudamos al equipo.  
-* Conservamos la hospitalidad.
+<ul class="do">
+<li>Mantenemos respeto</li>
+<li>Priorizamos comunicación clara</li>
+<li>Ayudamos al equipo</li>
+<li>Conservamos la hospitalidad</li>
+</ul>
 
 ---
 
@@ -163,11 +163,12 @@ Ocultarlos es inaceptable.
 
 Cuando ocurre un error:
 
-1. Reconocerlo.  
-2. Corregirlo.  
+1. Reconocerlo.
+2. Corregirlo.
 3. Aprender de él.
 
-Nunca discutir con el cliente para demostrar que tenemos razón.
+!!! warning "Nunca"
+    Discutir con el cliente para demostrar que tenemos razón.
 
 ---
 
@@ -194,11 +195,9 @@ Toda queja representa una oportunidad para mejorar.
 
 Creemos en:
 
-* Trazabilidad.  
-* Comercio responsable.  
-* Respeto al productor.  
-* Educación accesible.  
-* Calidad constante.
+<div class="chips">
+<span>Trazabilidad</span><span>Comercio responsable</span><span>Respeto al productor</span><span>Educación accesible</span><span>Calidad constante</span>
+</div>
 
 El café no debe utilizarse para excluir personas.
 
@@ -212,10 +211,12 @@ La experiencia del cliente nunca será mejor que la experiencia del equipo.
 
 Por ello:
 
-* Nos tratamos con respeto.  
-* Nos ayudamos mutuamente.  
-* Compartimos conocimiento.  
-* Corregimos sin humillar.
+<ul class="do">
+<li>Nos tratamos con respeto</li>
+<li>Nos ayudamos mutuamente</li>
+<li>Compartimos conocimiento</li>
+<li>Corregimos sin humillar</li>
+</ul>
 
 ---
 
@@ -223,9 +224,15 @@ Por ello:
 
 Cada cliente debe salir sintiendo al menos una de estas tres cosas:
 
-* Aprendí algo.  
-* Disfruté algo.  
-* Me sentí bien recibido.
+<div class="grid cards" markdown>
+
+-   :material-lightbulb-on:{ .lg } __Aprendí algo__
+
+-   :material-heart:{ .lg } __Disfruté algo__
+
+-   :material-hand-wave:{ .lg } __Me sentí bien recibido__
+
+</div>
 
 Si logramos una de ellas, estamos cumpliendo nuestra misión.
 

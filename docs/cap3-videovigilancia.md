@@ -16,11 +16,13 @@ Aplica a todas las cámaras y grabaciones de audio o video instaladas dentro de 
 
 La videovigilancia se utiliza únicamente para:
 
-* Proteger la integridad física de clientes, colaboradores y visitantes.  
-* Prevenir y documentar robos, fraudes o daños a bienes.  
-* Respaldar investigaciones internas conforme al apartado 2.3.  
-* Verificar el cumplimiento de procedimientos de seguridad, higiene y manejo de efectivo.  
-* Atender requerimientos de autoridades competentes conforme a la ley.
+<ul class="do">
+<li>Proteger la integridad física de clientes, colaboradores y visitantes</li>
+<li>Prevenir y documentar robos, fraudes o daños a bienes</li>
+<li>Respaldar investigaciones internas conforme al apartado 2.3</li>
+<li>Verificar el cumplimiento de procedimientos de seguridad, higiene y manejo de efectivo</li>
+<li>Atender requerimientos de autoridades competentes conforme a la ley</li>
+</ul>
 
 Queda prohibido utilizar las cámaras con fines distintos a los aquí señalados.
 
@@ -28,16 +30,20 @@ Queda prohibido utilizar las cámaras con fines distintos a los aquí señalados
 
 ## 4. Ubicación de las Cámaras
 
-* Las cámaras podrán instalarse en áreas de acceso, barra, caja, almacenes, áreas de preparación y espacios comunes.  
-* **Queda prohibido** instalar cámaras en sanitarios, vestidores o cualquier área donde exista una expectativa razonable de privacidad.
+Las cámaras podrán instalarse en áreas de acceso, barra, caja, almacenes, áreas de preparación y espacios comunes.
+
+!!! danger "Queda prohibido"
+    Instalar cámaras en sanitarios, vestidores o cualquier área donde exista una expectativa razonable de privacidad.
 
 ---
 
 ## 5. Aviso de Privacidad
 
-* La empresa colocará avisos visibles que informen a clientes y visitantes que el área está videovigilada.  
-* El personal será informado de la existencia del sistema al momento de su contratación y mediante este manual.  
-* El tratamiento de las imágenes se realizará conforme al aviso de privacidad de la empresa y a la Ley Federal de Protección de Datos Personales en Posesión de los Particulares (LFPDPPP).
+<ul class="do">
+<li>La empresa colocará avisos visibles que informen a clientes y visitantes que el área está videovigilada.</li>
+<li>El personal será informado de la existencia del sistema al momento de su contratación y mediante este manual.</li>
+<li>El tratamiento de las imágenes se realizará conforme al aviso de privacidad de la empresa y a la Ley Federal de Protección de Datos Personales en Posesión de los Particulares (LFPDPPP).</li>
+</ul>
 
 ---
 
@@ -56,28 +62,31 @@ Ningún otro colaborador podrá visualizar, copiar, extraer o difundir grabacion
 
 ## 7. Conservación y Resguardo
 
-* Las grabaciones se conservarán por un mínimo de **30 días naturales**, salvo que deban resguardarse por más tiempo debido a una investigación en curso o a un requerimiento legal.  
-* Los equipos de grabación y respaldo deberán mantenerse en un lugar seguro y con acceso restringido.  
-* Transcurrido el periodo de conservación, las grabaciones se eliminarán de forma segura, salvo las que estén sujetas a resguardo.
+<ul class="do">
+<li>Las grabaciones se conservarán por un mínimo de <strong>30 días naturales</strong>, salvo que deban resguardarse por más tiempo debido a una investigación en curso o a un requerimiento legal.</li>
+<li>Los equipos de grabación y respaldo deberán mantenerse en un lugar seguro y con acceso restringido.</li>
+<li>Transcurrido el periodo de conservación, las grabaciones se eliminarán de forma segura, salvo las que estén sujetas a resguardo.</li>
+</ul>
 
 ---
 
 ## 8. Uso en Investigaciones Internas
 
-* Las grabaciones podrán utilizarse como evidencia en investigaciones internas conforme al apartado 2.3 (Procedimiento de Investigación Interna).  
-* Su uso deberá ser proporcional, documentado y confidencial.  
-* La existencia de una grabación no sustituye el derecho de la persona involucrada a ser escuchada.
+<ul class="do">
+<li>Las grabaciones podrán utilizarse como evidencia en investigaciones internas conforme al apartado 2.3 (Procedimiento de Investigación Interna).</li>
+<li>Su uso deberá ser proporcional, documentado y confidencial.</li>
+<li>La existencia de una grabación no sustituye el derecho de la persona involucrada a ser escuchada.</li>
+</ul>
 
 ---
 
 ## 9. Prohibiciones
 
-Queda prohibido:
-
-* Difundir, publicar o compartir grabaciones en redes sociales o con terceros no autorizados.  
-* Utilizar las grabaciones para vigilar la vida privada de los colaboradores fuera de las finalidades autorizadas.  
-* Alterar, borrar u ocultar grabaciones relacionadas con un incidente.  
-* Desconectar, obstruir o reorientar cámaras sin autorización.
+!!! danger "Queda prohibido"
+    - Difundir, publicar o compartir grabaciones en redes sociales o con terceros no autorizados.
+    - Utilizar las grabaciones para vigilar la vida privada de los colaboradores fuera de las finalidades autorizadas.
+    - Alterar, borrar u ocultar grabaciones relacionadas con un incidente.
+    - Desconectar, obstruir o reorientar cámaras sin autorización.
 
 El incumplimiento de estas disposiciones podrá considerarse falta grave o muy grave conforme al apartado 2.2.
 
@@ -93,7 +102,9 @@ Toda persona cuyos datos sean captados por el sistema podrá ejercer sus derecho
 
 El Jefe de Operación, o la persona que designe la dirección, será responsable de:
 
-* Verificar el funcionamiento del sistema.  
-* Controlar los accesos a las grabaciones.  
-* Garantizar el cumplimiento de los periodos de conservación.  
-* Atender los requerimientos legales y las solicitudes de derechos ARCO.
+<ul class="do">
+<li>Verificar el funcionamiento del sistema.</li>
+<li>Controlar los accesos a las grabaciones.</li>
+<li>Garantizar el cumplimiento de los periodos de conservación.</li>
+<li>Atender los requerimientos legales y las solicitudes de derechos ARCO.</li>
+</ul>

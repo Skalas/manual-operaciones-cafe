@@ -9,9 +9,45 @@ descargar el paquete completo:
 
 [⬇ Descargar todos los formatos (PDF)](descargas/formatos-todos.pdf){ .md-button .md-button--primary download="formatos-todos.pdf" }
 
+<div class="grid cards" markdown>
+
+-   :material-file-sign:{ .lg } __Acuse de Recibido del Manual__
+
+    [:octicons-arrow-right-24: Abrir](#acuse)
+
+-   :material-alert-box:{ .lg } __Reporte de Incidencia Interna__
+
+    [:octicons-arrow-right-24: Abrir](#incidencia)
+
+-   :material-checkbox-marked-outline:{ .lg } __Checklist de Apertura y Cierre__
+
+    [:octicons-arrow-right-24: Abrir](#checklist)
+
+-   :material-tune:{ .lg } __Bitácora de Calibración__
+
+    [:octicons-arrow-right-24: Abrir](#bitacora)
+
+-   :material-delete-clock:{ .lg } __Registro de Mermas__
+
+    [:octicons-arrow-right-24: Abrir](#mermas)
+
+-   :material-coffee:{ .lg } __Registro de Consumo Interno__
+
+    [:octicons-arrow-right-24: Abrir](#consumo)
+
+-   :material-cash-register:{ .lg } __Arqueo / Corte de Caja__
+
+    [:octicons-arrow-right-24: Abrir](#arqueo)
+
+-   :material-hospital-box:{ .lg } __Reporte de Incidente / Emergencia__
+
+    [:octicons-arrow-right-24: Abrir](#incidente)
+
+</div>
+
 ---
 
-## Acuse de Recibido del Manual
+## Acuse de Recibido del Manual { #acuse }
 
 > Referencia: apartado 2.1, art. 22. Debe archivarse una hoja independiente por colaborador.
 
@@ -30,7 +66,7 @@ comprometo a cumplir las disposiciones contenidas en él.
 
 ---
 
-## Reporte de Incidencia Interna
+## Reporte de Incidencia Interna { #incidencia }
 
 > Referencia: apartados 1.3, 2.3 y 2.4. Canal formal para reportar incidentes,
 > inconformidades o posibles incumplimientos.
@@ -56,7 +92,7 @@ comprometo a cumplir las disposiciones contenidas en él.
 
 ---
 
-## Checklist de Apertura y Cierre de Turno
+## Checklist de Apertura y Cierre de Turno { #checklist }
 
 > Referencia: apartados 4.1 (apertura del turno) y 4.4. Marcar cada punto verificado.
 
@@ -96,7 +132,7 @@ comprometo a cumplir las disposiciones contenidas en él.
 
 ---
 
-## Bitácora de Calibración de Espresso
+## Bitácora de Calibración de Espresso { #bitacora }
 
 > Referencia: apartado 4.1, art. 6. Toda calibración debe registrarse.
 
@@ -112,7 +148,7 @@ Parámetros de referencia: dosis 18–20 g · rendimiento 36–42 g · tiempo 25
 
 ---
 
-## Registro de Mermas
+## Registro de Mermas { #mermas }
 
 > Referencia: apartado 4.2, art. 8. Ninguna merma debe ocultarse ni registrarse de forma incorrecta.
 
@@ -128,7 +164,7 @@ Consulta los parámetros aceptables en el Anexo B (Mermas Operativas Aceptables 
 
 ---
 
-## Registro de Consumo Interno
+## Registro de Consumo Interno { #consumo }
 
 > Referencia: apartado 4.4, art. 10. Incluye degustaciones, cortesías y bebida de cortesía del personal.
 
@@ -144,7 +180,7 @@ Recordatorio: la bebida de cortesía del personal es **una (1) por turno**, de c
 
 ---
 
-## Arqueo / Corte de Caja
+## Arqueo / Corte de Caja { #arqueo }
 
 > Referencia: apartado 4.3, arts. 9–11 y 18.
 
@@ -166,7 +202,7 @@ Recordatorio: la bebida de cortesía del personal es **una (1) por turno**, de c
 
 ---
 
-## Reporte de Incidente / Emergencia
+## Reporte de Incidente / Emergencia { #incidente }
 
 > Referencia: apartados 3.1, 3.2 (art. 17) y 3.3. Toda emergencia debe documentarse.
 

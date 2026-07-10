@@ -2,7 +2,7 @@
 
 ---
 
-## 1. OBJETIVO
+## 1. Objetivo
 
 Establecer los lineamientos de conducta, operación, disciplina, seguridad, higiene, presentación personal y desempeño profesional que deberán observar todas las personas colaboradoras.
 
@@ -10,20 +10,22 @@ El presente Manual forma parte integrante de la documentación laboral de la emp
 
 ---
 
-## 2. MISIÓN DEL COLABORADOR
+## 2. Misión del Colaborador
 
 Todo colaborador deberá contribuir a:
 
-* La satisfacción del cliente.  
-* La calidad del producto.  
-* La seguridad alimentaria.  
-* El cuidado de los activos de la empresa.  
-* La conservación de la imagen y prestigio de la marca.  
-* El cumplimiento de los objetivos comerciales y operativos.
+<ul class="do">
+<li>La satisfacción del cliente</li>
+<li>La calidad del producto</li>
+<li>La seguridad alimentaria</li>
+<li>El cuidado de los activos de la empresa</li>
+<li>La conservación de la imagen y prestigio de la marca</li>
+<li>El cumplimiento de los objetivos comerciales y operativos</li>
+</ul>
 
 ---
 
-## 3. VALORES DE LA EMPRESA
+## 3. Valores de la Empresa
 
 #### Profesionalismo
 
@@ -47,7 +49,7 @@ Atender las necesidades operativas de manera eficiente.
 
 ---
 
-## 4. CADENA DE MANDO
+## 4. Cadena de Mando
 
 La estructura organizacional oficial será:
 
@@ -92,43 +94,37 @@ deberán ser atendidas de forma inmediata siempre que sean compatibles con las f
 
 ---
 
-## 6. RESPETO A LA PROPIEDAD AJENA
+## 6. Respeto a la Propiedad Ajena
 
-Ningún colaborador podrá:
+!!! danger "Queda prohibido"
+    Sin autorización previa, ningún colaborador podrá:
 
-* Tomar dinero ajeno.  
-* Tomar herramientas ajenas.  
-* Tomar objetos personales ajenos.  
-* Utilizar pertenencias de otros colaboradores.
-
-sin autorización previa.
-
----
-
-## 7. RELACIÓN CON CLIENTES
-
-Todo cliente deberá recibir:
-
-* Trato cordial.  
-* Atención profesional.  
-* Respeto.
-
-Queda prohibido:
-
-* Discutir con clientes.  
-* Gritar a clientes.  
-* Burlarse de clientes.  
-* Utilizar lenguaje ofensivo.
+    - Tomar dinero ajeno.
+    - Tomar herramientas ajenas.
+    - Tomar objetos personales ajenos.
+    - Utilizar pertenencias de otros colaboradores.
 
 ---
 
-## 8. PRESENTACIÓN PERSONAL
+## 7. Relación con Clientes
+
+Todo cliente deberá recibir trato cordial · atención profesional · respeto.
+
+!!! danger "Queda prohibido"
+    - Discutir con clientes.
+    - Gritar a clientes.
+    - Burlarse de clientes.
+    - Utilizar lenguaje ofensivo.
+
+---
+
+## 8. Presentación Personal
 
 Los colaboradores deberán presentarse:
 
-* Limpios.  
-* Aseados.  
-* Uniformados.
+<div class="chips">
+<span>Limpios</span><span>Aseados</span><span>Uniformados</span>
+</div>
 
 ---
 
@@ -153,30 +149,34 @@ Los colaboradores deberán presentarse:
 
 ---
 
-## 11. SEGURIDAD ALIMENTARIA
+## 11. Seguridad Alimentaria
 
 Todo colaborador deberá:
 
-* Mantener superficies limpias.  
-* Lavar utensilios oportunamente.  
-* Mantener estaciones ordenadas.  
-* Seguir protocolos de inocuidad.
+<ul class="do">
+<li>Mantener superficies limpias</li>
+<li>Lavar utensilios oportunamente</li>
+<li>Mantener estaciones ordenadas</li>
+<li>Seguir protocolos de inocuidad</li>
+</ul>
 
 ---
 
-## 12. LIMPIEZA OPERATIVA
+## 12. Limpieza Operativa
 
 Durante toda la jornada se deberá:
 
-* Limpiar mesas.  
-* Limpiar barra.  
-* Limpiar equipo.  
-* Lavar loza.  
-* Mantener áreas despejadas.
+<ul class="do">
+<li>Limpiar mesas</li>
+<li>Limpiar barra</li>
+<li>Limpiar equipo</li>
+<li>Lavar loza</li>
+<li>Mantener áreas despejadas</li>
+</ul>
 
 ---
 
-## 13. PUNTUALIDAD
+## 13. Puntualidad
 
 Se concede una tolerancia de:
 
@@ -190,7 +190,7 @@ Equivalen a una falta leve, conforme a la clasificación única del apartado 2.2
 
 ---
 
-## 14. AUSENCIAS
+## 14. Ausencias
 
 Toda ausencia deberá notificarse:
 
@@ -201,7 +201,7 @@ tan pronto como sea posible.
 
 ---
 
-## 15. HORARIOS
+## 15. Horarios
 
 Ningún colaborador podrá modificar:
 
@@ -213,60 +213,54 @@ sin autorización.
 
 ---
 
-## 16. ALCOHOL Y DROGAS
+## 16. Alcohol y Drogas
 
-Queda prohibido:
-
-* Presentarse intoxicado.  
-* Consumir alcohol durante la jornada.  
-* Consumir drogas.  
-* Permitir consumo no autorizado de alcohol por clientes.
-
----
-
-## 17. USO DE REDES SOCIALES
-
-Ningún colaborador podrá:
-
-* Hablar oficialmente por la marca.  
-* Publicar información interna.  
-* Divulgar conflictos internos.
-
-sin autorización.
+!!! danger "Queda prohibido"
+    - Presentarse intoxicado.
+    - Consumir alcohol durante la jornada.
+    - Consumir drogas.
+    - Permitir consumo no autorizado de alcohol por clientes.
 
 ---
 
-## 18. CONFIDENCIALIDAD
+## 17. Uso de Redes Sociales
 
-Se considera información confidencial:
+!!! danger "Queda prohibido"
+    Sin autorización, ningún colaborador podrá:
 
-* Recetas.  
-* Fichas técnicas.  
-* Curvas de tostado.  
-* Costos.  
-* Proveedores.  
-* Clientes.  
-* Estrategias comerciales.  
-* Información financiera.
+    - Hablar oficialmente por la marca.
+    - Publicar información interna.
+    - Divulgar conflictos internos.
+
+---
+
+## 18. Confidencialidad
+
+!!! info "Información confidencial"
+    - Recetas.
+    - Fichas técnicas.
+    - Curvas de tostado.
+    - Costos.
+    - Proveedores.
+    - Clientes.
+    - Estrategias comerciales.
+    - Información financiera.
 
 La obligación continúa incluso después de terminar la relación laboral.
 
 ---
 
-## 19. INVENTARIOS Y MERMAS
+## 19. Inventarios y Mermas
 
-Todo colaborador deberá:
+Todo colaborador deberá reportar de forma inmediata:
 
-* Reportar faltantes.  
-* Reportar mermas.  
-* Reportar daños.  
-* Reportar robos.
-
-de forma inmediata.
+<div class="chips">
+<span>Faltantes</span><span>Mermas</span><span>Daños</span><span>Robos</span>
+</div>
 
 ---
 
-## 20. DESCRIPCIÓN DE PUESTO: BARISTA
+## 20. Descripción de Puesto: Barista
 
 #### Responsabilidades
 
@@ -287,7 +281,7 @@ de forma inmediata.
 
 ---
 
-## 21. MEDIDAS DISCIPLINARIAS
+## 21. Medidas Disciplinarias
 
 Las faltas se clasifican y sancionan conforme a una **única** taxonomía —**Leve, Grave y Muy Grave**— definida en el apartado 2.2 (Clasificación de Faltas y Medidas Disciplinarias). Ese apartado es la referencia oficial; este manual no maneja escalas paralelas.
 
@@ -301,7 +295,7 @@ Las medidas disponibles, aplicadas de forma progresiva y proporcional según la 
 
 ---
 
-## 22. ACUSE DE RECIBIDO
+## 22. Acuse de Recibido
 
 Al final debe existir una hoja independiente con:
 

@@ -1,6 +1,6 @@
 # Anexo E — Creación de Contenido y Fotografía Institucional
 
-### 1. Objetivo
+## 1. Objetivo
 
 Establecer lineamientos para la creación, captura, almacenamiento, publicación y utilización de fotografías, videos y demás contenido audiovisual relacionado con la empresa, sus marcas, instalaciones, productos, colaboradores, clientes y proveedores.
 
@@ -49,48 +49,48 @@ Todo contenido relacionado con la empresa deberá:
 
 Podrá generarse contenido relacionado con:
 
-* Bebidas y alimentos terminados.  
-* Instalaciones abiertas al público.  
-* Eventos autorizados.  
-* Actividades de capacitación autorizadas.  
-* Procesos previamente aprobados para difusión.  
-* Productos oficialmente lanzados.  
-* Actividades culturales o educativas de la empresa.
+<ul class="do">
+<li>Bebidas y alimentos terminados</li>
+<li>Instalaciones abiertas al público</li>
+<li>Eventos autorizados</li>
+<li>Actividades de capacitación autorizadas</li>
+<li>Procesos previamente aprobados para difusión</li>
+<li>Productos oficialmente lanzados</li>
+<li>Actividades culturales o educativas de la empresa</li>
+</ul>
 
 ---
 
 ## 5. Contenido Restringido
 
-Requerirá autorización previa de dirección o gerencia:
-
-* Nuevos productos no lanzados.  
-* Recetas en desarrollo.  
-* Pruebas de menú.  
-* Estrategias comerciales.  
-* Negociaciones con proveedores.  
-* Información financiera.  
-* Procesos internos no públicos.  
-* Material para campañas futuras.  
-* Proyectos especiales.
+!!! warning "Requiere autorización previa de dirección o gerencia"
+    * Nuevos productos no lanzados.
+    * Recetas en desarrollo.
+    * Pruebas de menú.
+    * Estrategias comerciales.
+    * Negociaciones con proveedores.
+    * Información financiera.
+    * Procesos internos no públicos.
+    * Material para campañas futuras.
+    * Proyectos especiales.
 
 ---
 
 ## 6. Contenido Prohibido
 
-Queda prohibida la publicación o difusión de:
-
-* Información confidencial.  
-* Contraseñas o accesos.  
-* Documentos internos.  
-* Datos financieros.  
-* Inventarios.  
-* Información personal de clientes.  
-* Información personal de colaboradores.  
-* Conversaciones privadas.  
-* Actas administrativas.  
-* Procesos disciplinarios.  
-* Imágenes que comprometan la seguridad alimentaria.  
-* Situaciones internas que puedan afectar la reputación de la empresa.
+!!! danger "Queda prohibida la publicación o difusión de…"
+    * Información confidencial.
+    * Contraseñas o accesos.
+    * Documentos internos.
+    * Datos financieros.
+    * Inventarios.
+    * Información personal de clientes.
+    * Información personal de colaboradores.
+    * Conversaciones privadas.
+    * Actas administrativas.
+    * Procesos disciplinarios.
+    * Imágenes que comprometan la seguridad alimentaria.
+    * Situaciones internas que puedan afectar la reputación de la empresa.
 
 ---
 
@@ -98,12 +98,11 @@ Queda prohibida la publicación o difusión de:
 
 La privacidad de los clientes es prioritaria.
 
-Queda prohibido:
-
-* Fotografiar clientes con fines de publicación sin consentimiento.  
-* Grabar conversaciones privadas.  
-* Compartir información de consumo o preferencias de clientes.  
-* Publicar contenido que permita identificar a clientes sin autorización.
+!!! danger "Queda prohibido"
+    * Fotografiar clientes con fines de publicación sin consentimiento.
+    * Grabar conversaciones privadas.
+    * Compartir información de consumo o preferencias de clientes.
+    * Publicar contenido que permita identificar a clientes sin autorización.
 
 Cuando se trate de eventos públicos organizados por la empresa, podrá informarse previamente que se realizará captura de material audiovisual.
 
@@ -113,11 +112,10 @@ Cuando se trate de eventos públicos organizados por la empresa, podrá informar
 
 Las fotografías o videos de colaboradores para fines promocionales deberán realizarse con conocimiento de las personas involucradas.
 
-Queda prohibido:
-
-* Publicar contenido destinado a ridiculizar compañeros.  
-* Compartir material privado sin consentimiento.  
-* Difundir conflictos internos.
+!!! danger "Queda prohibido"
+    * Publicar contenido destinado a ridiculizar compañeros.
+    * Compartir material privado sin consentimiento.
+    * Difundir conflictos internos.
 
 ---
 

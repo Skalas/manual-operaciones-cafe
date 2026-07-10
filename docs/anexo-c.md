@@ -12,10 +12,12 @@ El cumplimiento de este anexo es obligatorio para todo el personal que manipule 
 
 Todo colaborador deberá:
 
-* Mantener hábitos adecuados de higiene personal.  
-* Evitar cualquier acción que pueda contaminar alimentos o bebidas.  
-* Reportar inmediatamente cualquier condición que represente un riesgo sanitario.  
-* Seguir los procedimientos operativos establecidos para recepción, almacenamiento, preparación y servicio.
+<ul class="do">
+<li>Mantener hábitos adecuados de higiene personal</li>
+<li>Evitar cualquier acción que pueda contaminar alimentos o bebidas</li>
+<li>Reportar inmediatamente cualquier condición que represente un riesgo sanitario</li>
+<li>Seguir los procedimientos operativos establecidos para recepción, almacenamiento, preparación y servicio</li>
+</ul>
 
 ---
 
@@ -25,15 +27,17 @@ Todo colaborador deberá:
 
 El personal deberá lavarse las manos:
 
-* Antes de iniciar labores.  
-* Después de utilizar el sanitario.  
-* Después de manipular basura.  
-* Después de comer o beber.  
-* Después de tocar dinero.  
-* Después de manipular productos químicos.  
-* Después de toser, estornudar o sonarse la nariz.  
-* Después de tocar cabello, rostro o cualquier parte del cuerpo.  
-* Cada vez que exista riesgo de contaminación cruzada.
+<ul class="do">
+<li>Antes de iniciar labores</li>
+<li>Después de utilizar el sanitario</li>
+<li>Después de manipular basura</li>
+<li>Después de comer o beber</li>
+<li>Después de tocar dinero</li>
+<li>Después de manipular productos químicos</li>
+<li>Después de toser, estornudar o sonarse la nariz</li>
+<li>Después de tocar cabello, rostro o cualquier parte del cuerpo</li>
+<li>Cada vez que exista riesgo de contaminación cruzada</li>
+</ul>
 
 El lavado deberá realizarse utilizando agua potable, jabón y secado adecuado.
 
@@ -41,14 +45,13 @@ El lavado deberá realizarse utilizando agua potable, jabón y secado adecuado.
 
 ### Estado de salud
 
-No deberá manipular alimentos o bebidas el personal que presente:
-
-* Fiebre.  
-* Vómito.  
-* Diarrea.  
-* Infecciones gastrointestinales.  
-* Enfermedades contagiosas.  
-* Heridas abiertas sin protección adecuada.
+!!! danger "No deberá manipular alimentos o bebidas el personal que presente"
+    - Fiebre.
+    - Vómito.
+    - Diarrea.
+    - Infecciones gastrointestinales.
+    - Enfermedades contagiosas.
+    - Heridas abiertas sin protección adecuada.
 
 Todo colaborador deberá informar estas condiciones a su superior inmediato.
 
@@ -58,17 +61,18 @@ Todo colaborador deberá informar estas condiciones a su superior inmediato.
 
 El personal deberá:
 
-* Presentarse con uniforme limpio.  
-* Mantener higiene corporal adecuada.  
-* Mantener uñas limpias y cortas.  
-* Mantener cabello controlado para evitar contaminación.
+<ul class="do">
+<li>Presentarse con uniforme limpio</li>
+<li>Mantener higiene corporal adecuada</li>
+<li>Mantener uñas limpias y cortas</li>
+<li>Mantener cabello controlado para evitar contaminación</li>
+</ul>
 
-Queda prohibido:
-
-* Trabajar con ropa excesivamente sucia.  
-* Escupir dentro de las instalaciones.  
-* Fumar en áreas de preparación o almacenamiento.  
-* Consumir alimentos en áreas de producción.
+!!! danger "Queda prohibido"
+    - Trabajar con ropa excesivamente sucia.
+    - Escupir dentro de las instalaciones.
+    - Fumar en áreas de preparación o almacenamiento.
+    - Consumir alimentos en áreas de producción.
 
 ---
 
@@ -76,19 +80,20 @@ Queda prohibido:
 
 Todo producto recibido deberá verificarse considerando:
 
-* Fecha de caducidad o consumo preferente.  
-* Estado del empaque.  
-* Ausencia de contaminación visible.  
-* Olores anormales.  
-* Temperatura adecuada cuando aplique.
+<ul class="do">
+<li>Fecha de caducidad o consumo preferente</li>
+<li>Estado del empaque</li>
+<li>Ausencia de contaminación visible</li>
+<li>Olores anormales</li>
+<li>Temperatura adecuada cuando aplique</li>
+</ul>
 
-No deberán recibirse productos:
-
-* Caducados.  
-* Dañados.  
-* Inflados.  
-* Con evidencia de plagas.  
-* En condiciones que comprometan su inocuidad.
+!!! danger "No deberán recibirse productos"
+    - Caducados.
+    - Dañados.
+    - Inflados.
+    - Con evidencia de plagas.
+    - En condiciones que comprometan su inocuidad.
 
 ---
 
@@ -106,11 +111,13 @@ Los productos con fecha más próxima de vencimiento deberán utilizarse primero
 
 ### Reglas generales
 
-* Mantener productos identificados.  
-* Mantener envases cerrados.  
-* Evitar contacto directo con el piso.  
-* Mantener áreas limpias y ordenadas.  
-* Separar productos químicos de alimentos y bebidas.
+<ul class="do">
+<li>Mantener productos identificados</li>
+<li>Mantener envases cerrados</li>
+<li>Evitar contacto directo con el piso</li>
+<li>Mantener áreas limpias y ordenadas</li>
+<li>Separar productos químicos de alimentos y bebidas</li>
+</ul>
 
 ---
 
@@ -120,10 +127,12 @@ Los productos que requieran refrigeración deberán mantenerse dentro de rangos 
 
 El personal deberá:
 
-* Mantener cerradas las puertas de refrigeradores y congeladores.  
-* Reportar fallas de equipos inmediatamente.  
-* Evitar sobrecargar equipos de refrigeración.  
-* Registrar temperaturas cuando los procedimientos internos lo requieran.
+<ul class="do">
+<li>Mantener cerradas las puertas de refrigeradores y congeladores</li>
+<li>Reportar fallas de equipos inmediatamente</li>
+<li>Evitar sobrecargar equipos de refrigeración</li>
+<li>Registrar temperaturas cuando los procedimientos internos lo requieran</li>
+</ul>
 
 ---
 
@@ -133,11 +142,13 @@ Se considera contaminación cruzada cualquier transferencia de contaminantes ent
 
 Para prevenirla:
 
-* Mantener utensilios limpios.  
-* Limpiar superficies entre tareas.  
-* Utilizar recipientes adecuados.  
-* Mantener productos protegidos.  
-* Lavarse las manos cuando cambie la actividad realizada.
+<ul class="do">
+<li>Mantener utensilios limpios</li>
+<li>Limpiar superficies entre tareas</li>
+<li>Utilizar recipientes adecuados</li>
+<li>Mantener productos protegidos</li>
+<li>Lavarse las manos cuando cambie la actividad realizada</li>
+</ul>
 
 ---
 
@@ -147,12 +158,14 @@ Todo equipo, utensilio o superficie deberá limpiarse y sanitizarse conforme a l
 
 Las actividades mínimas incluyen:
 
-* Limpieza de barras.  
-* Limpieza de mesas.  
-* Limpieza de utensilios.  
-* Limpieza de equipos de preparación.  
-* Limpieza de refrigeradores.  
-* Limpieza de áreas de almacenamiento.
+<ul class="do">
+<li>Limpieza de barras</li>
+<li>Limpieza de mesas</li>
+<li>Limpieza de utensilios</li>
+<li>Limpieza de equipos de preparación</li>
+<li>Limpieza de refrigeradores</li>
+<li>Limpieza de áreas de almacenamiento</li>
+</ul>
 
 No deberá utilizarse equipo sucio para la preparación o servicio de alimentos y bebidas.
 
@@ -164,9 +177,11 @@ El agua utilizada para la preparación de bebidas deberá provenir de fuentes au
 
 El hielo deberá:
 
-* Manipularse con utensilios limpios.  
-* Mantenerse protegido contra contaminación.  
-* No manipular directamente con las manos.
+<ul class="do">
+<li>Manipularse con utensilios limpios</li>
+<li>Mantenerse protegido contra contaminación</li>
+<li>No manipular directamente con las manos</li>
+</ul>
 
 ---
 
@@ -174,16 +189,17 @@ El hielo deberá:
 
 Todo producto preparado deberá respetar:
 
-* Recetas autorizadas.  
-* Procedimientos operativos establecidos.  
-* Tiempos de conservación definidos por la empresa.
+<ul class="do">
+<li>Recetas autorizadas</li>
+<li>Procedimientos operativos establecidos</li>
+<li>Tiempos de conservación definidos por la empresa</li>
+</ul>
 
-Queda prohibido:
-
-* Reutilizar bebidas servidas.  
-* Mezclar producto nuevo con producto vencido.  
-* Alterar fechas de elaboración o etiquetado.  
-* Servir productos con signos de deterioro.
+!!! danger "Queda prohibido"
+    - Reutilizar bebidas servidas.
+    - Mezclar producto nuevo con producto vencido.
+    - Alterar fechas de elaboración o etiquetado.
+    - Servir productos con signos de deterioro.
 
 ---
 
@@ -191,15 +207,16 @@ Queda prohibido:
 
 La leche y productos lácteos deberán:
 
-* Mantenerse refrigerados cuando corresponda.  
-* Desecharse al finalizar su tiempo de vida útil establecido por la empresa.  
-* Mantenerse protegidos de la contaminación.
+<ul class="do">
+<li>Mantenerse refrigerados cuando corresponda</li>
+<li>Desecharse al finalizar su tiempo de vida útil establecido por la empresa</li>
+<li>Mantenerse protegidos de la contaminación</li>
+</ul>
 
-No deberá utilizarse leche con:
-
-* Olores anormales.  
-* Separación inusual.  
-* Evidencia de descomposición.
+!!! danger "No deberá utilizarse leche con"
+    - Olores anormales.
+    - Separación inusual.
+    - Evidencia de descomposición.
 
 ---
 
@@ -207,11 +224,13 @@ No deberá utilizarse leche con:
 
 Todo colaborador deberá reportar inmediatamente:
 
-* Presencia de insectos.  
-* Presencia de roedores.  
-* Excretas.  
-* Nidos.  
-* Daños provocados por plagas.
+<ul class="do">
+<li>Presencia de insectos</li>
+<li>Presencia de roedores</li>
+<li>Excretas</li>
+<li>Nidos</li>
+<li>Daños provocados por plagas</li>
+</ul>
 
 Queda prohibido ocultar o ignorar evidencia de plagas.
 
@@ -221,9 +240,11 @@ Queda prohibido ocultar o ignorar evidencia de plagas.
 
 Los residuos deberán:
 
-* Depositarse en recipientes designados.  
-* Retirarse periódicamente.  
-* Mantenerse alejados de alimentos y bebidas.
+<ul class="do">
+<li>Depositarse en recipientes designados</li>
+<li>Retirarse periódicamente</li>
+<li>Mantenerse alejados de alimentos y bebidas</li>
+</ul>
 
 Los contenedores deberán mantenerse limpios y en condiciones sanitarias adecuadas.
 
@@ -231,12 +252,11 @@ Los contenedores deberán mantenerse limpios y en condiciones sanitarias adecuad
 
 ## 15. Productos No Conformes
 
-Deberán retirarse inmediatamente los productos que presenten:
-
-* Caducidad vencida.  
-* Alteraciones visibles.  
-* Contaminación.  
-* Dudas sobre su inocuidad.
+!!! danger "Deberán retirarse inmediatamente los productos que presenten"
+    - Caducidad vencida.
+    - Alteraciones visibles.
+    - Contaminación.
+    - Dudas sobre su inocuidad.
 
 Ningún colaborador está autorizado para servir productos cuya seguridad sea cuestionable.
 
