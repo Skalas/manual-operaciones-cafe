@@ -84,29 +84,16 @@ Antes de comenzar el servicio deberá verificarse:
 
 ## 6. Calibración del Espresso
 
-Cada apertura requiere calibración.
+Cada apertura requiere calibración. Parámetros iniciales de referencia:
 
-Parámetros iniciales:
+<div class="spec-grid">
+  <div class="spec"><p class="label">Dosis</p><span class="value">18–20</span> <span class="unit">g</span></div>
+  <div class="spec"><p class="label">Rendimiento</p><span class="value">36–42</span> <span class="unit">g</span></div>
+  <div class="spec"><p class="label">Tiempo</p><span class="value">25–32</span> <span class="unit">s</span></div>
+  <div class="spec"><p class="label">Temperatura</p><span class="value">92–94</span> <span class="unit">°C</span></div>
+</div>
 
-Dosis
-
-18–20 g
-
-Rendimiento
-
-36–42 g
-
-Tiempo
-
-25–32 segundos
-
-Temperatura
-
-92–94°C
-
-Los valores podrán ajustarse según el café utilizado.
-
-Toda calibración deberá registrarse en la bitácora.
+Los valores podrán ajustarse según el café utilizado. Toda calibración deberá registrarse en la bitácora.
 
 ---
 
@@ -190,23 +177,10 @@ No se permite modificar recetas sin autorización.
 
 ## 9. Calidad de la leche
 
-La leche deberá:
-
-Mantenerse entre:
-
-2 y 4°C
-
-Nunca superar:
-
-7°C
-
-Texturizado:
-
-55–65°C
-
-Nunca exceder:
-
-70°C
+<div class="spec-grid">
+  <div class="spec"><p class="label">Refrigeración</p><span class="value">2–4</span> <span class="unit">°C · máx 7</span></div>
+  <div class="spec"><p class="label">Texturizado</p><span class="value">55–65</span> <span class="unit">°C · máx 70</span></div>
+</div>
 
 No reutilizar leche vaporizada.
 
@@ -232,21 +206,13 @@ Agua filtrada
 
 ## 11. Agua
 
-Toda preparación utilizará agua filtrada.
+Toda preparación utilizará agua filtrada. Parámetros ideales:
 
-Parámetros ideales:
-
-TDS:
-
-75–150 ppm
-
-pH:
-
-6.5–7.5
-
-Dureza:
-
-50–175 ppm
+<div class="spec-grid">
+  <div class="spec"><p class="label">TDS</p><span class="value">75–150</span> <span class="unit">ppm</span></div>
+  <div class="spec"><p class="label">pH</p><span class="value">6.5–7.5</span></div>
+  <div class="spec"><p class="label">Dureza</p><span class="value">50–175</span> <span class="unit">ppm</span></div>
+</div>
 
 ---
 

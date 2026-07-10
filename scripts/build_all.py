@@ -34,6 +34,7 @@ def build_brand(brand_id: str, data: dict) -> None:
         "SITE_URL": f"{BASE_URL}/{brand_id}/",
     }
     print(f"\n=== {data['name']} ({brand_id}) ===")
+    subprocess.run([PY, "scripts/gen_brand_css.py"], cwd=ROOT, env=env, check=True)
     subprocess.run([PY, "scripts/build_formatos_pdf.py"], cwd=ROOT, env=env, check=True)
     subprocess.run(
         [PY, "-m", "mkdocs", "build", "--strict", "-d", str(site_dir)],

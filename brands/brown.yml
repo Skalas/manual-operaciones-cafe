@@ -2,3 +2,7 @@
 name: "Brown Caffeine Lab"     # nombre completo/legal
 short: "Brown"                  # nombre corto/informal
 code: "MO-BCL-001"             # código del documento
+
+# Color de acento (paleta cálida de café). Cambia estos hex por los de tu marca.
+accent: "#92400E"              # café cálido — chrome, títulos de acento, links
+accent_light: "#C2691C"        # variante clara — modo oscuro y hovers

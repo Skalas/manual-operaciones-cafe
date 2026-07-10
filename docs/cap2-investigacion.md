@@ -59,10 +59,10 @@ La persona responsable deberá:
 1. Revisar la información disponible.  
 2. Determinar si existe riesgo inmediato.  
 3. Clasificar preliminarmente la incidencia:  
-   * Leve  
-   * Grave  
-   * Muy grave  
-   * Requiere investigación  
+    * Leve  
+    * Grave  
+    * Muy grave  
+    * Requiere investigación  
 4. Determinar acciones inmediatas si son necesarias.
 
 ---

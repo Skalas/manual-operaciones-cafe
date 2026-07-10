@@ -22,11 +22,11 @@ Todo colaborador deberá conocer, respetar y aplicar las disposiciones contenida
 
 1. Es obligatorio utilizar ropa limpia y adecuada para las actividades asignadas.  
 2. Por seguridad, queda prohibido el uso de:  
-   * Sandalias.  
-   * Chanclas.  
-   * Huaraches.  
-   * Calzado abierto.  
-   * Calzado con daños que comprometan la seguridad.  
+    * Sandalias.  
+    * Chanclas.  
+    * Huaraches.  
+    * Calzado abierto.  
+    * Calzado con daños que comprometan la seguridad.  
 3. Se recomienda el uso de calzado antiderrapante.  
 4. El cabello largo deberá mantenerse recogido durante la jornada laboral.  
 5. Las uñas deberán mantenerse limpias y en condiciones que no comprometan la inocuidad de los alimentos.  
@@ -47,11 +47,11 @@ Todo colaborador deberá conocer, respetar y aplicar las disposiciones contenida
 ## 5. Manipulación de Alimentos y Bebidas
 
 1. Todo colaborador deberá lavarse las manos:  
-   * Al iniciar labores.  
-   * Después de utilizar sanitarios.  
-   * Después de manipular basura.  
-   * Después de toser, estornudar o tocarse la cara.  
-   * Siempre que exista riesgo de contaminación.  
+    * Al iniciar labores.  
+    * Después de utilizar sanitarios.  
+    * Después de manipular basura.  
+    * Después de toser, estornudar o tocarse la cara.  
+    * Siempre que exista riesgo de contaminación.  
 2. No deberán utilizarse insumos vencidos o en mal estado.  
 3. Los alimentos y bebidas deberán almacenarse conforme a los procedimientos establecidos.  
 4. Se deberán respetar los procedimientos de limpieza y sanitización de equipos, utensilios y superficies.  
@@ -72,13 +72,13 @@ Todo colaborador deberá conocer, respetar y aplicar las disposiciones contenida
 ## 7. Prevención de Quemaduras y Cortaduras
 
 1. Se deberá tener especial precaución al manipular:  
-   * Agua caliente.  
-   * Vapor.  
-   * Hornos.  
-   * Cafeteras.  
-   * Parrillas.  
-   * Cuchillos.  
-   * Objetos punzocortantes.  
+    * Agua caliente.  
+    * Vapor.  
+    * Hornos.  
+    * Cafeteras.  
+    * Parrillas.  
+    * Cuchillos.  
+    * Objetos punzocortantes.  
 2. Los cuchillos deberán transportarse de forma segura y nunca dejarse ocultos entre utensilios o recipientes.  
 3. Los recipientes calientes deberán identificarse y manipularse con precaución.  
 4. Ningún colaborador deberá jugar, correr o empujar dentro de las instalaciones.

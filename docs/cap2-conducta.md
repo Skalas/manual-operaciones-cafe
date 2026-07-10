@@ -51,15 +51,13 @@ Atender las necesidades operativas de manera eficiente.
 
 La estructura organizacional oficial será:
 
-PROPIETARIOS  
-     │  
-JEFE DE OPERACIÓN  
-     │  
-GERENTE  
-     │  
-RESPONSABLE DE TURNO  
-     │  
-BARISTA
+```mermaid
+flowchart TD
+    A(Propietarios) --> B(Jefe de Operación)
+    B --> C(Gerente)
+    C --> D(Responsable de turno)
+    D --> E(Barista)
+```
 
 **Equivalencias de nomenclatura.** Para evitar confusiones, a lo largo de este manual los siguientes términos se refieren al mismo rol:
 
@@ -81,25 +79,16 @@ deberán ser atendidas de forma inmediata siempre que sean compatibles con las f
 
 ---
 
-## 5. CONDUCTA Y RESPETO
+## 5. Conducta y Respeto
 
-Queda prohibido:
+!!! danger "Queda prohibido"
+    - Insultar o amenazar a compañeros, superiores o clientes.
+    - Hostigar, acosar o discriminar.
 
-* Insultar compañeros.  
-* Insultar superiores.  
-* Amenazar compañeros.  
-* Amenazar clientes.  
-* Hostigar.  
-* Acosar.  
-* Discriminar.
-
-También queda prohibido:
-
-* Forzar conversaciones que incomoden a compañeros.  
-* Insistir en temas políticos.  
-* Insistir en temas religiosos.  
-* Insistir en temas personales.  
-* Generar discusiones innecesarias.
+!!! warning "Tampoco se permite"
+    - Forzar conversaciones que incomoden a compañeros.
+    - Insistir en temas políticos, religiosos o personales.
+    - Generar discusiones innecesarias.
 
 ---
 
@@ -143,48 +132,24 @@ Los colaboradores deberán presentarse:
 
 ---
 
-## 9. UNIFORME OBLIGATORIO
+## 9. Uniforme Obligatorio
 
-Queda prohibido:
+!!! danger "Prohibido en el uniforme"
+    **Calzado:** chanclas · sandalias · huaraches · calzado abierto.
 
-#### Calzado
+    **Prendas inferiores:** shorts · bermudas · faldas · vestidos.
 
-* Chanclas.  
-* Sandalias.  
-* Huaraches.  
-* Calzado abierto.
-
-#### Prendas inferiores
-
-* Shorts.  
-* Bermudas.  
-* Faldas.  
-* Vestidos.
-
-#### Prendas superiores
-
-* Tirantes.  
-* Playeras sin mangas.  
-* Prendas que exponen hombros.  
-* Transparencias
+    **Prendas superiores:** tirantes · playeras sin mangas · prendas que expongan hombros · transparencias.
 
 ---
 
-## 10. HIGIENE PERSONAL
+## 10. Higiene Personal
 
-#### Cabello
-
-El cabello largo deberá mantenerse recogido.
-
-#### Barba
-
-Deberá mantenerse limpia y arreglada.
-
-#### Uñas
-
-* Cortas.  
-* Limpias.  
-* Sin esmalte.
+| Aspecto | Estándar |
+| ----- | ----- |
+| Cabello | Recogido si es largo |
+| Barba | Limpia y arreglada |
+| Uñas | Cortas, limpias, sin esmalte |
 
 ---
 

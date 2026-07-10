@@ -52,22 +52,9 @@ Toda emergencia deberá atenderse bajo los siguientes principios:
 
 ## 5. Emergencias Contempladas
 
-* Incendio.  
-* Sismo.  
-* Fuga de gas.  
-* Falla eléctrica.  
-* Inundación.  
-* Robo.  
-* Asalto.  
-* Persona lesionada.  
-* Cliente inconsciente.  
-* Quemaduras.  
-* Cortaduras.  
-* Derrames químicos.  
-* Contaminación alimentaria.  
-* Intoxicación.  
-* Amenaza externa.  
-* Visitas de autoridad (COFEPRIS, Protección Civil u otras).
+<div class="chips">
+<span>Incendio</span><span>Sismo</span><span>Fuga de gas</span><span>Falla eléctrica</span><span>Inundación</span><span>Robo</span><span>Asalto</span><span>Persona lesionada</span><span>Cliente inconsciente</span><span>Quemaduras</span><span>Cortaduras</span><span>Derrames químicos</span><span>Contaminación alimentaria</span><span>Intoxicación</span><span>Amenaza externa</span><span>Visitas de autoridad (COFEPRIS, Protección Civil)</span>
+</div>
 
 ---
 

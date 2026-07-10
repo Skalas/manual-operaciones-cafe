@@ -2,3 +2,7 @@
 name: "Aluxe"                   # nombre completo/legal
 short: "Aluxe"                  # nombre corto/informal
 code: "MO-ALX-001"            # código del documento
+
+# Color de acento. Cambia estos hex por los de tu marca.
+accent: "#9A3412"             # terracota — chrome, títulos de acento, links
+accent_light: "#EA580C"        # variante clara — modo oscuro y hovers

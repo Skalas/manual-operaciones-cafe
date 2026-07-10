@@ -56,10 +56,11 @@ PREAMBLE = r"""
 \usepackage{{fancyhdr}}
 \pagestyle{{fancy}}
 \fancyhf{{}}
+\fancyhead[L]{{\small\nouppercase{{\leftmark}}}}
 \fancyfoot[L]{{\small {code}}}
 \fancyfoot[C]{{\small \thepage}}
 \fancyfoot[R]{{\small {name}}}
-\renewcommand{{\headrulewidth}}{{0pt}}
+\renewcommand{{\headrulewidth}}{{0.4pt}}
 \renewcommand{{\footrulewidth}}{{0.4pt}}
 \fancypagestyle{{plain}}{{%
   \fancyhf{{}}
@@ -77,10 +78,51 @@ PREAMBLE = r"""
 """
 
 
+def strip_web_components(md: str) -> str:
+    """Convierte los componentes solo-web a markdown plano para el PDF.
+
+    Los diagramas Mermaid, los shortcodes de iconos y las etiquetas HTML de
+    maquetación (grids, tiles, timeline, cards) no tienen sentido en papel: se
+    eliminan dejando intacto el texto/listas/tablas que llevan dentro.
+    """
+    # Bloques Mermaid -> fuera (la tabla de equivalencias contigua ya explica).
+    md = re.sub(r"```mermaid.*?```", "", md, flags=re.DOTALL)
+    # Shortcodes de iconos y attr-lists de tamaño/clase.
+    md = re.sub(r":(material|octicons|fontawesome)[-\w]*:", "", md)
+    md = re.sub(r"\{\s*\.[\w-]+\s*\}", "", md)
+    # front-matter YAML (hide/toc) de páginas como el índice.
+    md = re.sub(r"\A---\n.*?\n---\n", "", md, flags=re.DOTALL)
+
+    def clean(text: str) -> str:
+        text = re.sub(r"<[^>]+>", " ", text)
+        text = (text.replace("&lt;", "<").replace("&gt;", ">")
+                    .replace("&amp;", "&").replace("&nbsp;", " "))
+        return re.sub(r"[ \t]{2,}", " ", text).strip()
+
+    out = []
+    for ln in md.split("\n"):
+        if "<" not in ln:
+            out.append(ln)
+            continue
+        li = re.match(r"^\s*<li[^>]*>(.*?)</li>\s*$", ln)
+        if li:                       # ítems de lista -> viñeta markdown
+            txt = clean(li.group(1))
+            if txt:
+                out.append("- " + txt)
+            continue
+        txt = clean(ln)              # spec/kpi/hero/heading con HTML inline
+        if not txt:
+            continue                 # línea puramente estructural (<div>, </div>)
+        out.append(txt)
+        out.append("")               # separa para que pandoc no fusione párrafos
+    return "\n".join(out)
+
+
 def preprocess(md: str, brand: dict) -> str:
     md = re.sub(r"\{\{\s*brand\.name\s*\}\}", brand["name"], md)
     md = re.sub(r"\{\{\s*brand\.short\s*\}\}", brand["short"], md)
     md = re.sub(r"\{\{\s*brand\.code\s*\}\}", brand["code"], md)
+    md = strip_web_components(md)
 
     kept = []
     for ln in md.split("\n"):

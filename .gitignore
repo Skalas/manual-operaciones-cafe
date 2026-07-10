@@ -11,3 +11,6 @@ docs/descargas/
 # scripts/build_manual_pdf.py; no se versionan.
 pdf/
 .DS_Store
+
+# CSS de marca generado por scripts/gen_brand_css.py (una versión por marca).
+docs/stylesheets/brand.css

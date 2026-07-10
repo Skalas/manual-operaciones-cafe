@@ -6,25 +6,24 @@ use_directory_urls: true
 
 extra_css:
   - stylesheets/extra.css
+  - stylesheets/brand.css
 
 theme:
   name: material
   language: es
+  icon:
+    logo: material/coffee
   font:
     text: Inter
-    code: Roboto Mono
+    code: JetBrains Mono
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: brown
-      accent: brown
       toggle:
         icon: material/weather-night
         name: Cambiar a modo oscuro
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: brown
-      accent: brown
       toggle:
         icon: material/weather-sunny
         name: Cambiar a modo claro
@@ -51,6 +50,17 @@ markdown_extensions:
   - admonition
   - attr_list
   - md_in_html
+  - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
 
 nav:
   - Inicio: index.md

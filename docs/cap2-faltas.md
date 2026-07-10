@@ -2,81 +2,78 @@
 
 Este apartado establece la **clasificación única** de faltas de la empresa —**Leves, Graves y Muy Graves**— y las medidas disciplinarias correspondientes. Cualquier otra sección del manual que se refiera a faltas o sanciones (apartados 2.1 y 2.3, anexos, etc.) remite a esta clasificación.
 
-## Faltas Leves
+<div class="severity" markdown>
 
-Son aquellas conductas que afectan la operación, imagen o disciplina del establecimiento sin poner en riesgo la seguridad de las personas o bienes.
+<div class="sev leve" markdown>
 
-### Ejemplos
+### :material-alert-circle-outline: Faltas leves <span class="tag">Nivel 1</span>
 
-* Retardos injustificados.  
-* No portar uniforme completo o presentarse con uniforme sucio.  
-* Descuidar la limpieza de su estación de trabajo.  
-* Omitir tareas asignadas sin causa justificada.  
-* Uso de lenguaje inapropiado sin constituir insulto o agresión.  
-* Conversaciones o bromas que distraigan la operación.  
-* Forzar conversaciones o abordar temas que generen incomodidad entre compañeros.  
-* No reportar oportunamente faltantes menores de insumos o materiales.  
-* No cumplir procedimientos operativos sin generar afectaciones graves.
+Conductas que afectan la operación, imagen o disciplina **sin** poner en riesgo la seguridad de las personas o bienes.
 
-### Medidas disciplinarias sugeridas
+**Ejemplos**
 
-1. Amonestación verbal.  
-2. Amonestación escrita.  
-3. Acta administrativa por reincidencia.
+* Retardos injustificados.
+* No portar uniforme completo o presentarse con uniforme sucio.
+* Descuidar la limpieza de su estación de trabajo.
+* Omitir tareas asignadas sin causa justificada.
+* Lenguaje inapropiado sin constituir insulto o agresión.
+* Conversaciones o bromas que distraigan la operación.
+* Forzar temas que generen incomodidad entre compañeros.
+* No reportar oportunamente faltantes menores de insumos.
+* Incumplir procedimientos sin generar afectaciones graves.
 
----
+**Medidas sugeridas:** amonestación verbal → escrita → acta administrativa por reincidencia.
 
-## Faltas Graves
+</div>
 
-Son aquellas conductas que afectan significativamente la operación, la seguridad alimentaria, la imagen del establecimiento o el ambiente laboral.
+<div class="sev grave" markdown>
 
-### Ejemplos
+### :material-alert:{ } Faltas graves <span class="tag">Nivel 2</span>
 
-* Acumular retardos o faltas leves de manera reiterada.  
-* Ausentarse de su área de trabajo sin autorización.  
-* Trato descortés o irrespetuoso hacia clientes, compañeros o superiores.  
-* Negarse injustificadamente a realizar actividades propias de su puesto.  
-* Incumplir procedimientos de higiene o inocuidad alimentaria.  
-* No utilizar equipo de protección o seguridad requerido.  
-* Presentarse con calzado abierto, sandalias, huaraches o chanclas.  
-* Presentarse con prendas inferiores que expongan las piernas y no estén autorizadas por la empresa.  
-* Tomar herramientas, dinero, productos o pertenencias de otro colaborador sin su consentimiento.  
-* Realizar actividades personales durante la jornada que afecten el servicio.  
-* Divulgar información interna de la empresa sin autorización.  
-* Manipular registros operativos o inventarios de manera incorrecta.  
-* Permitir el consumo de productos o bebidas no autorizadas dentro del establecimiento.  
-* Consumir productos de venta sin registrarlos o pagarlos conforme a los procedimientos establecidos.
+Conductas que afectan **significativamente** la operación, la seguridad alimentaria, la imagen del establecimiento o el ambiente laboral.
 
-### Medidas disciplinarias sugeridas
+**Ejemplos**
 
-1. Amonestación escrita.  
-2. Acta administrativa.  
-3. Suspensión temporal conforme al Reglamento Interior de Trabajo y la legislación aplicable.
+* Acumular retardos o faltas leves de manera reiterada.
+* Ausentarse del área de trabajo sin autorización.
+* Trato descortés o irrespetuoso a clientes, compañeros o superiores.
+* Negarse injustificadamente a actividades propias del puesto.
+* Incumplir procedimientos de higiene o inocuidad.
+* No usar el equipo de protección requerido.
+* Presentarse con calzado abierto o prendas no autorizadas.
+* Tomar pertenencias de otro colaborador sin su consentimiento.
+* Actividades personales durante la jornada que afecten el servicio.
+* Divulgar información interna sin autorización.
+* Manipular registros operativos o inventarios de forma incorrecta.
+* Consumir producto de venta sin registrarlo ni pagarlo.
 
----
+**Medidas sugeridas:** amonestación escrita → acta administrativa → suspensión temporal conforme a la ley.
 
-## Faltas Muy Graves
+</div>
 
-Son aquellas conductas que comprometen la seguridad, integridad, patrimonio o reputación de la empresa, así como aquellas que constituyen causa de rescisión conforme al artículo 47 de la Ley Federal del Trabajo.
+<div class="sev muygrave" markdown>
 
-### Ejemplos
+### :material-alert-octagon: Faltas muy graves <span class="tag">Nivel 3</span>
 
-* Robo, tentativa de robo o apropiación indebida de dinero, productos o bienes.  
-* Falsificación de documentos, registros o comprobantes.  
-* Agresión física, amenazas o actos de violencia.  
-* Acoso laboral o acoso sexual.  
-* Presentarse a laborar en estado de ebriedad o bajo efectos de sustancias prohibidas.  
-* Consumir bebidas alcohólicas o sustancias prohibidas durante la jornada laboral sin autorización expresa de la empresa.  
-* Permitir o participar en el consumo de bebidas alcohólicas por parte de clientes cuando no exista autorización expresa de la empresa o cuando ello contravenga permisos, licencias o políticas internas.  
-* Dañar deliberadamente equipos, instalaciones o mercancías.  
-* Revelar información confidencial que cause perjuicio a la empresa.  
-* Abandonar el trabajo poniendo en riesgo a personas, instalaciones o bienes.  
-* Incurrir en actos de discriminación, hostigamiento o violencia.  
-* Incumplir deliberadamente medidas de seguridad que generen riesgo para personas o instalaciones.  
-* Acumular más de tres faltas injustificadas en un periodo de treinta días.
+Conductas que comprometen la seguridad, integridad, patrimonio o reputación de la empresa, o que constituyen causa de rescisión conforme al **artículo 47 de la Ley Federal del Trabajo**.
 
-### Medidas disciplinarias sugeridas
+**Ejemplos**
 
-* Acta administrativa.  
-* Suspensión temporal cuando proceda.  
-* Rescisión de la relación laboral conforme a las disposiciones de la Ley Federal del Trabajo.
+* Robo, tentativa de robo o apropiación indebida.
+* Falsificación de documentos, registros o comprobantes.
+* Agresión física, amenazas o actos de violencia.
+* Acoso laboral o acoso sexual.
+* Presentarse en estado de ebriedad o bajo sustancias prohibidas.
+* Consumir alcohol o sustancias prohibidas en jornada sin autorización.
+* Facilitar consumo de alcohol a clientes sin autorización o permisos.
+* Dañar deliberadamente equipos, instalaciones o mercancías.
+* Revelar información confidencial que perjudique a la empresa.
+* Abandonar el trabajo poniendo en riesgo a personas o bienes.
+* Actos de discriminación, hostigamiento o violencia.
+* Acumular más de tres faltas injustificadas en treinta días.
+
+**Medidas sugeridas:** acta administrativa → suspensión temporal → rescisión conforme a la Ley Federal del Trabajo.
+
+</div>
+
+</div>
