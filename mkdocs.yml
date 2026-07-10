@@ -1,4 +1,4 @@
-site_name: !ENV [SITE_NAME, "Manual de Operación — Brown Caffeine Lab"]
+site_name: !ENV [SITE_NAME, "Manual de Operación"]
 site_url: !ENV [SITE_URL, ""]
 site_description: Manual oficial de operación, políticas y estándares.
 docs_dir: docs
@@ -64,7 +64,7 @@ markdown_extensions:
 
 nav:
   - Inicio: index.md
-  - Introducción: introduccion.md
+  - Filosofía de la empresa: introduccion.md
   - Capítulo I — Cultura Organizacional:
       - "1.1 Marca y Experiencia del Cliente": cap1-marca.md
       - "1.2 Convivencia y Hospitalidad": cap1-convivencia.md

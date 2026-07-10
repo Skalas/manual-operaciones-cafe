@@ -1,6 +1,6 @@
 # 2.4 Procedimiento de Quejas y Reportes Internos
 
-### 1. Objetivo
+## Objetivo
 
 Establecer el procedimiento para que colaboradores, responsables, gerentes, socios operativos y demás personas relacionadas con la empresa puedan comunicar situaciones que afecten la operación, la seguridad, la convivencia, el cumplimiento de las políticas internas o el bienestar del equipo.
 
@@ -8,11 +8,11 @@ Este procedimiento busca promover una cultura de comunicación, mejora continua,
 
 ---
 
-## 2. Alcance
+## 1. Alcance
 
 Podrán presentarse reportes relacionados con:
 
-#### Operación
+### Operación
 
 <div class="chips">
 <span>Incumplimiento de procedimientos</span>
@@ -21,7 +21,7 @@ Podrán presentarse reportes relacionados con:
 <span>Errores recurrentes</span>
 </div>
 
-#### Seguridad e Higiene
+### Seguridad e Higiene
 
 <div class="chips">
 <span>Condiciones inseguras</span>
@@ -30,7 +30,7 @@ Podrán presentarse reportes relacionados con:
 <span>Fallas de equipos</span>
 </div>
 
-#### Recursos Humanos
+### Recursos Humanos
 
 <div class="chips">
 <span>Conflictos laborales</span>
@@ -40,7 +40,7 @@ Podrán presentarse reportes relacionados con:
 <span>Problemas de convivencia</span>
 </div>
 
-#### Administración
+### Administración
 
 <div class="chips">
 <span>Manejo de efectivo</span>
@@ -49,7 +49,7 @@ Podrán presentarse reportes relacionados con:
 <span>Posibles irregularidades administrativas</span>
 </div>
 
-#### Ética y Conducta
+### Ética y Conducta
 
 <div class="chips">
 <span>Incumplimiento de políticas</span>
@@ -60,7 +60,7 @@ Podrán presentarse reportes relacionados con:
 
 ---
 
-## 3. Principios del Procedimiento
+## 2. Principios del Procedimiento
 
 Todo reporte será atendido considerando:
 
@@ -77,7 +77,7 @@ La finalidad principal será resolver problemas y mejorar la operación.
 
 ---
 
-## 4. Quién Puede Presentar un Reporte
+## 3. Quién Puede Presentar un Reporte
 
 Podrán presentar reportes:
 
@@ -93,11 +93,11 @@ Podrán presentar reportes:
 
 ---
 
-## 5. Canales de Reporte
+## 4. Canales de Reporte
 
 Los reportes podrán realizarse mediante:
 
-#### Comunicación Directa
+### Comunicación Directa
 
 <ul class="do">
 <li>Responsable de turno</li>
@@ -105,7 +105,7 @@ Los reportes podrán realizarse mediante:
 <li>Dirección</li>
 </ul>
 
-#### Medios Escritos
+### Medios Escritos
 
 <ul class="do">
 <li>Correo electrónico institucional</li>
@@ -113,13 +113,13 @@ Los reportes podrán realizarse mediante:
 <li>Sistemas de comunicación autorizados por la empresa</li>
 </ul>
 
-#### Reportes Verbales
+### Reportes Verbales
 
 Cuando la situación requiera atención inmediata. Los reportes verbales podrán documentarse posteriormente.
 
 ---
 
-## 6. Información Recomendada
+## 5. Información Recomendada
 
 Cuando sea posible, el reporte deberá incluir:
 
@@ -137,7 +137,7 @@ La ausencia de alguno de estos elementos no impedirá la recepción del reporte.
 
 ---
 
-## 7. Atención Inicial
+## 6. Atención Inicial
 
 Una vez recibido el reporte:
 
@@ -149,7 +149,7 @@ Cuando exista riesgo inmediato para personas, clientes o instalaciones, podrán 
 
 ---
 
-## 8. Investigación y Seguimiento
+## 7. Investigación y Seguimiento
 
 Dependiendo de la naturaleza del reporte, la empresa podrá:
 
@@ -166,7 +166,7 @@ Toda revisión deberá realizarse con respeto y profesionalismo.
 
 ---
 
-## 9. Confidencialidad
+## 8. Confidencialidad
 
 La empresa procurará manejar la información con discreción.
 
@@ -176,7 +176,7 @@ No obstante, la confidencialidad absoluta no siempre será posible cuando result
 
 ---
 
-## 10. Prohibición de Represalias
+## 9. Prohibición de Represalias
 
 !!! danger "Queda prohibido"
     Cualquier represalia contra personas que:
@@ -189,7 +189,7 @@ Las represalias podrán constituir faltas graves o muy graves.
 
 ---
 
-## 11. Reportes de Buena Fe
+## 10. Reportes de Buena Fe
 
 Se considera reporte de buena fe aquel realizado con la intención genuina de informar una situación que la persona considera relevante para la empresa.
 
@@ -197,7 +197,7 @@ La empresa no sancionará a personas que reporten de buena fe, aun cuando poster
 
 ---
 
-## 12. Reportes Maliciosos
+## 11. Reportes Maliciosos
 
 La presentación deliberada de información falsa con el propósito de perjudicar a otra persona podrá considerarse una falta disciplinaria.
 
@@ -205,7 +205,7 @@ La empresa distinguirá entre errores de apreciación y acusaciones deliberadame
 
 ---
 
-## 13. Medidas Correctivas
+## 12. Medidas Correctivas
 
 Cuando se identifiquen incumplimientos o áreas de mejora, la empresa podrá implementar:
 
@@ -217,7 +217,7 @@ Cuando se identifiquen incumplimientos o áreas de mejora, la empresa podrá imp
 
 ---
 
-## 14. Situaciones de Emergencia
+## 13. Situaciones de Emergencia
 
 !!! warning "Reportar de inmediato"
     - Accidentes laborales.
@@ -234,7 +234,7 @@ En estos casos no será necesario seguir el orden jerárquico habitual.
 
 ---
 
-## 15. Registro de Incidencias
+## 14. Registro de Incidencias
 
 La empresa podrá mantener registros internos relacionados con:
 
@@ -250,7 +250,7 @@ Estos registros serán utilizados para fines operativos, preventivos y administr
 
 ---
 
-## 16. Mejora Continua
+## 15. Mejora Continua
 
 La empresa reconoce que los reportes internos son una herramienta para identificar oportunidades de mejora.
 
@@ -258,7 +258,7 @@ Por ello, se promoverá una cultura donde comunicar problemas de manera responsa
 
 ---
 
-## 17. Compromiso Institucional
+## 16. Compromiso Institucional
 
 La empresa se compromete a escuchar, analizar y atender de manera razonable los reportes recibidos, fomentando un ambiente donde las personas puedan expresar inquietudes, señalar riesgos y proponer mejoras sin temor a represalias.
 

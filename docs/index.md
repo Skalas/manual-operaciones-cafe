@@ -8,7 +8,7 @@ hide:
 
 # {{ brand.name }}
 
-<p class="lede">Las políticas, procedimientos y estándares que hacen que cada taza y cada turno se sientan iguales de bien. Servimos café, pero nuestro trabajo real es cuidar personas.</p>
+<p class="lede">Las políticas, procedimientos y estándares que hacen que cada taza y cada turno se sientan igual de bien. Servimos café, pero nuestro trabajo real es cuidar personas.</p>
 </div>
 
 <div class="grid cards" markdown>

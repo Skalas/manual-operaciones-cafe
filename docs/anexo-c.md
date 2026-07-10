@@ -1,6 +1,6 @@
 # Anexo C — Seguridad Alimentaria e Inocuidad
 
-### 1. Objetivo
+## Objetivo
 
 Garantizar que todos los alimentos, bebidas e insumos utilizados por la empresa sean recibidos, almacenados, preparados, servidos y desechados bajo condiciones que minimicen riesgos de contaminación física, química o biológica para clientes y colaboradores.
 
@@ -8,7 +8,7 @@ El cumplimiento de este anexo es obligatorio para todo el personal que manipule 
 
 ---
 
-## 2. Principios Generales
+## 1. Principios Generales
 
 Todo colaborador deberá:
 
@@ -21,7 +21,7 @@ Todo colaborador deberá:
 
 ---
 
-## 3. Higiene Personal
+## 2. Higiene Personal
 
 ### Lavado de manos obligatorio
 
@@ -57,7 +57,7 @@ Todo colaborador deberá informar estas condiciones a su superior inmediato.
 
 ---
 
-## 4. Uniforme e Imagen Higiénica
+## 3. Uniforme e Imagen Higiénica
 
 El personal deberá:
 
@@ -76,7 +76,7 @@ El personal deberá:
 
 ---
 
-## 5. Recepción de Insumos
+## 4. Recepción de Insumos
 
 Todo producto recibido deberá verificarse considerando:
 
@@ -97,7 +97,7 @@ Todo producto recibido deberá verificarse considerando:
 
 ---
 
-## 6. Almacenamiento
+## 5. Almacenamiento
 
 ### Principio PEPS
 
@@ -121,7 +121,7 @@ Los productos con fecha más próxima de vencimiento deberán utilizarse primero
 
 ---
 
-## 7. Control de Temperaturas
+## 6. Control de Temperaturas
 
 Los productos que requieran refrigeración deberán mantenerse dentro de rangos seguros de temperatura.
 
@@ -136,7 +136,7 @@ El personal deberá:
 
 ---
 
-## 8. Prevención de Contaminación Cruzada
+## 7. Prevención de Contaminación Cruzada
 
 Se considera contaminación cruzada cualquier transferencia de contaminantes entre productos, utensilios, superficies o personas.
 
@@ -152,7 +152,7 @@ Para prevenirla:
 
 ---
 
-## 9. Limpieza y Sanitización
+## 8. Limpieza y Sanitización
 
 Todo equipo, utensilio o superficie deberá limpiarse y sanitizarse conforme a los procedimientos establecidos.
 
@@ -171,7 +171,7 @@ No deberá utilizarse equipo sucio para la preparación o servicio de alimentos 
 
 ---
 
-## 10. Manejo de Agua y Hielo
+## 9. Manejo de Agua y Hielo
 
 El agua utilizada para la preparación de bebidas deberá provenir de fuentes autorizadas por la empresa.
 
@@ -185,7 +185,7 @@ El hielo deberá:
 
 ---
 
-## 11. Manejo de Café, Té y Bebidas Preparadas
+## 10. Manejo de Café, Té y Bebidas Preparadas
 
 Todo producto preparado deberá respetar:
 
@@ -203,7 +203,7 @@ Todo producto preparado deberá respetar:
 
 ---
 
-## 12. Manejo de Leche y Derivados
+## 11. Manejo de Leche y Derivados
 
 La leche y productos lácteos deberán:
 
@@ -220,7 +220,7 @@ La leche y productos lácteos deberán:
 
 ---
 
-## 13. Control de Plagas
+## 12. Control de Plagas
 
 Todo colaborador deberá reportar inmediatamente:
 
@@ -236,7 +236,7 @@ Queda prohibido ocultar o ignorar evidencia de plagas.
 
 ---
 
-## 14. Manejo de Residuos
+## 13. Manejo de Residuos
 
 Los residuos deberán:
 
@@ -250,7 +250,7 @@ Los contenedores deberán mantenerse limpios y en condiciones sanitarias adecuad
 
 ---
 
-## 15. Productos No Conformes
+## 14. Productos No Conformes
 
 !!! danger "Deberán retirarse inmediatamente los productos que presenten"
     - Caducidad vencida.
@@ -262,6 +262,6 @@ Ningún colaborador está autorizado para servir productos cuya seguridad sea cu
 
 ---
 
-## 16. Incumplimientos
+## 15. Incumplimientos
 
 El incumplimiento de cualquiera de las disposiciones contenidas en este anexo podrá considerarse falta leve, grave o muy grave según la naturaleza de la conducta, de conformidad con el Manual de Conducta, Operación y Disciplina Interna (apartado 2.1) y la Clasificación de Faltas y Medidas Disciplinarias (apartado 2.2).

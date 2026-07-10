@@ -2,7 +2,7 @@
 
 ---
 
-## 1. Objetivo
+## Objetivo
 
 Establecer los estándares técnicos y sensoriales para garantizar que todas las bebidas servidas en el establecimiento mantengan un nivel de calidad constante, independientemente del colaborador que las prepare.
 
@@ -10,7 +10,7 @@ La calidad del café es responsabilidad de todo el equipo.
 
 ---
 
-## 2. Filosofía de Calidad
+## 1. Filosofía de Calidad
 
 En el establecimiento creemos que un excelente café depende de cinco factores:
 
@@ -22,7 +22,7 @@ La experiencia completa del cliente comienza antes de servir la bebida.
 
 ---
 
-## 3. Estándares del Café
+## 2. Estándares del Café
 
 ### Café de especialidad
 
@@ -44,7 +44,7 @@ Los tiempos de conservación y vida útil de todos los insumos y bebidas se defi
 
 ---
 
-## 4. Conservación
+## 3. Conservación
 
 El café deberá mantenerse:
 
@@ -60,7 +60,7 @@ Nunca deberá almacenarse junto a productos químicos.
 
 ---
 
-## 5. Apertura del turno
+## 4. Apertura del turno
 
 Antes de comenzar el servicio deberá verificarse:
 
@@ -78,22 +78,22 @@ Antes de comenzar el servicio deberá verificarse:
 
 ---
 
-## 6. Calibración del Espresso
+## 5. Calibración del Espresso
 
 Cada apertura requiere calibración. Parámetros iniciales de referencia:
 
 <div class="spec-grid">
-  <div class="spec"><p class="label">Dosis</p><span class="value">18–20</span> <span class="unit">g</span></div>
-  <div class="spec"><p class="label">Rendimiento</p><span class="value">36–42</span> <span class="unit">g</span></div>
-  <div class="spec"><p class="label">Tiempo</p><span class="value">25–32</span> <span class="unit">s</span></div>
-  <div class="spec"><p class="label">Temperatura</p><span class="value">92–94</span> <span class="unit">°C</span></div>
+  <div class="spec"><p class="label">Dosis</p><span class="value">{{ espresso.dosis.rango }}</span> <span class="unit">{{ espresso.dosis.unidad }}</span></div>
+  <div class="spec"><p class="label">Rendimiento</p><span class="value">{{ espresso.rendimiento.rango }}</span> <span class="unit">{{ espresso.rendimiento.unidad }}</span></div>
+  <div class="spec"><p class="label">Tiempo</p><span class="value">{{ espresso.tiempo.rango }}</span> <span class="unit">{{ espresso.tiempo.unidad }}</span></div>
+  <div class="spec"><p class="label">Temperatura</p><span class="value">{{ espresso.temperatura.rango }}</span> <span class="unit">{{ espresso.temperatura.unidad }}</span></div>
 </div>
 
 Los valores podrán ajustarse según el café utilizado. Toda calibración deberá registrarse en la bitácora.
 
 ---
 
-## 7. Control Sensorial
+## 6. Control Sensorial
 
 Cada espresso deberá evaluarse considerando:
 
@@ -108,7 +108,7 @@ Cada espresso deberá evaluarse considerando:
 
 ---
 
-## 8. Parámetros por bebida
+## 7. Parámetros por bebida
 
 Toda receta oficial deberá incluir:
 
@@ -120,7 +120,7 @@ No se permite modificar recetas sin autorización.
 
 ---
 
-## 9. Calidad de la leche
+## 8. Calidad de la leche
 
 <div class="spec-grid">
   <div class="spec"><p class="label">Refrigeración</p><span class="value">2–4</span> <span class="unit">°C · máx 7</span></div>
@@ -131,7 +131,7 @@ No reutilizar leche vaporizada.
 
 ---
 
-## 10. Brew Bar
+## 9. Brew Bar
 
 Cada método deberá respetar:
 
@@ -141,7 +141,7 @@ Cada método deberá respetar:
 
 ---
 
-## 11. Agua
+## 10. Agua
 
 Toda preparación utilizará agua filtrada. Parámetros ideales:
 
@@ -153,7 +153,7 @@ Toda preparación utilizará agua filtrada. Parámetros ideales:
 
 ---
 
-## 12. Control de Molinos
+## 11. Control de Molinos
 
 ### Cada apertura
 
@@ -178,7 +178,7 @@ Toda preparación utilizará agua filtrada. Parámetros ideales:
 
 ---
 
-## 13. Criterios para repetir una bebida
+## 12. Criterios para repetir una bebida
 
 !!! warning "Repetir la bebida si…"
     * Extracción incorrecta.
@@ -194,7 +194,7 @@ Nunca se entregará un producto que no cumpla con el estándar.
 
 ---
 
-## 14. Catación interna
+## 13. Catación interna
 
 Periodicidad:
 
@@ -209,7 +209,7 @@ Objetivos:
 
 ---
 
-## 15. Auditoría de Calidad
+## 14. Auditoría de Calidad
 
 Semanalmente se evaluará:
 
@@ -224,7 +224,7 @@ Cada rubro será calificado sobre 100 puntos.
 
 ---
 
-## 16. Indicadores de Calidad
+## 15. Indicadores de Calidad
 
 Se medirán:
 
@@ -238,7 +238,7 @@ Se medirán:
 
 ---
 
-## 17. Mejora Continua
+## 16. Mejora Continua
 
 Toda desviación detectada generará:
 

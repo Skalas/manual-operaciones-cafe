@@ -1,6 +1,6 @@
 # 3.1 Reglamento de Seguridad e Higiene
 
-## 1. Objetivo
+## Objetivo
 
 El presente Reglamento de Seguridad e Higiene tiene como finalidad prevenir accidentes, enfermedades laborales, daños a las instalaciones y afectaciones a clientes, colaboradores y proveedores, mediante el establecimiento de normas obligatorias de seguridad, limpieza e higiene dentro del centro de trabajo.
 
@@ -8,7 +8,7 @@ Todo colaborador deberá conocer, respetar y aplicar las disposiciones contenida
 
 ---
 
-## 2. Disposiciones Generales
+## 1. Disposiciones Generales
 
 1. Todo colaborador es responsable de mantener condiciones seguras de trabajo en su área.  
 2. Ningún colaborador podrá realizar actividades para las que no haya sido capacitado o autorizado.  
@@ -18,7 +18,7 @@ Todo colaborador deberá conocer, respetar y aplicar las disposiciones contenida
 
 ---
 
-## 3. Presentación Personal y Equipo de Protección
+## 2. Presentación Personal y Equipo de Protección
 
 1. Es obligatorio utilizar ropa limpia y adecuada para las actividades asignadas.  
 2. Se recomienda el uso de calzado antiderrapante.  
@@ -31,7 +31,7 @@ Todo colaborador deberá conocer, respetar y aplicar las disposiciones contenida
 
 ---
 
-## 4. Orden y Limpieza
+## 3. Orden y Limpieza
 
 1. Las áreas de trabajo deberán mantenerse limpias y libres de obstáculos.  
 2. Los pasillos, accesos, salidas y rutas de evacuación deberán permanecer despejados en todo momento.  
@@ -41,7 +41,7 @@ Todo colaborador deberá conocer, respetar y aplicar las disposiciones contenida
 
 ---
 
-## 5. Manipulación de Alimentos y Bebidas
+## 4. Manipulación de Alimentos y Bebidas
 
 1. Todo colaborador deberá lavarse las manos:  
     * Al iniciar labores.  
@@ -56,7 +56,7 @@ Todo colaborador deberá conocer, respetar y aplicar las disposiciones contenida
 
 ---
 
-## 6. Manejo Seguro de Equipos
+## 5. Manejo Seguro de Equipos
 
 1. Los equipos deberán utilizarse exclusivamente para los fines para los cuales fueron diseñados.  
 2. Queda prohibido operar equipos sin capacitación previa.  
@@ -66,7 +66,7 @@ Todo colaborador deberá conocer, respetar y aplicar las disposiciones contenida
 
 ---
 
-## 7. Prevención de Quemaduras y Cortaduras
+## 6. Prevención de Quemaduras y Cortaduras
 
 1. Se deberá tener especial precaución al manipular:  
     * Agua caliente.  
@@ -82,7 +82,7 @@ Todo colaborador deberá conocer, respetar y aplicar las disposiciones contenida
 
 ---
 
-## 8. Manejo de Productos Químicos
+## 7. Manejo de Productos Químicos
 
 1. Los productos de limpieza deberán permanecer identificados y almacenados en los lugares designados.  
 2. Queda prohibido almacenar productos químicos en recipientes destinados a alimentos o bebidas.  
@@ -91,7 +91,7 @@ Todo colaborador deberá conocer, respetar y aplicar las disposiciones contenida
 
 ---
 
-## 9. Consumo de Alcohol, Drogas y Sustancias que Alteren la Capacidad de Trabajo
+## 8. Consumo de Alcohol, Drogas y Sustancias que Alteren la Capacidad de Trabajo
 
 !!! danger "Queda prohibido"
     - Presentarse a laborar bajo los efectos del alcohol, drogas o sustancias que alteren las capacidades físicas o mentales.
@@ -102,7 +102,7 @@ El incumplimiento de esta disposición podrá considerarse falta grave o muy gra
 
 ---
 
-## 10. Emergencias
+## 9. Emergencias
 
 1. Todo colaborador deberá conocer las rutas de evacuación y puntos de reunión establecidos.  
 2. En caso de incendio, fuga, sismo o cualquier otra emergencia deberá seguirse el protocolo correspondiente.  
@@ -111,7 +111,7 @@ El incumplimiento de esta disposición podrá considerarse falta grave o muy gra
 
 ---
 
-## 11. Reporte de Accidentes e Incidentes
+## 10. Reporte de Accidentes e Incidentes
 
 1. Todo accidente, por menor que parezca, deberá reportarse inmediatamente.  
 2. Todo incidente que pudiera haber ocasionado un accidente también deberá registrarse.  
@@ -119,6 +119,6 @@ El incumplimiento de esta disposición podrá considerarse falta grave o muy gra
 
 ---
 
-## 12. Vigencia y Cumplimiento
+## 11. Vigencia y Cumplimiento
 
 El cumplimiento de este Reglamento de Seguridad e Higiene es obligatorio para todo el personal que labore dentro de las instalaciones de la empresa, independientemente de su puesto o antigüedad.

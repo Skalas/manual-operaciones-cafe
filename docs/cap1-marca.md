@@ -182,7 +182,7 @@ Toda queja representa una oportunidad para mejorar.
 
 ---
 
-#### Protocolo Básico
+### Protocolo Básico
 
 1. Escuchar.  
 2. Agradecer.  

@@ -15,7 +15,9 @@ from pathlib import Path
 
 import yaml
 
-BRANDS_DIR = Path(__file__).resolve().parent / "brands"
+ROOT = Path(__file__).resolve().parent
+BRANDS_DIR = ROOT / "brands"
+PARAMS_FILE = ROOT / "params.yml"
 
 
 def define_env(env) -> None:
@@ -27,3 +29,4 @@ def define_env(env) -> None:
             f"Marcas disponibles: {[p.stem for p in BRANDS_DIR.glob('*.yml')]}"
         )
     env.variables["brand"] = yaml.safe_load(brand_file.read_text(encoding="utf-8"))
+    env.variables.update(yaml.safe_load(PARAMS_FILE.read_text(encoding="utf-8")))

@@ -1,6 +1,6 @@
 # Anexo B — Mermas Operativas Aceptables por Categoría
 
-### 1. Objetivo
+## Objetivo
 
 Establecer los parámetros de referencia para las mermas consideradas normales dentro de la operación diaria de la empresa.
 
@@ -10,7 +10,7 @@ Las cantidades señaladas son referencias operativas y podrán ser modificadas p
 
 ---
 
-## 2. Principios Generales
+## 1. Principios Generales
 
 1. Toda merma debe tener una justificación operativa.  
 2. La reducción de desperdicios es responsabilidad de todo el equipo.  
@@ -19,7 +19,7 @@ Las cantidades señaladas son referencias operativas y podrán ser modificadas p
 
 ---
 
-## 3. Café Espresso
+## 2. Café Espresso
 
 ### Calibración de Apertura
 
@@ -52,7 +52,7 @@ La cantidad podrá variar según:
 
 ---
 
-## 4. Café Filtrado
+## 3. Café Filtrado
 
 ### Batch Brew
 
@@ -73,7 +73,7 @@ La cantidad podrá variar según:
 
 ---
 
-## 5. Cuppings y Evaluación Sensorial
+## 4. Cuppings y Evaluación Sensorial
 
 <ul class="do">
 <li>Se considera aceptable todo café utilizado en actividades autorizadas de capacitación</li>
@@ -85,7 +85,7 @@ Estas actividades no constituyen merma injustificada.
 
 ---
 
-## 6. Leche
+## 5. Leche
 
 ### Calibración de Texturización
 
@@ -106,7 +106,7 @@ Toda incidencia deberá registrarse cuando los procedimientos internos lo requie
 
 ---
 
-## 7. Tés e Infusiones
+## 6. Tés e Infusiones
 
 <ul class="do">
 <li>Preparaciones destinadas a capacitación</li>
@@ -116,7 +116,7 @@ Toda incidencia deberá registrarse cuando los procedimientos internos lo requie
 
 ---
 
-## 8. Concentrados, Jarabes y Pulpas
+## 7. Concentrados, Jarabes y Pulpas
 
 <ul class="do">
 <li>Muestras para desarrollo de bebidas</li>
@@ -131,7 +131,7 @@ Toda incidencia deberá registrarse cuando los procedimientos internos lo requie
 
 ---
 
-## 9. Frutas y Garnituras
+## 8. Frutas y Garnituras
 
 <ul class="do">
 <li>Recortes derivados de preparación</li>
@@ -143,7 +143,7 @@ Toda fruta con signos de deterioro deberá retirarse de operación.
 
 ---
 
-## 10. Panadería y Repostería
+## 9. Panadería y Repostería
 
 <ul class="do">
 <li>Producto no vendido al finalizar su periodo comercial establecido</li>
@@ -155,7 +155,7 @@ No deberá comercializarse producto cuya calidad no cumpla los estándares de la
 
 ---
 
-## 11. Bebidas Devueltas por Clientes
+## 10. Bebidas Devueltas por Clientes
 
 <ul class="do">
 <li>Desecho de bebidas cuando exista error de preparación</li>
@@ -166,7 +166,7 @@ La empresa priorizará la satisfacción del cliente sobre la recuperación econ�
 
 ---
 
-## 12. Productos Caducados
+## 11. Productos Caducados
 
 La empresa reconoce que puede existir una merma controlada por vencimiento.
 
@@ -177,7 +177,7 @@ Sin embargo:
 
 ---
 
-## 13. Situaciones que Requieren Investigación
+## 12. Situaciones que Requieren Investigación
 
 Las siguientes situaciones deberán analizarse:
 
@@ -191,7 +191,7 @@ La investigación tendrá como finalidad identificar causas operativas y oportun
 
 ---
 
-## 14. Conductas No Consideradas Merma Operativa
+## 13. Conductas No Consideradas Merma Operativa
 
 !!! danger "No se consideran mermas aceptables"
     - Consumo personal no autorizado.
@@ -205,7 +205,7 @@ Estas conductas podrán clasificarse como faltas graves o muy graves conforme a 
 
 ---
 
-## 15. Filosofía Operativa
+## 14. Filosofía Operativa
 
 La empresa reconoce que la búsqueda de calidad requiere un equilibrio entre eficiencia y excelencia.
 

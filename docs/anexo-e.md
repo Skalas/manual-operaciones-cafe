@@ -1,6 +1,6 @@
 # Anexo E — Creación de Contenido y Fotografía Institucional
 
-## 1. Objetivo
+## Objetivo
 
 Establecer lineamientos para la creación, captura, almacenamiento, publicación y utilización de fotografías, videos y demás contenido audiovisual relacionado con la empresa, sus marcas, instalaciones, productos, colaboradores, clientes y proveedores.
 
@@ -8,7 +8,7 @@ Este anexo busca proteger la imagen institucional, la propiedad intelectual, la 
 
 ---
 
-## 2. Alcance
+## 1. Alcance
 
 Aplica a:
 
@@ -33,7 +33,7 @@ Generado mediante:
 
 ---
 
-## 3. Principios Generales
+## 2. Principios Generales
 
 Todo contenido relacionado con la empresa deberá:
 
@@ -45,7 +45,7 @@ Todo contenido relacionado con la empresa deberá:
 
 ---
 
-## 4. Contenido Permitido
+## 3. Contenido Permitido
 
 Podrá generarse contenido relacionado con:
 
@@ -61,7 +61,7 @@ Podrá generarse contenido relacionado con:
 
 ---
 
-## 5. Contenido Restringido
+## 4. Contenido Restringido
 
 !!! warning "Requiere autorización previa de dirección o gerencia"
     * Nuevos productos no lanzados.
@@ -76,7 +76,7 @@ Podrá generarse contenido relacionado con:
 
 ---
 
-## 6. Contenido Prohibido
+## 5. Contenido Prohibido
 
 !!! danger "Queda prohibida la publicación o difusión de…"
     * Información confidencial.
@@ -94,7 +94,7 @@ Podrá generarse contenido relacionado con:
 
 ---
 
-## 7. Clientes
+## 6. Clientes
 
 La privacidad de los clientes es prioritaria.
 
@@ -108,7 +108,7 @@ Cuando se trate de eventos públicos organizados por la empresa, podrá informar
 
 ---
 
-## 8. Colaboradores
+## 7. Colaboradores
 
 Las fotografías o videos de colaboradores para fines promocionales deberán realizarse con conocimiento de las personas involucradas.
 
@@ -119,7 +119,7 @@ Las fotografías o videos de colaboradores para fines promocionales deberán rea
 
 ---
 
-## 9. Proveedores y Aliados Comerciales
+## 8. Proveedores y Aliados Comerciales
 
 Toda información relacionada con proveedores deberá manejarse con respeto y profesionalismo.
 
@@ -135,7 +135,7 @@ Salvo autorización expresa o acuerdos de colaboración.
 
 ---
 
-## 10. Fotografía de Productos
+## 9. Fotografía de Productos
 
 La fotografía de productos deberá buscar:
 
@@ -147,7 +147,7 @@ Se recomienda utilizar recetas y presentaciones oficiales para sesiones fotográ
 
 ---
 
-## 11. Fotografía y Video en Áreas de Producción
+## 10. Fotografía y Video en Áreas de Producción
 
 La captura de contenido dentro de áreas de preparación deberá realizarse sin comprometer:
 
@@ -159,7 +159,7 @@ La generación de contenido nunca tendrá prioridad sobre el servicio al cliente
 
 ---
 
-## 12. Proyectos en Desarrollo
+## 11. Proyectos en Desarrollo
 
 Se consideran proyectos confidenciales:
 
@@ -174,7 +174,7 @@ La publicación de estos proyectos requerirá autorización expresa de la direcc
 
 ---
 
-## 13. Propiedad del Material Institucional
+## 12. Propiedad del Material Institucional
 
 Todo material creado como parte de las funciones laborales o utilizando recursos de la empresa podrá considerarse material institucional.
 
@@ -190,7 +190,7 @@ Conforme a la legislación aplicable y los acuerdos celebrados con cada colabora
 
 ---
 
-## 14. Uso de Equipos de la Empresa
+## 13. Uso de Equipos de la Empresa
 
 Los equipos destinados a creación de contenido deberán utilizarse exclusivamente para fines autorizados.
 
@@ -202,7 +202,7 @@ Todo colaborador deberá:
 
 ---
 
-## 15. Gestión de Archivos
+## 14. Gestión de Archivos
 
 Cuando la empresa lo requiera, el material generado deberá entregarse mediante los canales establecidos.
 
@@ -215,7 +215,7 @@ La empresa podrá establecer:
 
 ---
 
-## 16. Identidad de Marca
+## 15. Identidad de Marca
 
 Todo contenido institucional deberá procurar coherencia con:
 
@@ -226,7 +226,7 @@ Todo contenido institucional deberá procurar coherencia con:
 
 ---
 
-## 17. Riesgos Reputacionales
+## 16. Riesgos Reputacionales
 
 Todo colaborador deberá abstenerse de publicar contenido que pueda generar:
 
@@ -238,13 +238,13 @@ Todo colaborador deberá abstenerse de publicar contenido que pueda generar:
 
 ---
 
-## 18. Incumplimientos
+## 17. Incumplimientos
 
 La divulgación no autorizada de información confidencial, proyectos en desarrollo, materiales protegidos o contenido que afecte la reputación de la empresa podrá considerarse falta grave o muy grave conforme a la normativa interna vigente.
 
 ---
 
-## 19. Filosofía de Comunicación
+## 18. Filosofía de Comunicación
 
 La empresa reconoce el valor de la creatividad, la documentación de procesos y la generación de contenido como herramientas para compartir conocimiento y fortalecer la cultura del café.
 

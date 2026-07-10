@@ -1,6 +1,6 @@
 # Anexo A — Consumo de Café para Capacitación Sensorial y Control de Calidad
 
-## 1. Objetivo
+## Objetivo
 
 Reconocer que la evaluación sensorial, calibración y conocimiento del producto forman parte de las funciones operativas de una cafetería de especialidad, permitiendo el consumo controlado de café con fines de capacitación, control de calidad y mejora continua.
 
@@ -8,7 +8,7 @@ Las actividades reguladas por este anexo no se consideran consumo personal cuand
 
 ---
 
-## 2. Principios Generales
+## 1. Principios Generales
 
 1. El café utilizado para capacitación, evaluación sensorial o control de calidad constituye una herramienta de trabajo.  
 2. Todo consumo deberá tener una finalidad operativa, formativa o de aseguramiento de calidad.  
@@ -17,7 +17,7 @@ Las actividades reguladas por este anexo no se consideran consumo personal cuand
 
 ---
 
-## 3. Calibración de Espresso
+## 2. Calibración de Espresso
 
 Se autoriza el uso de café para:
 
@@ -40,7 +40,7 @@ Cuando sea posible, los espressos utilizados para calibración podrán ser aprov
 
 ---
 
-## 4. Control de Calidad
+## 3. Control de Calidad
 
 Se permite la preparación de muestras para:
 
@@ -55,7 +55,7 @@ Las muestras deberán prepararse en cantidades mínimas necesarias para cumplir 
 
 ---
 
-## 5. Catas y Capacitación Sensorial
+## 4. Catas y Capacitación Sensorial
 
 La empresa podrá realizar actividades de capacitación que incluyan:
 
@@ -72,7 +72,7 @@ Los productos utilizados durante estas actividades no serán considerados consum
 
 ---
 
-## 6. Desarrollo de Bebidas y Recetas
+## 5. Desarrollo de Bebidas y Recetas
 
 Se autoriza el uso de café e insumos para:
 
@@ -87,7 +87,7 @@ Toda actividad de desarrollo deberá contar con autorización del responsable co
 
 ---
 
-## 7. Bebidas para Capacitación del Personal
+## 6. Bebidas para Capacitación del Personal
 
 Con fines de aprendizaje y familiarización con el menú, cada colaborador podrá degustar bebidas preparadas durante sesiones de capacitación autorizadas.
 
@@ -101,7 +101,7 @@ Estas degustaciones deberán:
 
 ---
 
-## 8. Consumo Personal de Café
+## 7. Consumo Personal de Café
 
 Como prestación interna, cada colaborador tiene derecho a **una (1) bebida de cortesía por turno**, de cualquier tipo del menú, conforme al apartado 4.4 (Política de Consumo de Alimentos y Bebidas).
 
@@ -111,7 +111,7 @@ Este beneficio es independiente del café utilizado para calibración, control d
 
 ---
 
-## 9. Uso Responsable
+## 8. Uso Responsable
 
 !!! danger "No se considerará capacitación sensorial"
     - Preparar bebidas para terceros sin autorización.
@@ -124,7 +124,7 @@ Estas conductas podrán clasificarse como incumplimientos a la Política de Cons
 
 ---
 
-## 10. Autoridad de Supervisión
+## 9. Autoridad de Supervisión
 
 Los responsables de turno, gerencia o dirección podrán supervisar, limitar o suspender actividades reguladas por este anexo cuando detecten:
 
@@ -135,7 +135,7 @@ Los responsables de turno, gerencia o dirección podrán supervisar, limitar o s
 
 ---
 
-## 11. Filosofía de la Empresa
+## 10. Filosofía de la Empresa
 
 La empresa reconoce que el conocimiento profundo del café, sus procesos, atributos sensoriales y métodos de preparación constituye una competencia profesional esencial para brindar un servicio de excelencia.
 

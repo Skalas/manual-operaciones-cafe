@@ -1,10 +1,10 @@
 # 1.3 PROTOCOLO DE NO DISCRIMINACIÓN, IGUALDAD DE TRATO Y RESPETO
 
-## 1. Objetivo
+## Objetivo
 
 Garantizar un ambiente de trabajo, convivencia y servicio libre de discriminación, hostigamiento, acoso, violencia o cualquier conducta que atente contra la dignidad de las personas, promoviendo una cultura de respeto, inclusión, profesionalismo e igualdad de trato entre colaboradores, proveedores, visitantes y clientes.
 
-## 2. Alcance
+## 1. Alcance
 
 El presente protocolo es de observancia obligatoria para:
 
@@ -12,7 +12,7 @@ El presente protocolo es de observancia obligatoria para:
 <span>Todo el personal operativo, administrativo, gerencial y directivo</span><span>Personal temporal, practicantes y prestadores de servicios</span><span>Proveedores y contratistas durante su permanencia en las instalaciones</span><span>Clientes y visitantes en su interacción con el personal y otros clientes</span>
 </div>
 
-## 3. Principios Generales
+## 2. Principios Generales
 
 Toda persona tiene derecho a:
 
@@ -26,7 +26,7 @@ Toda persona tiene derecho a:
 
 El establecimiento mantendrá una política de tolerancia cero hacia cualquier conducta discriminatoria.
 
-## 4. Conductas Prohibidas
+## 3. Conductas Prohibidas
 
 Se prohíbe cualquier acto que implique discriminación, exclusión, rechazo, burla, humillación o trato desigual hacia una persona por motivos relacionados con alguna de estas características protegidas:
 
@@ -34,7 +34,7 @@ Se prohíbe cualquier acto que implique discriminación, exclusión, rechazo, bu
 <span>Origen étnico o nacional</span><span>Color de piel</span><span>Cultura o idioma</span><span>Sexo</span><span>Género</span><span>Identidad o expresión de género</span><span>Orientación sexual</span><span>Estado civil</span><span>Edad</span><span>Condición social o económica</span><span>Apariencia física</span><span>Embarazo o maternidad</span><span>Discapacidad física, sensorial o intelectual</span><span>Religión o creencias</span><span>Opiniones personales</span><span>Condición migratoria</span><span>Cualquier otra protegida por la ley</span>
 </div>
 
-## 5. Conductas Consideradas Discriminatorias
+## 4. Conductas Consideradas Discriminatorias
 
 Se consideran faltas a este protocolo, entre otras:
 
@@ -51,7 +51,7 @@ Se consideran faltas a este protocolo, entre otras:
     * Negarse injustificadamente a atender a un cliente
     * Brindar un servicio deficiente de forma deliberada por motivos discriminatorios
 
-## 6. Trato entre Compañeros de Trabajo
+## 5. Trato entre Compañeros de Trabajo
 
 Todo colaborador deberá:
 
@@ -66,7 +66,7 @@ Todo colaborador deberá:
 !!! danger "Queda prohibido"
     * Intimidar, humillar, ridiculizar o desacreditar a otro miembro del equipo
 
-## 7. Trato hacia Clientes
+## 6. Trato hacia Clientes
 
 Todo cliente deberá recibir atención con cortesía, respeto y profesionalismo.
 
@@ -80,7 +80,7 @@ Todo cliente deberá recibir atención con cortesía, respeto y profesionalismo.
 
 Las diferencias de opinión con clientes deberán manejarse de manera profesional y respetuosa.
 
-## 8. Conductas de Clientes hacia el Personal
+## 7. Conductas de Clientes hacia el Personal
 
 El establecimiento también protege a sus colaboradores.
 
@@ -94,7 +94,7 @@ El establecimiento también protege a sus colaboradores.
 
 El personal podrá solicitar apoyo de la supervisión para atender cualquier situación que comprometa su seguridad o dignidad.
 
-## 9. Reporte de Incidentes
+## 8. Reporte de Incidentes
 
 Cualquier colaborador podrá reportar conductas contrarias a este protocolo mediante:
 
@@ -106,7 +106,7 @@ Cualquier colaborador podrá reportar conductas contrarias a este protocolo medi
 
 Los reportes serán atendidos de manera confidencial y objetiva.
 
-## 10. Prohibición de Represalias
+## 9. Prohibición de Represalias
 
 !!! danger "Queda prohibido"
     * Represaliar a una persona por presentar una queja
@@ -115,7 +115,7 @@ Los reportes serán atendidos de manera confidencial y objetiva.
 
 Las represalias constituyen una falta disciplinaria independiente.
 
-## 11. Investigación Interna
+## 10. Investigación Interna
 
 Toda denuncia será revisada considerando:
 
@@ -125,7 +125,7 @@ Toda denuncia será revisada considerando:
 
 La empresa procurará actuar con imparcialidad y respeto al derecho de audiencia de las personas involucradas.
 
-## 12. Medidas Disciplinarias
+## 11. Medidas Disciplinarias
 
 El incumplimiento de este protocolo podrá dar lugar, de forma progresiva y proporcional, a:
 
@@ -137,7 +137,7 @@ El incumplimiento de este protocolo podrá dar lugar, de forma progresiva y prop
 
 La gravedad de la medida dependerá de la naturaleza de la conducta, sus consecuencias y la existencia de reincidencia.
 
-## 13. Compromiso Institucional
+## 12. Compromiso Institucional
 
 {{ brand.name }} reafirma su compromiso de mantener un ambiente seguro, inclusivo y respetuoso para colaboradores, clientes, proveedores y visitantes, reconociendo que el respeto a la dignidad humana constituye un valor esencial de la organización.
 

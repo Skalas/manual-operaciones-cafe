@@ -1,6 +1,6 @@
 # 2.3 Procedimiento de Investigación Interna y Aplicación de Medidas Disciplinarias
 
-### 1. Objetivo
+## Objetivo
 
 Establecer el procedimiento para la recepción, análisis, investigación, resolución y aplicación de medidas disciplinarias derivadas de reportes, incidencias o incumplimientos a las políticas internas de la empresa.
 
@@ -8,7 +8,7 @@ Este procedimiento busca garantizar decisiones objetivas, proporcionales, docume
 
 ---
 
-## 2. Alcance
+## 1. Alcance
 
 Aplica a todas las situaciones que involucren:
 
@@ -25,7 +25,7 @@ Aplica a todas las situaciones que involucren:
 
 ---
 
-## 3. Principios del Procedimiento
+## 2. Principios del Procedimiento
 
 Toda investigación interna se regirá por:
 
@@ -42,7 +42,7 @@ La finalidad principal es la corrección y mejora de la operación, no la sanci�
 
 ---
 
-## 4. Recepción del Reporte
+## 3. Recepción del Reporte
 
 Todo proceso inicia con:
 
@@ -58,7 +58,7 @@ El reporte será registrado y asignado a un responsable de seguimiento.
 
 ---
 
-## 5. Evaluación Inicial
+## 4. Evaluación Inicial
 
 La persona responsable deberá:
 
@@ -77,7 +77,7 @@ La persona responsable deberá:
 
 ---
 
-## 6. Medidas Preventivas Inmediatas (si aplica)
+## 5. Medidas Preventivas Inmediatas (si aplica)
 
 Cuando exista riesgo para personas, clientes, operación o patrimonio, podrán aplicarse medidas temporales como:
 
@@ -93,7 +93,7 @@ Estas medidas no constituyen una sanción definitiva.
 
 ---
 
-## 7. Inicio de la Investigación
+## 6. Inicio de la Investigación
 
 Cuando el caso lo requiera, se iniciará una investigación interna que podrá incluir:
 
@@ -109,7 +109,7 @@ Cuando el caso lo requiera, se iniciará una investigación interna que podrá i
 
 ---
 
-## 8. Derecho a ser Escuchado
+## 7. Derecho a ser Escuchado
 
 Toda persona involucrada tendrá derecho a:
 
@@ -124,7 +124,7 @@ La empresa buscará siempre una versión completa de los hechos antes de tomar u
 
 ---
 
-## 9. Análisis de la Información
+## 8. Análisis de la Información
 
 Una vez recopilada la información, se analizará considerando:
 
@@ -139,7 +139,7 @@ Una vez recopilada la información, se analizará considerando:
 
 ---
 
-## 10. Determinación de Responsabilidad
+## 9. Determinación de Responsabilidad
 
 Con base en el análisis, se determinará si:
 
@@ -153,7 +153,7 @@ Con base en el análisis, se determinará si:
 
 ---
 
-## 11. Aplicación de Medidas Disciplinarias
+## 10. Aplicación de Medidas Disciplinarias
 
 La clasificación de la falta (Leve, Grave o Muy Grave) se determina conforme al apartado 2.2 (Clasificación de Faltas y Medidas Disciplinarias), que es la referencia única. Este es el catálogo de medidas disponibles, aplicadas de forma proporcional a esa clasificación:
 
@@ -164,7 +164,7 @@ La clasificación de la falta (Leve, Grave o Muy Grave) se determina conforme al
 
 ---
 
-## 12. Proporcionalidad
+## 11. Proporcionalidad
 
 Toda medida deberá ser:
 
@@ -177,7 +177,7 @@ Toda medida deberá ser:
 
 ---
 
-## 13. Comunicación de la Resolución
+## 12. Comunicación de la Resolución
 
 La resolución deberá comunicarse de forma clara e incluir:
 
@@ -191,7 +191,7 @@ La resolución deberá comunicarse de forma clara e incluir:
 
 ---
 
-## 14. Registro del Caso
+## 13. Registro del Caso
 
 Todo caso deberá documentarse y archivarse, incluyendo:
 
@@ -208,7 +208,7 @@ Estos registros serán confidenciales y de uso interno.
 
 ---
 
-## 15. Confidencialidad
+## 14. Confidencialidad
 
 Toda la información relacionada con investigaciones internas deberá manejarse con discreción.
 
@@ -216,7 +216,7 @@ Solo podrán tener acceso las personas directamente involucradas en el proceso.
 
 ---
 
-## 16. Prevención y Mejora Continua
+## 15. Prevención y Mejora Continua
 
 Los resultados de las investigaciones podrán utilizarse para:
 
@@ -231,7 +231,7 @@ El objetivo final es mejorar la operación y prevenir la recurrencia de incident
 
 ---
 
-## 17. Cierre del Caso
+## 16. Cierre del Caso
 
 El caso se considerará cerrado cuando:
 
@@ -244,7 +244,7 @@ El caso se considerará cerrado cuando:
 
 ---
 
-## 18. Filosofía del Procedimiento
+## 17. Filosofía del Procedimiento
 
 La empresa entiende que los errores, conflictos e incidencias forman parte de la operación diaria.
 

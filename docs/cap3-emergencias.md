@@ -2,13 +2,13 @@
 
 ---
 
-## 1. Objetivo
+## Objetivo
 
 Establecer los procedimientos para responder de forma rápida, ordenada y segura ante cualquier emergencia que pueda poner en riesgo a clientes, colaboradores, instalaciones o la continuidad operativa.
 
 ---
 
-## 2. Alcance
+## 1. Alcance
 
 Aplica a:
 
@@ -19,7 +19,7 @@ Aplica a:
 
 ---
 
-## 3. Principios Generales
+## 2. Principios Generales
 
 Toda emergencia deberá atenderse bajo los siguientes principios:
 
@@ -32,7 +32,7 @@ Toda emergencia deberá atenderse bajo los siguientes principios:
 
 ---
 
-## 4. Roles y Responsabilidades
+## 3. Roles y Responsabilidades
 
 <div class="grid cards" markdown>
 
@@ -58,7 +58,7 @@ Toda emergencia deberá atenderse bajo los siguientes principios:
 
 ---
 
-## 5. Emergencias Contempladas
+## 4. Emergencias Contempladas
 
 <div class="chips">
 <span>Incendio</span><span>Sismo</span><span>Fuga de gas</span><span>Falla eléctrica</span><span>Inundación</span><span>Robo</span><span>Asalto</span><span>Persona lesionada</span><span>Cliente inconsciente</span><span>Quemaduras</span><span>Cortaduras</span><span>Derrames químicos</span><span>Contaminación alimentaria</span><span>Intoxicación</span><span>Amenaza externa</span><span>Visitas de autoridad (COFEPRIS, Protección Civil u otras)</span>
@@ -66,7 +66,7 @@ Toda emergencia deberá atenderse bajo los siguientes principios:
 
 ---
 
-## 6. Procedimiento General
+## 5. Procedimiento General
 
 Ante cualquier emergencia:
 
@@ -80,7 +80,7 @@ Ante cualquier emergencia:
 
 ---
 
-## 7. Procedimiento por Incendio
+## 6. Procedimiento por Incendio
 
 1. Activar la alarma verbal.  
 2. Cortar energía eléctrica si es seguro hacerlo.  
@@ -91,7 +91,7 @@ Ante cualquier emergencia:
 
 ---
 
-## 8. Procedimiento por Sismo
+## 7. Procedimiento por Sismo
 
 Durante el movimiento:
 
@@ -108,7 +108,7 @@ Al finalizar:
 
 ---
 
-## 9. Procedimiento por Fuga de Gas
+## 8. Procedimiento por Fuga de Gas
 
 1. No encender ni apagar interruptores eléctricos.  
 2. Cerrar la válvula principal si es seguro hacerlo.  
@@ -119,7 +119,7 @@ Al finalizar:
 
 ---
 
-## 10. Procedimiento por Falla Eléctrica
+## 9. Procedimiento por Falla Eléctrica
 
 * Suspender temporalmente la preparación de bebidas si el equipo no opera de forma segura.  
 * Desconectar equipos sensibles cuando exista riesgo de sobrecarga.  
@@ -128,7 +128,7 @@ Al finalizar:
 
 ---
 
-## 11. Procedimiento por Emergencia Médica
+## 10. Procedimiento por Emergencia Médica
 
 1. Verificar el estado de la persona.  
 2. Solicitar apoyo médico.  
@@ -138,7 +138,7 @@ Al finalizar:
 
 ---
 
-## 12. Procedimiento por Robo o Asalto
+## 11. Procedimiento por Robo o Asalto
 
 * No confrontar al agresor.  
 * Priorizar la integridad física de clientes y colaboradores.  
@@ -148,7 +148,7 @@ Al finalizar:
 
 ---
 
-## 13. Procedimiento por Contaminación Alimentaria
+## 12. Procedimiento por Contaminación Alimentaria
 
 * Retirar inmediatamente el producto involucrado.  
 * Aislar el lote correspondiente.  
@@ -159,7 +159,7 @@ Al finalizar:
 
 ---
 
-## 14. Procedimiento ante Visitas de Autoridad
+## 13. Procedimiento ante Visitas de Autoridad
 
 Cuando se presente una autoridad competente:
 
@@ -171,7 +171,7 @@ Cuando se presente una autoridad competente:
 
 ---
 
-## 15. Botiquín y Equipo de Emergencia
+## 14. Botiquín y Equipo de Emergencia
 
 El establecimiento deberá contar, como mínimo, con:
 
@@ -186,7 +186,7 @@ El establecimiento deberá contar, como mínimo, con:
 
 ---
 
-## 16. Capacitación y Simulacros
+## 15. Capacitación y Simulacros
 
 <ul class="do">
 <li>Inducción obligatoria para todo colaborador de nuevo ingreso</li>
@@ -197,7 +197,7 @@ El establecimiento deberá contar, como mínimo, con:
 
 ---
 
-## 17. Investigación Posterior al Incidente
+## 16. Investigación Posterior al Incidente
 
 Toda emergencia deberá documentarse mediante un reporte que incluya:
 

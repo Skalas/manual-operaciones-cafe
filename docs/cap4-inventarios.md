@@ -1,6 +1,6 @@
 # 4.2 Política de Inventarios y Control de Mermas
 
-## 1. Objetivo
+## Objetivo
 
 Establecer los lineamientos para la recepción, almacenamiento, control, uso, registro y disposición de materias primas, productos terminados, insumos, materiales de operación y mercancías, con el fin de garantizar la integridad del inventario, reducir pérdidas y mantener la rentabilidad de la empresa.
 
@@ -8,7 +8,7 @@ Esta política es obligatoria para todo colaborador que tenga acceso a inventari
 
 ---
 
-## 2. Principios Generales
+## 1. Principios Generales
 
 <ul class="do">
 <li>Todo producto que ingrese a la empresa es identificable y registrable</li>
@@ -20,7 +20,7 @@ Esta política es obligatoria para todo colaborador que tenga acceso a inventari
 
 ---
 
-## 3. Recepción de Mercancías
+## 2. Recepción de Mercancías
 
 Al recibir mercancía deberá verificarse:
 
@@ -43,7 +43,7 @@ Cualquier anomalía deberá reportarse inmediatamente.
 
 ---
 
-## 4. Almacenamiento
+## 3. Almacenamiento
 
 Todos los productos deberán almacenarse:
 
@@ -58,7 +58,7 @@ Los alimentos, bebidas y materiales deberán mantenerse organizados para facilit
 
 ---
 
-## 5. Sistema PEPS
+## 4. Sistema PEPS
 
 La empresa utilizará el sistema:
 
@@ -70,7 +70,7 @@ La falta de rotación adecuada podrá considerarse incumplimiento operativo.
 
 ---
 
-## 6. Movimientos de Inventario
+## 5. Movimientos de Inventario
 
 Todo movimiento deberá ser justificable y, cuando corresponda, registrarse.
 
@@ -80,13 +80,13 @@ Se consideran movimientos válidos:
 
 ---
 
-## 7. Definición de Merma
+## 6. Definición de Merma
 
 Se considera merma cualquier pérdida parcial o total de producto que impida su comercialización o utilización normal.
 
 Las mermas podrán clasificarse como:
 
-#### Merma Operativa
+### Merma Operativa
 
 Derivada de actividades normales de trabajo.
 
@@ -96,7 +96,7 @@ Ejemplos:
 <span>Calibración de espresso</span><span>Pruebas de recetas</span><span>Catas</span><span>Ajustes de molienda</span><span>Purgas necesarias</span>
 </div>
 
-#### Merma por Producción
+### Merma por Producción
 
 Derivada de procesos de preparación.
 
@@ -106,15 +106,15 @@ Ejemplos:
 <span>Derrames accidentales</span><span>Errores de preparación</span><span>Desperdicios inevitables</span>
 </div>
 
-#### Merma por Caducidad
+### Merma por Caducidad
 
 Productos que excedieron su vida útil.
 
-#### Merma por Daño
+### Merma por Daño
 
 Productos afectados por golpes, contaminación, fallas de almacenamiento o accidentes.
 
-#### Merma Extraordinaria
+### Merma Extraordinaria
 
 Pérdidas derivadas de eventos fuera de lo normal.
 
@@ -126,7 +126,7 @@ Ejemplos:
 
 ---
 
-## 8. Registro de Mermas
+## 7. Registro de Mermas
 
 Toda merma deberá registrarse cuando los procedimientos internos así lo requieran.
 
@@ -138,7 +138,7 @@ La omisión deliberada de mermas podrá considerarse una falta disciplinaria.
 
 ---
 
-## 9. Consumo Interno
+## 8. Consumo Interno
 
 Todo consumo interno deberá cumplir con la Política de Consumo de Alimentos y Bebidas.
 
@@ -146,7 +146,7 @@ Queda prohibido utilizar la figura de merma para justificar consumos no autoriza
 
 ---
 
-## 10. Cortesías y Degustaciones
+## 9. Cortesías y Degustaciones
 
 Las cortesías y degustaciones autorizadas deberán registrarse cuando corresponda.
 
@@ -154,7 +154,7 @@ No constituyen mermas cuando formen parte de estrategias comerciales o de capaci
 
 ---
 
-## 11. Inventarios Físicos
+## 10. Inventarios Físicos
 
 La empresa podrá realizar:
 
@@ -164,7 +164,7 @@ Todo colaborador deberá colaborar durante los procesos de conteo y verificació
 
 ---
 
-## 12. Diferencias de Inventario
+## 11. Diferencias de Inventario
 
 Cuando se detecten diferencias:
 
@@ -178,7 +178,7 @@ Las diferencias no implican automáticamente responsabilidad individual.
 
 ---
 
-## 13. Productos Próximos a Caducar
+## 12. Productos Próximos a Caducar
 
 Los productos cercanos a su fecha límite deberán identificarse oportunamente para:
 
@@ -191,7 +191,7 @@ Los productos cercanos a su fecha límite deberán identificarse oportunamente p
 
 ---
 
-## 14. Productos Caducados o No Conformes
+## 13. Productos Caducados o No Conformes
 
 Todo producto caducado, contaminado o no apto para consumo deberá retirarse inmediatamente del inventario activo.
 
@@ -203,7 +203,7 @@ Todo producto caducado, contaminado o no apto para consumo deberá retirarse inm
 
 ---
 
-## 15. Responsabilidades del Personal
+## 14. Responsabilidades del Personal
 
 Todo colaborador deberá:
 
@@ -217,7 +217,7 @@ Todo colaborador deberá:
 
 ---
 
-## 16. Conductas Consideradas Graves o Muy Graves
+## 15. Conductas Consideradas Graves o Muy Graves
 
 !!! danger "Podrán considerarse faltas graves o muy graves"
     - Ocultar mermas.
@@ -231,6 +231,6 @@ Todo colaborador deberá:
 
 ---
 
-## 17. Cumplimiento
+## 16. Cumplimiento
 
 El cumplimiento de esta política es obligatorio para todo el personal involucrado en el manejo de inventarios, insumos, productos terminados y materiales de operación.

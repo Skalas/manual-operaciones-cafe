@@ -1,6 +1,6 @@
 # 1.2 Lineamientos de Convivencia y Cultura de Hospitalidad
 
-## 1. Objetivo
+## Objetivo
 
 Establecer principios de convivencia, comunicación y colaboración que contribuyan a mantener un ambiente de trabajo respetuoso, profesional y orientado al servicio.
 
@@ -8,7 +8,7 @@ La hospitalidad comienza dentro del equipo. La forma en que los colaboradores se
 
 ---
 
-## 2. Principios de Cultura Organizacional
+## 1. Principios de Cultura Organizacional
 
 Toda persona que forme parte de la empresa deberá procurar:
 
@@ -18,7 +18,7 @@ Estos principios deberán reflejarse tanto en la atención al cliente como en la
 
 ---
 
-## 3. Respeto Mutuo
+## 2. Respeto Mutuo
 
 Todo colaborador deberá:
 
@@ -35,7 +35,7 @@ Todo colaborador deberá:
 
 ---
 
-## 4. Comunicación Profesional
+## 3. Comunicación Profesional
 
 La comunicación dentro del equipo deberá ser:
 
@@ -52,7 +52,7 @@ Se espera que los colaboradores:
 
 ---
 
-## 5. Retroalimentación y Aprendizaje
+## 4. Retroalimentación y Aprendizaje
 
 La empresa reconoce que los errores forman parte del proceso de aprendizaje.
 
@@ -68,7 +68,7 @@ Se espera que cada colaborador mantenga apertura para aprender y mejorar continu
 
 ---
 
-## 6. Trabajo en Equipo
+## 5. Trabajo en Equipo
 
 Toda persona deberá contribuir al buen funcionamiento de la operación.
 
@@ -85,7 +85,7 @@ El éxito de la operación es una responsabilidad compartida.
 
 ---
 
-## 7. Manejo de Conflictos
+## 6. Manejo de Conflictos
 
 Los desacuerdos son una situación normal dentro de cualquier organización.
 
@@ -103,7 +103,7 @@ Cuando surjan conflictos:
 
 ---
 
-## 8. Conducta Durante Periodos de Alta Demanda
+## 7. Conducta Durante Periodos de Alta Demanda
 
 Durante horas pico o situaciones de presión operativa se espera que los colaboradores:
 
@@ -119,7 +119,7 @@ La presión operativa no justifica faltas de respeto.
 
 ---
 
-## 9. Hospitalidad Interna
+## 8. Hospitalidad Interna
 
 La hospitalidad no se limita a los clientes.
 
@@ -134,7 +134,7 @@ Se espera que cada colaborador:
 
 ---
 
-## 10. Relación con Clientes
+## 9. Relación con Clientes
 
 Toda interacción con clientes deberá caracterizarse por:
 
@@ -144,7 +144,7 @@ Incluso ante situaciones difíciles, el personal deberá mantener la compostura 
 
 ---
 
-## 11. Relación con Proveedores y Visitantes
+## 10. Relación con Proveedores y Visitantes
 
 Los proveedores y visitantes deberán recibir un trato respetuoso y profesional.
 
@@ -152,7 +152,7 @@ Toda interacción deberá reflejar los valores de la empresa.
 
 ---
 
-## 12. Inclusión y Diversidad
+## 11. Inclusión y Diversidad
 
 La empresa valora la diversidad de experiencias, conocimientos y perspectivas.
 
@@ -160,7 +160,7 @@ Se espera que todas las personas contribuyan a crear un ambiente donde cada indi
 
 ---
 
-## 13. Uso Responsable del Humor
+## 12. Uso Responsable del Humor
 
 Las bromas y conversaciones informales forman parte de la convivencia cotidiana.
 
@@ -176,7 +176,7 @@ Cuando una persona manifieste incomodidad respecto a un tema, éste deberá dete
 
 ---
 
-## 14. Imagen Profesional
+## 13. Imagen Profesional
 
 Cada colaborador representa a la empresa mediante su conducta, presentación y actitud.
 
@@ -191,7 +191,7 @@ Se espera que las acciones diarias reflejen:
 
 ---
 
-## 15. Filosofía de Hospitalidad
+## 14. Filosofía de Hospitalidad
 
 La empresa entiende la hospitalidad como la capacidad de hacer que otras personas se sientan bienvenidas, respetadas y atendidas.
 

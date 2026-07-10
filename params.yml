@@ -1,0 +1,11 @@
+# Parámetros operativos de referencia — fuente única de verdad.
+#
+# Se exponen en las páginas del manual vía main.py (mkdocs-macros), p. ej.
+# {{ espresso.dosis.rango }} {{ espresso.dosis.unidad }}, y los lee
+# scripts/build_formatos_pdf.py para la bitácora imprimible. Editar aquí
+# actualiza a la vez el sitio y los PDF.
+espresso:
+  dosis:       { rango: "18–20", unidad: "g" }
+  rendimiento: { rango: "36–42", unidad: "g" }
+  tiempo:      { rango: "25–32", unidad: "s" }
+  temperatura: { rango: "92–94", unidad: "°C" }

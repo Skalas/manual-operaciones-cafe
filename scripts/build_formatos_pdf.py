@@ -25,6 +25,23 @@ _brand_id = os.environ.get("BRAND", "brown")
 _brand = yaml.safe_load((ROOT / "brands" / f"{_brand_id}.yml").read_text(encoding="utf-8"))
 BRAND = _brand["name"]
 
+# Parámetros operativos: fuente única compartida con el sitio (ver params.yml).
+_params = yaml.safe_load((ROOT / "params.yml").read_text(encoding="utf-8"))
+_esp = _params["espresso"]
+
+
+def _esp_line(key: str) -> str:
+    p = _esp[key]
+    # fpdf2 con fuentes core usa latin-1: el guion largo (–) no es representable.
+    return f"{p['rango'].replace('–', '-')} {p['unidad']}"
+
+
+ESPRESSO_NOTE = (
+    f"Parámetros de referencia: dosis {_esp_line('dosis')}, "
+    f"rendimiento {_esp_line('rendimiento')}, tiempo {_esp_line('tiempo')}, "
+    f"temperatura {_esp_line('temperatura')}."
+)
+
 # --- Definición de formatos (misma estructura que docs/formatos.md) ---
 # Cada bloque: ("fields", [labels]) | ("check", [items]) | ("table", (headers, n_rows))
 #              | ("text", "parrafo") | ("note", "linea gris")
@@ -81,8 +98,7 @@ FORMATOS: list[dict] = [
         "blocks": [
             ("table", (["Fecha", "Hora", "Café / lote", "Dosis (g)", "Rend. (g)",
                         "Tiempo (s)", "Temp. (C)", "Responsable"], 12)),
-            ("note", "Parámetros de referencia: dosis 18-20 g, rendimiento 36-42 g, "
-                     "tiempo 25-32 s, temperatura 92-94 C."),
+            ("note", ESPRESSO_NOTE),
         ],
     },
     {

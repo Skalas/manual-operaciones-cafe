@@ -2,7 +2,7 @@
 
 ---
 
-## 1. Objetivo
+## Objetivo
 
 Establecer los lineamientos de conducta, operación, disciplina, seguridad, higiene, presentación personal y desempeño profesional que deberán observar todas las personas colaboradoras.
 
@@ -10,7 +10,7 @@ El presente Manual forma parte integrante de la documentación laboral de la emp
 
 ---
 
-## 2. Misión del Colaborador
+## 1. Misión del Colaborador
 
 Todo colaborador deberá contribuir a:
 
@@ -25,31 +25,31 @@ Todo colaborador deberá contribuir a:
 
 ---
 
-## 3. Valores de la Empresa
+## 2. Valores de la Empresa
 
-#### Profesionalismo
+### Profesionalismo
 
 Realizar las actividades asignadas con responsabilidad y excelencia.
 
-#### Respeto
+### Respeto
 
 Mantener una convivencia sana entre colaboradores, clientes y proveedores.
 
-#### Honestidad
+### Honestidad
 
 Actuar con integridad en el manejo de dinero, insumos y recursos.
 
-#### Disciplina
+### Disciplina
 
 Cumplir procedimientos, horarios y lineamientos establecidos.
 
-#### Sentido de urgencia
+### Sentido de urgencia
 
 Atender las necesidades operativas de manera eficiente.
 
 ---
 
-## 4. Cadena de Mando
+## 3. Cadena de Mando
 
 La estructura organizacional oficial será:
 
@@ -81,7 +81,7 @@ deberán ser atendidas de forma inmediata siempre que sean compatibles con las f
 
 ---
 
-## 5. Conducta y Respeto
+## 4. Conducta y Respeto
 
 !!! danger "Queda prohibido"
     - Insultar o amenazar a compañeros, superiores o clientes.
@@ -94,7 +94,7 @@ deberán ser atendidas de forma inmediata siempre que sean compatibles con las f
 
 ---
 
-## 6. Respeto a la Propiedad Ajena
+## 5. Respeto a la Propiedad Ajena
 
 !!! danger "Queda prohibido"
     Sin autorización previa, ningún colaborador podrá:
@@ -106,7 +106,7 @@ deberán ser atendidas de forma inmediata siempre que sean compatibles con las f
 
 ---
 
-## 7. Relación con Clientes
+## 6. Relación con Clientes
 
 Todo cliente deberá recibir trato cordial · atención profesional · respeto.
 
@@ -118,7 +118,7 @@ Todo cliente deberá recibir trato cordial · atención profesional · respeto.
 
 ---
 
-## 8. Presentación Personal
+## 7. Presentación Personal
 
 Los colaboradores deberán presentarse:
 
@@ -128,7 +128,7 @@ Los colaboradores deberán presentarse:
 
 ---
 
-## 9. Uniforme Obligatorio
+## 8. Uniforme Obligatorio
 
 !!! danger "Prohibido en el uniforme"
     **Calzado:** chanclas · sandalias · huaraches · calzado abierto.
@@ -139,7 +139,7 @@ Los colaboradores deberán presentarse:
 
 ---
 
-## 10. Higiene Personal
+## 9. Higiene Personal
 
 | Aspecto | Estándar |
 | ----- | ----- |
@@ -149,7 +149,7 @@ Los colaboradores deberán presentarse:
 
 ---
 
-## 11. Seguridad Alimentaria
+## 10. Seguridad Alimentaria
 
 Todo colaborador deberá:
 
@@ -162,7 +162,7 @@ Todo colaborador deberá:
 
 ---
 
-## 12. Limpieza Operativa
+## 11. Limpieza Operativa
 
 Durante toda la jornada se deberá:
 
@@ -176,21 +176,21 @@ Durante toda la jornada se deberá:
 
 ---
 
-## 13. Puntualidad
+## 12. Puntualidad
 
 Se concede una tolerancia de:
 
-#### 15 minutos
+### 15 minutos
 
 Después de ese periodo se registrará un retardo.
 
-#### 5 retardos
+### 5 retardos
 
 Equivalen a una falta leve, conforme a la clasificación única del apartado 2.2 (Clasificación de Faltas y Medidas Disciplinarias).
 
 ---
 
-## 14. Ausencias
+## 13. Ausencias
 
 Toda ausencia deberá notificarse:
 
@@ -201,7 +201,7 @@ tan pronto como sea posible.
 
 ---
 
-## 15. Horarios
+## 14. Horarios
 
 Ningún colaborador podrá modificar:
 
@@ -213,7 +213,7 @@ sin autorización.
 
 ---
 
-## 16. Alcohol y Drogas
+## 15. Alcohol y Drogas
 
 !!! danger "Queda prohibido"
     - Presentarse intoxicado.
@@ -223,7 +223,7 @@ sin autorización.
 
 ---
 
-## 17. Uso de Redes Sociales
+## 16. Uso de Redes Sociales
 
 !!! danger "Queda prohibido"
     Sin autorización, ningún colaborador podrá:
@@ -234,7 +234,7 @@ sin autorización.
 
 ---
 
-## 18. Confidencialidad
+## 17. Confidencialidad
 
 !!! info "Información confidencial"
     - Recetas.
@@ -250,7 +250,7 @@ La obligación continúa incluso después de terminar la relación laboral.
 
 ---
 
-## 19. Inventarios y Mermas
+## 18. Inventarios y Mermas
 
 Todo colaborador deberá reportar de forma inmediata:
 
@@ -260,9 +260,9 @@ Todo colaborador deberá reportar de forma inmediata:
 
 ---
 
-## 20. Descripción de Puesto: Barista
+## 19. Descripción de Puesto: Barista
 
-#### Responsabilidades
+### Responsabilidades
 
 1. Cumplir checklist.  
 2. Registrar asistencia.  
@@ -281,7 +281,7 @@ Todo colaborador deberá reportar de forma inmediata:
 
 ---
 
-## 21. Medidas Disciplinarias
+## 20. Medidas Disciplinarias
 
 Las faltas se clasifican y sancionan conforme a una **única** taxonomía —**Leve, Grave y Muy Grave**— definida en el apartado 2.2 (Clasificación de Faltas y Medidas Disciplinarias). Ese apartado es la referencia oficial; este manual no maneja escalas paralelas.
 
@@ -295,7 +295,7 @@ Las medidas disponibles, aplicadas de forma progresiva y proporcional según la 
 
 ---
 
-## 22. Acuse de Recibido
+## 21. Acuse de Recibido
 
 Al final debe existir una hoja independiente con:
 

@@ -18,8 +18,14 @@ ROOT = Path(__file__).resolve().parent.parent
 BRAND = os.environ.get("BRAND", "brown")
 data = yaml.safe_load((ROOT / "brands" / f"{BRAND}.yml").read_text(encoding="utf-8"))
 
-accent = data.get("accent", "#92400E")
-accent_light = data.get("accent_light", "#C2691C")
+missing = [k for k in ("accent", "accent_light") if not data.get(k)]
+if missing:
+    raise SystemExit(
+        f"brands/{BRAND}.yml no define {', '.join(missing)}. "
+        "Cada marca debe declarar 'accent' y 'accent_light' (hex)."
+    )
+accent = data["accent"]
+accent_light = data["accent_light"]
 
 css = f"""/* Generado por scripts/gen_brand_css.py — no editar a mano. Marca: {BRAND}. */
 :root {{

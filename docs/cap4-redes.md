@@ -1,6 +1,6 @@
 # 4.5 Política de Uso de Redes Sociales e Imagen de Marca
 
-### 1. Objetivo
+## Objetivo
 
 Establecer lineamientos para el uso responsable de redes sociales y medios digitales por parte de colaboradores, con el fin de proteger la imagen, reputación, información y relaciones comerciales de la empresa.
 
@@ -8,7 +8,7 @@ La empresa reconoce el derecho de cada persona a mantener y utilizar sus redes s
 
 ---
 
-## 2. Alcance
+## 1. Alcance
 
 Esta política aplica a:
 
@@ -16,7 +16,7 @@ Esta política aplica a:
 
 ---
 
-## 3. Principios Generales
+## 2. Principios Generales
 
 Todo colaborador deberá:
 
@@ -31,7 +31,7 @@ La empresa no pretende supervisar la actividad privada de los colaboradores fuer
 
 ---
 
-## 4. Publicaciones Relacionadas con la Empresa
+## 3. Publicaciones Relacionadas con la Empresa
 
 Se permite compartir:
 
@@ -47,7 +47,7 @@ Siempre que dicha información:
 
 ---
 
-## 5. Información Confidencial
+## 4. Información Confidencial
 
 Se considera información confidencial, entre otra:
 
@@ -58,7 +58,7 @@ Se considera información confidencial, entre otra:
 
 ---
 
-## 6. Fotografías y Videos Dentro de las Instalaciones
+## 5. Fotografías y Videos Dentro de las Instalaciones
 
 Se permite tomar fotografías o videos personales siempre que:
 
@@ -73,7 +73,7 @@ La empresa podrá restringir la toma de imágenes en áreas específicas cuando 
 
 ---
 
-## 7. Clientes
+## 6. Clientes
 
 !!! danger "Queda prohibido"
     - Publicar fotografías de clientes sin su consentimiento.
@@ -85,7 +85,7 @@ La experiencia y privacidad de los clientes deberán respetarse en todo momento.
 
 ---
 
-## 8. Compañeros de Trabajo y Proveedores
+## 7. Compañeros de Trabajo y Proveedores
 
 !!! danger "Queda prohibido"
     - Difundir información privada de compañeros.
@@ -95,7 +95,7 @@ La experiencia y privacidad de los clientes deberán respetarse en todo momento.
 
 ---
 
-## 9. Uso de Logotipos y Material de Marca
+## 8. Uso de Logotipos y Material de Marca
 
 Los logotipos, diseños, fotografías institucionales y materiales de marca son propiedad de la empresa.
 
@@ -103,7 +103,7 @@ Su utilización con fines comerciales requerirá autorización previa.
 
 ---
 
-## 10. Vocería Institucional
+## 9. Vocería Institucional
 
 Únicamente las personas autorizadas podrán:
 
@@ -118,7 +118,7 @@ Ningún colaborador deberá presentarse como portavoz oficial sin autorización 
 
 ---
 
-## 11. Contenido Prohibido
+## 10. Contenido Prohibido
 
 !!! danger "Queda prohibido publicar contenido que"
     - Revele información confidencial.
@@ -131,7 +131,7 @@ Ningún colaborador deberá presentarse como portavoz oficial sin autorización 
 
 ---
 
-## 12. Cuentas Oficiales
+## 11. Cuentas Oficiales
 
 Las cuentas oficiales de la empresa:
 
@@ -151,7 +151,7 @@ Todo acceso deberá mantenerse protegido y confidencial.
 
 ---
 
-## 13. Creación de Contenido Durante la Jornada
+## 12. Creación de Contenido Durante la Jornada
 
 La generación de contenido para redes sociales deberá:
 
@@ -165,13 +165,13 @@ La atención a clientes siempre tendrá prioridad sobre la generación de conten
 
 ---
 
-## 14. Propiedad Intelectual
+## 13. Propiedad Intelectual
 
 Todo material desarrollado dentro de las funciones laborales para la empresa podrá considerarse propiedad de la organización conforme a la legislación aplicable y los acuerdos celebrados entre las partes.
 
 ---
 
-## 15. Reporte de Riesgos Reputacionales
+## 14. Reporte de Riesgos Reputacionales
 
 Todo colaborador deberá informar cuando detecte:
 
@@ -185,7 +185,7 @@ Todo colaborador deberá informar cuando detecte:
 
 ---
 
-## 16. Incumplimientos
+## 15. Incumplimientos
 
 El incumplimiento de esta política podrá clasificarse como falta leve, grave o muy grave según la naturaleza de la conducta, la intención, el impacto generado y los daños ocasionados a la empresa o a terceros.
 

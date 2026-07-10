@@ -1,6 +1,6 @@
 # 2.5 Política de Prevención de Hostigamiento, Acoso y Discriminación
 
-### 1. Objetivo
+## Objetivo
 
 Establecer lineamientos para prevenir, identificar, reportar y atender conductas de hostigamiento, acoso, violencia y discriminación dentro de la empresa, promoviendo un ambiente laboral seguro, digno, respetuoso y profesional para todas las personas.
 
@@ -8,7 +8,7 @@ La empresa mantiene una política de tolerancia cero hacia conductas que atenten
 
 ---
 
-## 2. Alcance
+## 1. Alcance
 
 Esta política aplica a:
 
@@ -25,7 +25,7 @@ Esta política aplica a:
 
 ---
 
-## 3. Principios Generales
+## 2. Principios Generales
 
 Toda persona deberá:
 
@@ -40,7 +40,7 @@ La empresa promoverá un entorno libre de violencia, hostigamiento y discriminac
 
 ---
 
-## 4. Definiciones
+## 3. Definiciones
 
 <div class="grid cards" markdown>
 
@@ -60,7 +60,7 @@ La empresa promoverá un entorno libre de violencia, hostigamiento y discriminac
 
 ---
 
-## 5. Conductas Prohibidas
+## 4. Conductas Prohibidas
 
 !!! danger "Queda prohibido, entre otras conductas"
     - Insultos.
@@ -82,7 +82,7 @@ La empresa promoverá un entorno libre de violencia, hostigamiento y discriminac
 
 ---
 
-## 6. Conductas Relacionadas con Clientes y Proveedores
+## 5. Conductas Relacionadas con Clientes y Proveedores
 
 Todo colaborador deberá mantener trato respetuoso hacia clientes y proveedores.
 
@@ -98,7 +98,7 @@ La empresa podrá negar servicio o solicitar el retiro de personas que generen r
 
 ---
 
-## 7. Relaciones Personales Dentro del Trabajo
+## 6. Relaciones Personales Dentro del Trabajo
 
 Las relaciones personales entre colaboradores deberán manejarse con profesionalismo y sin afectar:
 
@@ -114,7 +114,7 @@ Las relaciones personales entre colaboradores deberán manejarse con profesional
 
 ---
 
-## 8. Reportes
+## 7. Reportes
 
 Toda persona podrá reportar situaciones relacionadas con:
 
@@ -137,7 +137,7 @@ Los reportes podrán realizarse ante:
 
 ---
 
-## 9. Confidencialidad
+## 8. Confidencialidad
 
 La empresa procurará manejar los reportes con discreción y confidencialidad razonable.
 
@@ -145,7 +145,7 @@ La información será compartida únicamente con las personas necesarias para at
 
 ---
 
-## 10. Investigación
+## 9. Investigación
 
 La empresa podrá realizar revisiones internas cuando exista conocimiento de posibles conductas contrarias a esta política.
 
@@ -162,7 +162,7 @@ Toda persona involucrada deberá conducirse con honestidad y respeto durante el 
 
 ---
 
-## 11. Prohibición de Represalias
+## 10. Prohibición de Represalias
 
 !!! danger "Queda prohibido"
     Tomar represalias contra cualquier persona que:
@@ -175,7 +175,7 @@ Las represalias podrán considerarse faltas graves o muy graves.
 
 ---
 
-## 12. Medidas Correctivas
+## 11. Medidas Correctivas
 
 Cuando se determine la existencia de conductas contrarias a esta política, la empresa podrá aplicar medidas conforme a la gravedad de la situación, incluyendo:
 
@@ -187,7 +187,7 @@ Cuando se determine la existencia de conductas contrarias a esta política, la e
 
 ---
 
-## 13. Reportes Falsos
+## 12. Reportes Falsos
 
 La empresa reconoce el derecho de toda persona a reportar situaciones de buena fe.
 
@@ -195,7 +195,7 @@ Sin embargo, la fabricación deliberada de acusaciones falsas con intención de 
 
 ---
 
-## 14. Compromiso Institucional
+## 13. Compromiso Institucional
 
 La empresa reconoce que un ambiente laboral sano, seguro y respetuoso es fundamental para la calidad del servicio, el bienestar del equipo y el desarrollo sostenible de la organización.
 

@@ -6,7 +6,7 @@ Este apartado establece la **clasificación única** de faltas de la empresa —
 
 <div class="sev leve" markdown>
 
-### :material-alert-circle-outline: Faltas leves <span class="tag">Nivel 1</span>
+## :material-alert-circle-outline: Faltas leves <span class="tag">Nivel 1</span>
 
 Conductas que afectan la operación, imagen o disciplina **sin** poner en riesgo la seguridad de las personas o bienes.
 
@@ -28,7 +28,7 @@ Conductas que afectan la operación, imagen o disciplina **sin** poner en riesgo
 
 <div class="sev grave" markdown>
 
-### :material-alert: Faltas graves <span class="tag">Nivel 2</span>
+## :material-alert: Faltas graves <span class="tag">Nivel 2</span>
 
 Conductas que afectan **significativamente** la operación, la seguridad alimentaria, la imagen del establecimiento o el ambiente laboral.
 
@@ -53,7 +53,7 @@ Conductas que afectan **significativamente** la operación, la seguridad aliment
 
 <div class="sev muygrave" markdown>
 
-### :material-alert-octagon: Faltas muy graves <span class="tag">Nivel 3</span>
+## :material-alert-octagon: Faltas muy graves <span class="tag">Nivel 3</span>
 
 Conductas que comprometen la seguridad, integridad, patrimonio o reputación de la empresa, o que constituyen causa de rescisión conforme al **artículo 47 de la Ley Federal del Trabajo**.
 

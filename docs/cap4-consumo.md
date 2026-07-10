@@ -1,6 +1,6 @@
 # 4.4 Política de Consumo de Alimentos y Bebidas
 
-### 1. Objetivo
+## Objetivo
 
 Establecer las reglas para el consumo de alimentos y bebidas por parte del personal, con el fin de garantizar un control adecuado de inventarios, costos, mermas y seguridad alimentaria.
 
@@ -8,7 +8,7 @@ Esta política aplica a todos los colaboradores, socios operativos, practicantes
 
 ---
 
-## 2. Principios Generales
+## 1. Principios Generales
 
 <ul class="do">
 <li>Ningún producto destinado a la venta se consume sin autorización o registro correspondiente</li>
@@ -19,7 +19,7 @@ Esta política aplica a todos los colaboradores, socios operativos, practicantes
 
 ---
 
-## 3. Consumo de Agua
+## 2. Consumo de Agua
 
 La empresa garantizará acceso a agua potable para todos los colaboradores durante su jornada laboral.
 
@@ -27,7 +27,7 @@ El personal podrá consumir agua libremente utilizando recipientes limpios desti
 
 ---
 
-## 4. Bebida de Cortesía del Personal
+## 3. Bebida de Cortesía del Personal
 
 Con el objetivo de fomentar el conocimiento del producto y la calidad del servicio, cada colaborador tiene derecho a **una (1) bebida de cortesía por turno**, de cualquier tipo del menú.
 
@@ -43,7 +43,7 @@ El consumo de agua potable es libre y no cuenta como la bebida de cortesía (ver
 
 ---
 
-## 5. Degustaciones Operativas
+## 4. Degustaciones Operativas
 
 Se consideran degustaciones operativas aquellas necesarias para:
 
@@ -59,7 +59,7 @@ Estas degustaciones:
 
 ---
 
-## 6. Consumo de Alimentos del Personal
+## 5. Consumo de Alimentos del Personal
 
 El personal podrá consumir alimentos propios únicamente en áreas y horarios autorizados.
 
@@ -68,7 +68,7 @@ El personal podrá consumir alimentos propios únicamente en áreas y horarios a
 
 ---
 
-## 7. Consumo de Productos de Venta
+## 6. Consumo de Productos de Venta
 
 Todo producto destinado a la venta que sea consumido por el personal deberá cumplir alguno de los siguientes supuestos:
 
@@ -83,7 +83,7 @@ Fuera de estos supuestos, el consumo se considerará no autorizado.
 
 ---
 
-## 8. Productos de Merma
+## 7. Productos de Merma
 
 Se consideran productos de merma aquellos que:
 
@@ -95,7 +95,7 @@ Ningún colaborador podrá declarar un producto como merma por cuenta propia.
 
 ---
 
-## 9. Cortesías
+## 8. Cortesías
 
 Las cortesías otorgadas a clientes deberán apegarse a las políticas comerciales vigentes.
 
@@ -103,7 +103,7 @@ Ningún colaborador podrá otorgar productos gratuitos sin autorización expresa
 
 ---
 
-## 10. Registro de Consumos
+## 9. Registro de Consumos
 
 Cuando la empresa lo determine, los consumos internos deberán registrarse indicando:
 
@@ -113,7 +113,7 @@ La omisión deliberada de registros podrá constituir una falta disciplinaria.
 
 ---
 
-## 11. Consumo de Bebidas Alcohólicas
+## 10. Consumo de Bebidas Alcohólicas
 
 !!! danger "Queda prohibido"
     - Consumir bebidas alcohólicas durante la jornada laboral.
@@ -126,7 +126,7 @@ Las excepciones relacionadas con catas, desarrollo de producto o eventos especia
 
 ---
 
-## 12. Sustancias Prohibidas
+## 11. Sustancias Prohibidas
 
 !!! danger "Queda estrictamente prohibido"
     - Consumir drogas o sustancias ilícitas.
@@ -137,6 +137,6 @@ Estas conductas podrán considerarse faltas muy graves.
 
 ---
 
-## 13. Consecuencias del Incumplimiento
+## 12. Consecuencias del Incumplimiento
 
 El incumplimiento de esta política podrá ser clasificado como falta leve, grave o muy grave según la naturaleza de la conducta y dará lugar a la aplicación de las medidas disciplinarias correspondientes

@@ -1,6 +1,6 @@
 # 4.3 Política de Caja y Manejo de Efectivo
 
-### 1. Objetivo
+## Objetivo
 
 Establecer los procedimientos y responsabilidades para el manejo de efectivo, terminales de pago, fondos de caja, propinas y valores administrados por la empresa, garantizando transparencia, seguridad y control operativo.
 
@@ -8,7 +8,7 @@ Esta política es de cumplimiento obligatorio para todo colaborador que tenga ac
 
 ---
 
-## 2. Principios Generales
+## 1. Principios Generales
 
 <ul class="do">
 <li>Todo ingreso se registra en el sistema de venta autorizado por la empresa</li>
@@ -20,7 +20,7 @@ Esta política es de cumplimiento obligatorio para todo colaborador que tenga ac
 
 ---
 
-## 3. Fondo de Caja
+## 2. Fondo de Caja
 
 La empresa podrá asignar un fondo de caja para operaciones diarias.
 
@@ -36,7 +36,7 @@ Ningún colaborador podrá modificar el monto del fondo sin autorización.
 
 ---
 
-## 4. Registro de Ventas
+## 3. Registro de Ventas
 
 Toda venta deberá:
 
@@ -54,7 +54,7 @@ Toda venta deberá:
 
 ---
 
-## 5. Manejo de Efectivo
+## 4. Manejo de Efectivo
 
 El efectivo recibido deberá:
 
@@ -72,7 +72,7 @@ El efectivo recibido deberá:
 
 ---
 
-## 6. Terminales Bancarias y Medios Electrónicos
+## 5. Terminales Bancarias y Medios Electrónicos
 
 Todo colaborador autorizado para operar terminales deberá:
 
@@ -89,7 +89,7 @@ Todo colaborador autorizado para operar terminales deberá:
 
 ---
 
-## 7. Cancelaciones y Reembolsos
+## 6. Cancelaciones y Reembolsos
 
 Toda cancelación o reembolso deberá:
 
@@ -103,7 +103,7 @@ Las cancelaciones no autorizadas podrán ser sujetas a investigación.
 
 ---
 
-## 8. Descuentos y Cortesías
+## 7. Descuentos y Cortesías
 
 Los descuentos y cortesías únicamente podrán otorgarse por personas autorizadas.
 
@@ -119,7 +119,7 @@ Queda prohibido aplicar descuentos personales sin autorización.
 
 ---
 
-## 9. Arqueos de Caja
+## 8. Arqueos de Caja
 
 La empresa podrá realizar arqueos:
 
@@ -129,7 +129,7 @@ Todo colaborador deberá colaborar durante el proceso de verificación.
 
 ---
 
-## 10. Cierres de Caja
+## 9. Cierres de Caja
 
 Al finalizar cada turno deberá realizarse:
 
@@ -144,7 +144,7 @@ Toda diferencia detectada deberá documentarse.
 
 ---
 
-## 11. Faltantes y Sobrantes
+## 10. Faltantes y Sobrantes
 
 Cuando exista una diferencia entre el efectivo esperado y el efectivo encontrado:
 
@@ -160,7 +160,7 @@ La empresa podrá realizar investigaciones internas cuando existan elementos que
 
 ---
 
-## 12. Propinas
+## 11. Propinas
 
 Las propinas pertenecen a los trabajadores conforme a la legislación aplicable.
 
@@ -170,7 +170,7 @@ Cuando exista un sistema de distribución colectiva, éste deberá comunicarse d
 
 ---
 
-## 13. Dinero Personal
+## 12. Dinero Personal
 
 Los colaboradores deberán mantener separado su dinero personal del efectivo de operación.
 
@@ -178,7 +178,7 @@ La empresa podrá solicitar que mochilas, carteras u objetos personales permanez
 
 ---
 
-## 14. Reporte de Incidentes
+## 13. Reporte de Incidentes
 
 Deberán reportarse inmediatamente:
 
@@ -193,7 +193,7 @@ Deberán reportarse inmediatamente:
 
 ---
 
-## 15. Conductas Consideradas Graves o Muy Graves
+## 14. Conductas Consideradas Graves o Muy Graves
 
 !!! danger "Podrán considerarse faltas graves o muy graves"
     - Omitir registros de venta.
@@ -208,7 +208,7 @@ Deberán reportarse inmediatamente:
 
 ---
 
-## 16. Confidencialidad
+## 15. Confidencialidad
 
 La información relacionada con ventas, ingresos, costos, arqueos, inventarios, utilidades y resultados financieros es confidencial.
 
@@ -216,13 +216,13 @@ Su divulgación no autorizada podrá dar lugar a medidas disciplinarias.
 
 ---
 
-## 17. Cumplimiento
+## 16. Cumplimiento
 
 Todo colaborador que tenga acceso a caja, terminales, efectivo o valores de la empresa deberá conocer y cumplir las disposiciones establecidas en esta política.
 
 ---
 
-## 18. Procedimiento de Apertura, Operación y Cierre de Caja
+## 17. Procedimiento de Apertura, Operación y Cierre de Caja
 
 ### Apertura
 
