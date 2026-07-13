@@ -15,7 +15,8 @@ Una sola fuente de contenido genera un sitio por marca (Brown, Aluxe, …).
 | `scripts/gen_brand_css.py` | Genera `docs/stylesheets/brand.css` con los colores de la marca activa (no se versiona). |
 | `scripts/build_formatos_pdf.py` | Genera los formatos imprimibles en PDF (`docs/descargas/`). |
 | `scripts/build_all.py` | Construye un sitio por marca en `site/<marca>/` + portada. |
-| `scripts/build_manual_pdf.py` | Genera los PDF imprimibles del manual en `pdf/` (requiere pandoc + xelatex). |
+| `scripts/build_manual_pdf.py` | Orquesta los PDF imprimibles del manual en `pdf/` (requiere pandoc + lualatex). |
+| `latex/` | Diseño de los PDF: `preamble.tex` (tipografía, encabezados, cajas), `cover.tex` (portada) y `filters/manual.lua` (adapta los componentes web a imprenta). |
 | `scripts/split_manual.py` | Migración única del `.md` original a `docs/` (registro histórico). |
 | `archive/` | Artefactos de la migración inicial (el `.md` original y scripts de arreglo puntuales). Solo referencia histórica. |
 
@@ -49,7 +50,7 @@ python scripts/build_all.py   # -> site/index.html + site/<marca>/
 
 ## PDFs imprimibles del manual
 
-Requiere `pandoc` y `xelatex` instalados.
+Requiere `pandoc` y `lualatex` (TeX Live) instalados.
 
 ```bash
 python scripts/build_manual_pdf.py   # -> pdf/manual-completo-<marca>.pdf y pdf/referencia-rapida-<marca>.pdf
@@ -57,7 +58,14 @@ python scripts/build_manual_pdf.py   # -> pdf/manual-completo-<marca>.pdf y pdf/
 
 - **Manual completo:** todo el manual con portada, índice y pie de "documento controlado". Para el fólder oficial y el acuse.
 - **Referencia rápida:** solo lo operativo (parámetros de café, seguridad, emergencias, vida útil, mermas, faltas, KPIs). Para tener en barra.
-- El contenido a incluir en cada uno se define en las listas `FULL` y `QUICK` de `scripts/build_manual_pdf.py`.
+
+Cómo funciona (y por qué regenerar es trivial cuando el manual cambia):
+
+- La **estructura se deriva del `nav` de `mkdocs.yml`**: cada grupo del menú es un capítulo del PDF y cada página una sección. Páginas nuevas o reordenamientos aparecen solos en el PDF completo; solo la lista `QUICK` (qué merece estar en barra) es curada a mano en `scripts/build_manual_pdf.py`.
+- Las macros `{{ brand.* }}` / `{{ espresso.* }}` se resuelven desde `brands/` y `params.yml`; una macro desconocida detiene la construcción.
+- Los componentes web (admonitions, spec tiles, KPIs, chips, timeline) se convierten a equivalentes de imprenta en `latex/filters/manual.lua`, trabajando sobre el AST de pandoc. El diseño (portada, colores de marca, cajas de aviso, encabezados) vive en `latex/`.
+- Los builds son **reproducibles byte a byte**: la fecha se fija al último commit que tocó las fuentes (`SOURCE_DATE_EPOCH`) y se usa lualatex (xelatex aleatoriza los tags de subsetting de fuentes). Mismo commit → PDFs idénticos.
+- La versión del documento vive en `params.yml` (`manual.version`); súbela al liberar una revisión formal.
 
 ## Agregar una marca
 

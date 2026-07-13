@@ -1,0 +1,70 @@
+% Preámbulo LaTeX del manual imprimible (pandoc + XeLaTeX).
+%
+% Se incluye después de defs.tex (generado por scripts/build_manual_pdf.py),
+% que define \BrandName, \DocCode, \DocTitle, \DocVersion, \DocDate y los
+% colores BrandAccent / BrandAccentLight. Aquí vive todo el diseño estático:
+% tipografía, encabezados, pies de página, cajas de aviso y tablas.
+
+% --- Tipografía (TeX Gyre, incluida en TeX Live: reproducible en cualquier equipo) ---
+% Se cargan por nombre de archivo (kpathsea las encuentra en texmf sin depender
+% de que estén instaladas como fuentes del sistema).
+\usepackage{fontspec}
+\setmainfont{texgyrepagella}[Extension=.otf, UprightFont=*-regular,
+  BoldFont=*-bold, ItalicFont=*-italic, BoldItalicFont=*-bolditalic]
+\setsansfont{texgyreheros}[Extension=.otf, UprightFont=*-regular,
+  BoldFont=*-bold, ItalicFont=*-italic, BoldItalicFont=*-bolditalic]
+\setmonofont{texgyrecursor}[Extension=.otf, UprightFont=*-regular,
+  BoldFont=*-bold, ItalicFont=*-italic, BoldItalicFont=*-bolditalic]
+
+% --- Símbolos ---
+\usepackage{amssymb}            % \square para casillas ☐
+
+% --- Párrafos y composición ---
+\KOMAoptions{parskip=half-}
+\emergencystretch=3em           % evita desbordes con palabras largas en español
+\clubpenalty=8000
+\widowpenalty=8000
+
+% --- Títulos de capítulo y sección ---
+\setcounter{secnumdepth}{-1}    % la numeración viene del contenido (1.1, art. 6, Anexo A…)
+\addtokomafont{chapter}{\color{BrandAccent}}
+\RedeclareSectionCommand[beforeskip=1.2\baselineskip, afterskip=1\baselineskip]{chapter}
+
+% --- Encabezado y pie de página ---
+\usepackage[automark]{scrlayer-scrpage}
+\KOMAoptions{headsepline=true, footsepline=true}
+\clearpairofpagestyles
+\ihead{\small\sffamily\headmark}
+\ifoot[\small\sffamily\DocCode\ · v\DocVersion]{\small\sffamily\DocCode\ · v\DocVersion}
+\cfoot[\small\sffamily\thepage]{\small\sffamily\thepage}
+\ofoot[\small\sffamily\BrandName]{\small\sffamily\BrandName}
+\setkomafont{pageheadfoot}{\color{black!60}}
+\setkomafont{pagenumber}{\color{black!60}\small\sffamily}
+
+% --- Cajas de aviso (equivalente impreso de los admonitions del sitio) ---
+\usepackage[most]{tcolorbox}
+\definecolor{AdmDanger}{HTML}{B3261E}
+\definecolor{AdmWarning}{HTML}{B45309}
+\definecolor{AdmInfo}{HTML}{1D5FA6}
+\definecolor{AdmTip}{HTML}{1E6E42}
+% Uso (lo emite latex/filters/manual.lua): \begin{admonitionbox}{AdmDanger}{Prohibido} … \end{admonitionbox}
+\newtcolorbox{admonitionbox}[2]{
+  enhanced, breakable,
+  colback=#1!4!white,
+  colframe=#1!80!black,
+  boxrule=0pt, leftrule=2.5pt, arc=1pt,
+  left=8pt, right=8pt, top=6pt, bottom=6pt,
+  detach title,
+  coltitle=#1!80!black,
+  fonttitle=\sffamily\bfseries,
+  title={#2},
+  before upper={\tcbtitle\par\smallskip},
+}
+
+% --- Tablas (pandoc emite longtable + booktabs) ---
+\renewcommand{\arraystretch}{1.25}
+\setlength{\LTpre}{8pt}
+\setlength{\LTpost}{8pt}
+
+% --- Índice ---
+\DeclareTOCStyleEntry[entrynumberformat=\textcolor{BrandAccent}]{tocline}{chapter}
