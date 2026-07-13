@@ -14,3 +14,6 @@ pdf/
 
 # CSS de marca generado por scripts/gen_brand_css.py (una versión por marca).
 docs/stylesheets/brand.css
+
+# Manual de marca (fuente pesada, ~7MB): se conserva local, no se versiona.
+brown-brand/MANUAL DE MARCA BROWN.pdf
