@@ -1,8 +1,11 @@
 # Configuración de marca — Aluxe
-name: "Aluxe"                   # nombre completo/legal
+name: "Aluxe Café"              # nombre completo/legal
 short: "Aluxe"                  # nombre corto/informal
 code: "MO-ALX-001"            # código del documento
 
-# Color de acento. Cambia estos hex por los de tu marca.
-accent: "#9A3412"             # terracota — chrome, títulos de acento, links
-accent_light: "#EA580C"        # variante clara — modo oscuro y hovers
+# Identidad real (ver aluxe.cafe): guardián maya, calidez familiar.
+# Azul primario con secundario terracota sobre blanco cálido.
+accent: "#0047B6"             # azul Aluxe — links, valores, títulos de capítulo
+accent_light: "#6BA5FF"        # variante clara para modo oscuro y hovers
+chrome: "#0047B6"             # azul — barra superior y navegación
+bg: "#FFFBF5"                 # blanco cálido — fondo de página (modo claro)

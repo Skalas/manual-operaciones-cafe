@@ -3,6 +3,11 @@ name: "Brown Caffeine Lab"     # nombre completo/legal
 short: "Brown"                  # nombre corto/informal
 code: "MO-BCL-001"             # código del documento
 
-# Color de acento (paleta cálida de café). Cambia estos hex por los de tu marca.
-accent: "#92400E"              # café cálido — chrome, títulos de acento, links
-accent_light: "#C2691C"        # variante clara — modo oscuro y hovers
+# Identidad real (ver MANUAL DE MARCA BROWN): retro-ochentero + café como
+# laboratorio. Negro + crema con acentos CPK (rojo/oxígeno, azul/nitrógeno).
+# El rojo canónico de marca es #D24242; se aplica #C0392B (mismo rojo, un
+# punto más profundo) para cumplir contraste AA sobre el fondo crema.
+accent: "#C0392B"              # rojo terracota (oxígeno) — links, valores, títulos de capítulo
+accent_light: "#F08A8A"        # variante clara para modo oscuro y hovers
+chrome: "#1E1E1E"              # Eerie Black — barra superior y navegación
+bg: "#FBF6EC"                  # crema suave — fondo de página (modo claro)

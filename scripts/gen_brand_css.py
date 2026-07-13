@@ -26,19 +26,29 @@ if missing:
     )
 accent = data["accent"]
 accent_light = data["accent_light"]
+# 'chrome' (barra superior/navegación) y 'bg' (fondo de página) son opcionales;
+# si faltan, el chrome cae al acento y el fondo queda en el de Material.
+chrome = data.get("chrome", accent)
+bg = data.get("bg")
+
+bg_line = f"\n  --md-default-bg-color: {bg};" if bg else ""
 
 css = f"""/* Generado por scripts/gen_brand_css.py — no editar a mano. Marca: {BRAND}. */
-:root {{
-  --md-primary-fg-color: {accent};
-  --md-primary-fg-color--light: {accent_light};
-  --md-primary-fg-color--dark: {accent};
-  --md-accent-fg-color: {accent_light};
+/* Modo claro bajo [data-md-color-scheme="default"] para ganar en especificidad
+   a las variables de paleta de Material (un :root no las sobreescribe). */
+[data-md-color-scheme="default"] {{
+  --md-primary-fg-color: {chrome};
+  --md-primary-fg-color--light: {chrome};
+  --md-primary-fg-color--dark: {chrome};
+  --md-accent-fg-color: {accent};
+  --md-typeset-a-color: {accent};
   --brand-accent: {accent};
-  --brand-accent-strong: {accent};
+  --brand-accent-strong: {accent};{bg_line}
 }}
 [data-md-color-scheme="slate"] {{
-  --md-primary-fg-color: {accent_light};
+  --md-primary-fg-color: {chrome};
   --md-accent-fg-color: {accent_light};
+  --md-typeset-a-color: {accent_light};
   --brand-accent: {accent_light};
 }}
 """
