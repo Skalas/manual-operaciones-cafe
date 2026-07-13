@@ -10,13 +10,11 @@ Esta política es obligatoria para todo colaborador que tenga acceso a inventari
 
 ## 1. Principios Generales
 
-<ul class="do">
-<li>Todo producto que ingrese a la empresa es identificable y registrable</li>
-<li>Todo producto que salga del inventario cuenta con una justificación operativa, comercial o administrativa</li>
-<li>Ninguna merma se oculta o se registra de manera incorrecta</li>
-<li>La transparencia en el manejo de inventarios es responsabilidad de todos los colaboradores</li>
-<li>La reducción de mermas es una responsabilidad compartida por todo el equipo</li>
-</ul>
+- Todo producto que ingrese a la empresa es identificable y registrable
+- Todo producto que salga del inventario cuenta con una justificación operativa, comercial o administrativa
+- Ninguna merma se oculta o se registra de manera incorrecta
+- La transparencia en el manejo de inventarios es responsabilidad de todos los colaboradores
+- La reducción de mermas es una responsabilidad compartida por todo el equipo
 
 ---
 
@@ -76,7 +74,7 @@ Todo movimiento deberá ser justificable y, cuando corresponda, registrarse.
 
 Se consideran movimientos válidos:
 
-<div class="chips"><span>Venta</span><span>Producción</span><span>Consumo interno autorizado</span><span>Degustaciones autorizadas</span><span>Cortesías autorizadas</span><span>Transferencias</span><span>Ajustes autorizados</span><span>Mermas registradas</span></div>
+<div class="chips flow"><span>Venta</span><span>Producción</span><span>Consumo interno autorizado</span><span>Degustaciones autorizadas</span><span>Cortesías autorizadas</span><span>Transferencias</span><span>Ajustes autorizados</span><span>Mermas registradas</span></div>
 
 ---
 
@@ -92,7 +90,7 @@ Derivada de actividades normales de trabajo.
 
 Ejemplos:
 
-<div class="chips">
+<div class="chips flow">
 <span>Calibración de espresso</span><span>Pruebas de recetas</span><span>Catas</span><span>Ajustes de molienda</span><span>Purgas necesarias</span>
 </div>
 
@@ -102,7 +100,7 @@ Derivada de procesos de preparación.
 
 Ejemplos:
 
-<div class="chips">
+<div class="chips flow">
 <span>Derrames accidentales</span><span>Errores de preparación</span><span>Desperdicios inevitables</span>
 </div>
 
@@ -120,7 +118,7 @@ Pérdidas derivadas de eventos fuera de lo normal.
 
 Ejemplos:
 
-<div class="chips">
+<div class="chips flow">
 <span>Fallas eléctricas</span><span>Averías de equipos</span><span>Desastres naturales</span><span>Plagas</span>
 </div>
 
@@ -132,7 +130,7 @@ Toda merma deberá registrarse cuando los procedimientos internos así lo requie
 
 El registro deberá incluir:
 
-<div class="chips"><span>Producto</span><span>Cantidad</span><span>Motivo</span><span>Fecha</span><span>Responsable del registro</span></div>
+<div class="chips flow"><span>Producto</span><span>Cantidad</span><span>Motivo</span><span>Fecha</span><span>Responsable del registro</span></div>
 
 La omisión deliberada de mermas podrá considerarse una falta disciplinaria.
 
@@ -158,7 +156,7 @@ No constituyen mermas cuando formen parte de estrategias comerciales o de capaci
 
 La empresa podrá realizar:
 
-<div class="chips"><span>Inventarios diarios</span><span>Inventarios semanales</span><span>Inventarios mensuales</span><span>Auditorías extraordinarias</span></div>
+<div class="chips flow"><span>Inventarios diarios</span><span>Inventarios semanales</span><span>Inventarios mensuales</span><span>Auditorías extraordinarias</span></div>
 
 Todo colaborador deberá colaborar durante los procesos de conteo y verificación.
 

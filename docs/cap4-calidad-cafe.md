@@ -14,7 +14,7 @@ La calidad del café es responsabilidad de todo el equipo.
 
 En el establecimiento creemos que un excelente café depende de cinco factores:
 
-<div class="chips">
+<div class="chips flow">
 <span>Materia prima</span><span>Conservación</span><span>Molienda</span><span>Extracción</span><span>Hospitalidad</span>
 </div>
 
@@ -28,13 +28,9 @@ La experiencia completa del cliente comienza antes de servir la bebida.
 
 Todo café utilizado deberá cumplir con:
 
-<ul class="do">
-<li>Libre de defectos visibles</li>
-<li>Trazabilidad conocida</li>
-<li>Fecha de tueste identificada</li>
-<li>Etiquetado completo</li>
-<li>Conservación adecuada</li>
-</ul>
+<div class="chips flow">
+<span>Libre de defectos visibles</span><span>Trazabilidad conocida</span><span>Fecha de tueste identificada</span><span>Etiquetado completo</span><span>Conservación adecuada</span>
+</div>
 
 ---
 
@@ -52,7 +48,7 @@ El café deberá mantenerse:
   <div class="spec"><p class="label">Temperatura</p><span class="value">18–24</span> <span class="unit">°C</span></div>
 </div>
 
-<div class="chips">
+<div class="chips flow">
 <span>Alejado de luz solar</span><span>Sin humedad</span><span>Sin olores fuertes</span><span>En recipientes herméticos</span>
 </div>
 
@@ -112,7 +108,7 @@ Cada espresso deberá evaluarse considerando:
 
 Toda receta oficial deberá incluir:
 
-<div class="chips">
+<div class="chips flow">
 <span>Gramaje</span><span>Tiempo</span><span>Tipo de molienda</span><span>Temperatura</span><span>Cantidad de leche</span><span>Tipo de vaso</span><span>Decoración</span>
 </div>
 
@@ -135,7 +131,7 @@ No reutilizar leche vaporizada.
 
 Cada método deberá respetar:
 
-<div class="chips">
+<div class="chips flow">
 <span>Relación agua/café</span><span>Temperatura</span><span>Tiempo</span><span>Agitación</span><span>Tipo de molienda</span><span>Agua filtrada</span>
 </div>
 

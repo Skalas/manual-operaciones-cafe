@@ -10,13 +10,11 @@ Esta política es de cumplimiento obligatorio para todo colaborador que tenga ac
 
 ## 1. Principios Generales
 
-<ul class="do">
-<li>Todo ingreso se registra en el sistema de venta autorizado por la empresa</li>
-<li>Ninguna venta se realiza fuera de los mecanismos oficiales de cobro</li>
-<li>Todo movimiento de efectivo es verificable</li>
-<li>Los fondos de la empresa se mantienen separados del dinero personal de los colaboradores</li>
-<li>El manejo de efectivo se realiza con honestidad, precisión y transparencia</li>
-</ul>
+- Todo ingreso se registra en el sistema de venta autorizado por la empresa
+- Ninguna venta se realiza fuera de los mecanismos oficiales de cobro
+- Todo movimiento de efectivo es verificable
+- Los fondos de la empresa se mantienen separados del dinero personal de los colaboradores
+- El manejo de efectivo se realiza con honestidad, precisión y transparencia
 
 ---
 
@@ -40,17 +38,19 @@ Ningún colaborador podrá modificar el monto del fondo sin autorización.
 
 Toda venta deberá:
 
-<ul class="do">
-<li>Registrarse antes de entregar el producto</li>
-<li>Emitirse mediante el sistema autorizado</li>
-<li>Reflejar correctamente productos, cantidades y precios</li>
-</ul>
-
-!!! danger "Queda prohibido"
-    - Omitir registros.
-    - Registrar ventas ficticias.
-    - Alterar precios sin autorización.
-    - Utilizar cuentas alternas para ocultar operaciones.
+<div class="dodont" markdown>
+<div class="dd-do" markdown>
+- Registrarse antes de entregar el producto
+- Emitirse mediante el sistema autorizado
+- Reflejar correctamente productos, cantidades y precios
+</div>
+<div class="dd-dont" markdown>
+- Omitir registros.
+- Registrar ventas ficticias.
+- Alterar precios sin autorización.
+- Utilizar cuentas alternas para ocultar operaciones.
+</div>
+</div>
 
 ---
 
@@ -58,17 +58,19 @@ Toda venta deberá:
 
 El efectivo recibido deberá:
 
-<ul class="do">
-<li>Verificarse al momento de la transacción</li>
-<li>Guardarse inmediatamente en caja</li>
-<li>Mantenerse protegido durante la jornada</li>
-</ul>
-
-!!! danger "Queda prohibido"
-    - Utilizar efectivo de caja para fines personales.
-    - Prestar dinero de caja.
-    - Tomar dinero de caja sin autorización.
-    - Realizar compras personales con fondos de la empresa.
+<div class="dodont" markdown>
+<div class="dd-do" markdown>
+- Verificarse al momento de la transacción
+- Guardarse inmediatamente en caja
+- Mantenerse protegido durante la jornada
+</div>
+<div class="dd-dont" markdown>
+- Utilizar efectivo de caja para fines personales.
+- Prestar dinero de caja.
+- Tomar dinero de caja sin autorización.
+- Realizar compras personales con fondos de la empresa.
+</div>
+</div>
 
 ---
 
@@ -76,16 +78,18 @@ El efectivo recibido deberá:
 
 Todo colaborador autorizado para operar terminales deberá:
 
-<ul class="do">
-<li>Verificar el monto antes de procesar el cobro</li>
-<li>Entregar comprobantes cuando corresponda</li>
-<li>Reportar fallas inmediatamente</li>
-</ul>
-
-!!! danger "Queda prohibido"
-    - Procesar cobros ajenos a la operación.
-    - Utilizar terminales para transacciones personales.
-    - Compartir contraseñas o accesos autorizados.
+<div class="dodont" markdown>
+<div class="dd-do" markdown>
+- Verificar el monto antes de procesar el cobro
+- Entregar comprobantes cuando corresponda
+- Reportar fallas inmediatamente
+</div>
+<div class="dd-dont" markdown>
+- Procesar cobros ajenos a la operación.
+- Utilizar terminales para transacciones personales.
+- Compartir contraseñas o accesos autorizados.
+</div>
+</div>
 
 ---
 
@@ -123,7 +127,7 @@ Queda prohibido aplicar descuentos personales sin autorización.
 
 La empresa podrá realizar arqueos:
 
-<div class="chips"><span>Programados</span><span>Aleatorios</span><span>Preventivos</span><span>Derivados de auditorías internas</span></div>
+<div class="chips flow"><span>Programados</span><span>Aleatorios</span><span>Preventivos</span><span>Derivados de auditorías internas</span></div>
 
 Todo colaborador deberá colaborar durante el proceso de verificación.
 
@@ -182,14 +186,9 @@ La empresa podrá solicitar que mochilas, carteras u objetos personales permanez
 
 Deberán reportarse inmediatamente:
 
-<ul class="do">
-<li>Billetes presuntamente falsos</li>
-<li>Intentos de fraude</li>
-<li>Errores de cobro</li>
-<li>Fallas de terminales</li>
-<li>Pérdida de efectivo</li>
-<li>Situaciones sospechosas relacionadas con valores de la empresa</li>
-</ul>
+<div class="chips flow">
+<span>Billetes presuntamente falsos</span><span>Intentos de fraude</span><span>Errores de cobro</span><span>Fallas de terminales</span><span>Pérdida de efectivo</span><span>Situaciones sospechosas relacionadas con valores de la empresa</span>
+</div>
 
 ---
 

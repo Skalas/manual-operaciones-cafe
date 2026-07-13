@@ -77,16 +77,16 @@ Este Manual de Operación es un documento controlado y forma parte del Sistema d
 | Código del documento | {{ brand.code }} |
 | Nombre | Manual de Operación |
 | Área responsable | Dirección Operativa |
-| Versión | 1.0 |
-| Fecha de emisión | ____ / ____ / ______ |
-| Próxima revisión | ____ / ____ / ______ |
+| Versión | {{ manual.version }} |
+| Fecha de emisión | {{ manual.fecha_publicacion }} |
+| Próxima revisión | {{ manual.proxima_revision }} |
 | Estado | Vigente |
 
 ### Historial de versiones
 
 | Versión | Fecha | Descripción del cambio | Responsable |
 | ----- | ----- | ----- | ----- |
-| 1.0 | ____ / ____ / ______ | Emisión inicial del Manual de Operación. | Dirección Operativa |
+| {{ manual.version }} | {{ manual.fecha_publicacion }} | Emisión inicial del Manual de Operación. | Dirección Operativa |
 
 Toda modificación deberá registrarse en este historial y generar una nueva versión. Las versiones anteriores se archivan como **"Documento Obsoleto"**. Este manual se revisa como mínimo una vez al año o ante cualquier cambio operativo, legal o administrativo.
 

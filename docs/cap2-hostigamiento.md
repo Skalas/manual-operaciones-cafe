@@ -12,7 +12,7 @@ La empresa mantiene una política de tolerancia cero hacia conductas que atenten
 
 Esta política aplica a:
 
-<div class="chips">
+<div class="chips flow">
 <span>Colaboradores</span>
 <span>Personal administrativo</span>
 <span>Socios operativos</span>
@@ -102,7 +102,7 @@ La empresa podrá negar servicio o solicitar el retiro de personas que generen r
 
 Las relaciones personales entre colaboradores deberán manejarse con profesionalismo y sin afectar:
 
-<div class="chips">
+<div class="chips flow">
 <span>El ambiente laboral</span>
 <span>La operación</span>
 <span>La toma de decisiones</span>
@@ -118,22 +118,15 @@ Las relaciones personales entre colaboradores deberán manejarse con profesional
 
 Toda persona podrá reportar situaciones relacionadas con:
 
-<ul class="do">
-<li>Hostigamiento</li>
-<li>Acoso</li>
-<li>Violencia</li>
-<li>Discriminación</li>
-<li>Represalias</li>
-</ul>
+<div class="chips flow">
+<span>Hostigamiento</span><span>Acoso</span><span>Violencia</span><span>Discriminación</span><span>Represalias</span>
+</div>
 
 Los reportes podrán realizarse ante:
 
-<ul class="do">
-<li>Responsables de turno</li>
-<li>Gerencia</li>
-<li>Dirección</li>
-<li>Personas designadas por la empresa</li>
-</ul>
+<div class="chips flow">
+<span>Responsables de turno</span><span>Gerencia</span><span>Dirección</span><span>Personas designadas por la empresa</span>
+</div>
 
 ---
 
@@ -151,7 +144,7 @@ La empresa podrá realizar revisiones internas cuando exista conocimiento de pos
 
 Las investigaciones podrán incluir:
 
-<div class="chips">
+<div class="chips flow">
 <span>Entrevistas</span>
 <span>Revisión de mensajes o evidencia relacionada con la operación</span>
 <span>Declaraciones de testigos</span>

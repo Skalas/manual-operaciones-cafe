@@ -12,51 +12,13 @@ Este procedimiento busca promover una cultura de comunicación, mejora continua,
 
 Podrán presentarse reportes relacionados con:
 
-### Operación
-
-<div class="chips">
-<span>Incumplimiento de procedimientos</span>
-<span>Fallas operativas</span>
-<span>Problemas de servicio</span>
-<span>Errores recurrentes</span>
-</div>
-
-### Seguridad e Higiene
-
-<div class="chips">
-<span>Condiciones inseguras</span>
-<span>Accidentes</span>
-<span>Riesgos de inocuidad</span>
-<span>Fallas de equipos</span>
-</div>
-
-### Recursos Humanos
-
-<div class="chips">
-<span>Conflictos laborales</span>
-<span>Hostigamiento</span>
-<span>Acoso</span>
-<span>Discriminación</span>
-<span>Problemas de convivencia</span>
-</div>
-
-### Administración
-
-<div class="chips">
-<span>Manejo de efectivo</span>
-<span>Inventarios</span>
-<span>Consumos no autorizados</span>
-<span>Posibles irregularidades administrativas</span>
-</div>
-
-### Ética y Conducta
-
-<div class="chips">
-<span>Incumplimiento de políticas</span>
-<span>Conflictos de interés</span>
-<span>Uso indebido de recursos</span>
-<span>Conductas contrarias a los valores de la empresa</span>
-</div>
+| Ámbito | Situaciones que pueden reportarse |
+| ----- | ----- |
+| Operación | Incumplimiento de procedimientos · fallas operativas · problemas de servicio · errores recurrentes |
+| Seguridad e Higiene | Condiciones inseguras · accidentes · riesgos de inocuidad · fallas de equipos |
+| Recursos Humanos | Conflictos laborales · hostigamiento · acoso · discriminación · problemas de convivencia |
+| Administración | Manejo de efectivo · inventarios · consumos no autorizados · posibles irregularidades administrativas |
+| Ética y Conducta | Incumplimiento de políticas · conflictos de interés · uso indebido de recursos · conductas contrarias a los valores de la empresa |
 
 ---
 
@@ -64,14 +26,9 @@ Podrán presentarse reportes relacionados con:
 
 Todo reporte será atendido considerando:
 
-<ul class="do">
-<li>Respeto</li>
-<li>Imparcialidad</li>
-<li>Confidencialidad razonable</li>
-<li>Buena fe</li>
-<li>Presunción de inocencia</li>
-<li>Búsqueda de soluciones</li>
-</ul>
+<div class="chips flow">
+<span>Respeto</span><span>Imparcialidad</span><span>Confidencialidad razonable</span><span>Buena fe</span><span>Presunción de inocencia</span><span>Búsqueda de soluciones</span>
+</div>
 
 La finalidad principal será resolver problemas y mejorar la operación.
 
@@ -81,15 +38,9 @@ La finalidad principal será resolver problemas y mejorar la operación.
 
 Podrán presentar reportes:
 
-<ul class="do">
-<li>Colaboradores</li>
-<li>Encargados</li>
-<li>Gerentes</li>
-<li>Socios operativos</li>
-<li>Proveedores</li>
-<li>Prestadores de servicios</li>
-<li>Clientes cuando la empresa lo determine</li>
-</ul>
+<div class="chips flow">
+<span>Colaboradores</span><span>Encargados</span><span>Gerentes</span><span>Socios operativos</span><span>Proveedores</span><span>Prestadores de servicios</span><span>Clientes cuando la empresa lo determine</span>
+</div>
 
 ---
 
@@ -97,25 +48,11 @@ Podrán presentar reportes:
 
 Los reportes podrán realizarse mediante:
 
-### Comunicación Directa
-
-<ul class="do">
-<li>Responsable de turno</li>
-<li>Gerencia</li>
-<li>Dirección</li>
-</ul>
-
-### Medios Escritos
-
-<ul class="do">
-<li>Correo electrónico institucional</li>
-<li>Formato interno de incidencias</li>
-<li>Sistemas de comunicación autorizados por la empresa</li>
-</ul>
-
-### Reportes Verbales
-
-Cuando la situación requiera atención inmediata. Los reportes verbales podrán documentarse posteriormente.
+| Canal | Medios |
+| ----- | ----- |
+| Comunicación directa | Responsable de turno · gerencia · dirección |
+| Medios escritos | Correo electrónico institucional · formato interno de incidencias · sistemas de comunicación autorizados por la empresa |
+| Reportes verbales | Cuando la situación requiera atención inmediata (podrán documentarse posteriormente) |
 
 ---
 
@@ -123,7 +60,7 @@ Cuando la situación requiera atención inmediata. Los reportes verbales podrán
 
 Cuando sea posible, el reporte deberá incluir:
 
-<div class="chips">
+<div class="chips flow">
 <span>Fecha</span>
 <span>Hora</span>
 <span>Lugar</span>
@@ -153,7 +90,7 @@ Cuando exista riesgo inmediato para personas, clientes o instalaciones, podrán 
 
 Dependiendo de la naturaleza del reporte, la empresa podrá:
 
-<div class="chips">
+<div class="chips flow">
 <span>Solicitar información adicional</span>
 <span>Realizar entrevistas</span>
 <span>Revisar documentos</span>
@@ -238,7 +175,7 @@ En estos casos no será necesario seguir el orden jerárquico habitual.
 
 La empresa podrá mantener registros internos relacionados con:
 
-<div class="chips">
+<div class="chips flow">
 <span>Quejas</span>
 <span>Reportes</span>
 <span>Investigaciones</span>

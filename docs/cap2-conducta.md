@@ -14,38 +14,37 @@ El presente Manual forma parte integrante de la documentación laboral de la emp
 
 Todo colaborador deberá contribuir a:
 
-<ul class="do">
-<li>La satisfacción del cliente</li>
-<li>La calidad del producto</li>
-<li>La seguridad alimentaria</li>
-<li>El cuidado de los activos de la empresa</li>
-<li>La conservación de la imagen y prestigio de la marca</li>
-<li>El cumplimiento de los objetivos comerciales y operativos</li>
-</ul>
+<div class="chips flow">
+<span>La satisfacción del cliente</span><span>La calidad del producto</span><span>La seguridad alimentaria</span><span>El cuidado de los activos de la empresa</span><span>La conservación de la imagen y prestigio de la marca</span><span>El cumplimiento de los objetivos comerciales y operativos</span>
+</div>
 
 ---
 
 ## 2. Valores de la Empresa
 
-### Profesionalismo
+<div class="grid cards" markdown>
 
-Realizar las actividades asignadas con responsabilidad y excelencia.
+-   :material-star-circle:{ .lg } __Profesionalismo__
 
-### Respeto
+    Realizar las actividades asignadas con responsabilidad y excelencia.
 
-Mantener una convivencia sana entre colaboradores, clientes y proveedores.
+-   :material-handshake:{ .lg } __Respeto__
 
-### Honestidad
+    Mantener una convivencia sana entre colaboradores, clientes y proveedores.
 
-Actuar con integridad en el manejo de dinero, insumos y recursos.
+-   :material-shield-check:{ .lg } __Honestidad__
 
-### Disciplina
+    Actuar con integridad en el manejo de dinero, insumos y recursos.
 
-Cumplir procedimientos, horarios y lineamientos establecidos.
+-   :material-clipboard-check:{ .lg } __Disciplina__
 
-### Sentido de urgencia
+    Cumplir procedimientos, horarios y lineamientos establecidos.
 
-Atender las necesidades operativas de manera eficiente.
+-   :material-lightning-bolt:{ .lg } __Sentido de urgencia__
+
+    Atender las necesidades operativas de manera eficiente.
+
+</div>
 
 ---
 
@@ -122,7 +121,7 @@ Todo cliente deberá recibir trato cordial · atención profesional · respeto.
 
 Los colaboradores deberán presentarse:
 
-<div class="chips">
+<div class="chips flow">
 <span>Limpios</span><span>Aseados</span><span>Uniformados</span>
 </div>
 
@@ -254,7 +253,7 @@ La obligación continúa incluso después de terminar la relación laboral.
 
 Todo colaborador deberá reportar de forma inmediata:
 
-<div class="chips">
+<div class="chips flow">
 <span>Faltantes</span><span>Mermas</span><span>Daños</span><span>Robos</span>
 </div>
 

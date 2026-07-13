@@ -12,7 +12,7 @@ La hospitalidad comienza dentro del equipo. La forma en que los colaboradores se
 
 Toda persona que forme parte de la empresa deberá procurar:
 
-<div class="chips"><span>Respeto</span><span>Profesionalismo</span><span>Honestidad</span><span>Responsabilidad</span><span>Colaboración</span><span>Empatía</span><span>Actitud de servicio</span><span>Mejora continua</span></div>
+<div class="chips flow"><span>Respeto</span><span>Profesionalismo</span><span>Honestidad</span><span>Responsabilidad</span><span>Colaboración</span><span>Empatía</span><span>Actitud de servicio</span><span>Mejora continua</span></div>
 
 Estos principios deberán reflejarse tanto en la atención al cliente como en la interacción entre compañeros.
 
@@ -22,16 +22,18 @@ Estos principios deberán reflejarse tanto en la atención al cliente como en la
 
 Todo colaborador deberá:
 
-<ul class="do">
-<li>Tratar a los demás con cortesía</li>
-<li>Escuchar con atención</li>
-<li>Evitar expresiones ofensivas</li>
-<li>Respetar diferencias de opinión</li>
-<li>Mantener un trato digno hacia todas las personas</li>
-</ul>
-
-!!! danger "Queda prohibido"
-    * Humillar, intimidar o menospreciar a compañeros, clientes o proveedores
+<div class="dodont" markdown>
+<div class="dd-do" markdown>
+- Tratar a los demás con cortesía
+- Escuchar con atención
+- Evitar expresiones ofensivas
+- Respetar diferencias de opinión
+- Mantener un trato digno hacia todas las personas
+</div>
+<div class="dd-dont" markdown>
+- Humillar, intimidar o menospreciar a compañeros, clientes o proveedores
+</div>
+</div>
 
 ---
 
@@ -39,7 +41,7 @@ Todo colaborador deberá:
 
 La comunicación dentro del equipo deberá ser:
 
-<div class="chips"><span>Clara</span><span>Directa</span><span>Respetuosa</span><span>Constructiva</span></div>
+<div class="chips flow"><span>Clara</span><span>Directa</span><span>Respetuosa</span><span>Constructiva</span></div>
 
 Se espera que los colaboradores:
 
@@ -91,15 +93,17 @@ Los desacuerdos son una situación normal dentro de cualquier organización.
 
 Cuando surjan conflictos:
 
-<ul class="do">
-<li>Se deberá privilegiar el diálogo respetuoso</li>
-<li>Se evitarán confrontaciones frente a clientes</li>
-<li>Se buscará resolver las diferencias de manera profesional</li>
-<li>Se podrá solicitar apoyo de responsables o gerencia cuando sea necesario</li>
-</ul>
-
-!!! danger "Queda prohibido"
-    * Escalar conflictos mediante insultos, amenazas o agresiones
+<div class="dodont" markdown>
+<div class="dd-do" markdown>
+- Se deberá privilegiar el diálogo respetuoso
+- Se evitarán confrontaciones frente a clientes
+- Se buscará resolver las diferencias de manera profesional
+- Se podrá solicitar apoyo de responsables o gerencia cuando sea necesario
+</div>
+<div class="dd-dont" markdown>
+- Escalar conflictos mediante insultos, amenazas o agresiones
+</div>
+</div>
 
 ---
 
@@ -138,7 +142,7 @@ Se espera que cada colaborador:
 
 Toda interacción con clientes deberá caracterizarse por:
 
-<div class="chips"><span>Cortesía</span><span>Paciencia</span><span>Profesionalismo</span><span>Honestidad</span><span>Disposición de ayuda</span></div>
+<div class="chips flow"><span>Cortesía</span><span>Paciencia</span><span>Profesionalismo</span><span>Honestidad</span><span>Disposición de ayuda</span></div>
 
 Incluso ante situaciones difíciles, el personal deberá mantener la compostura y buscar soluciones razonables.
 

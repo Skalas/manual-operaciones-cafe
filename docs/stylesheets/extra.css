@@ -223,12 +223,63 @@
   content: "✓"; position: absolute; left: 0; color: var(--ok); font-weight: 700;
 }
 
-/* Chips (listas de categorías: tipos de emergencia, etc.) */
+/* =========================================================================
+   DO / DON'T PAREADO (conductas esperadas vs prohibidas, lado a lado)
+   Web: dos columnas (verde ✓ Hacer · rojo ✗ Evitar); apiladas en móvil.
+   PDF: manual.lua las convierte en dos cajas apiladas (AdmTip / AdmDanger).
+   ========================================================================= */
+.dodont { display: grid; gap: 0.9rem; grid-template-columns: 1fr 1fr; margin: 1.2rem 0; }
+@media (max-width: 44.9rem) { .dodont { grid-template-columns: 1fr; } }
+
+.dodont .dd-do, .dodont .dd-dont {
+  border: 1px solid var(--card-border); border-left-width: 5px;
+  border-radius: var(--radius-sm); background: var(--card-bg); padding: 0.9rem 1.1rem;
+}
+.dodont .dd-do { border-left-color: var(--ok); }
+.dodont .dd-dont { border-left-color: var(--danger); }
+
+.dodont .dd-do::before, .dodont .dd-dont::before {
+  display: block; font-size: 0.72rem; font-weight: 700;
+  text-transform: uppercase; letter-spacing: 0.06em; margin: 0 0 0.55rem;
+}
+.dodont .dd-do::before { content: "✓ Hacer"; color: var(--ok); }
+.dodont .dd-dont::before { content: "✗ Evitar"; color: var(--danger); }
+
+.md-typeset .dodont .dd-do ul, .md-typeset .dodont .dd-dont ul { list-style: none; padding-left: 0; margin: 0; }
+.md-typeset .dodont .dd-do li, .md-typeset .dodont .dd-dont li { position: relative; padding-left: 1.5rem; margin-bottom: 0.25rem; }
+.md-typeset .dodont .dd-do li::before { content: "✓"; position: absolute; left: 0; color: var(--ok); font-weight: 700; }
+.md-typeset .dodont .dd-dont li::before { content: "✗"; position: absolute; left: 0; color: var(--danger); font-weight: 700; }
+.dodont .dd-do > :last-child, .dodont .dd-dont > :last-child { margin-bottom: 0; }
+
+/* Separadores: el borde superior de cada h2 ya delimita las secciones; el
+   --- del contenido duplicaría la línea. Se oculta en web (en el PDF el
+   filtro Lua ya elimina los hr). */
+.md-typeset hr { display: none; }
+
+/* Chips (pastillas): se reservan para catálogos escaneables de etiquetas cortas
+   (tipos de emergencia, características protegidas, niveles de severidad). */
 .chips { display: flex; flex-wrap: wrap; gap: 0.4rem; margin: 1rem 0 1.4rem; }
 .chips span {
   font-size: 0.78rem; padding: 0.3rem 0.75rem; border-radius: 999px;
   background: var(--warm-bg); border: 1px solid var(--card-border);
   color: var(--md-default-fg-color);
+}
+
+/* Variante ligera .flow: listas de criterios/consideraciones/campos como texto
+   fluido ·-separado y discreto, sin pastilla. Evita el muro de chips y crea
+   jerarquía (pastilla = catálogo; flow = detalle de apoyo). En el PDF los chips
+   ya se emiten ·-separados, así que esta variante no altera el impreso. */
+.md-typeset .chips.flow {
+  display: block; margin: 0.1rem 0 1rem;
+  font-size: 0.82rem; line-height: 1.75;
+  color: var(--md-default-fg-color--light);
+}
+.md-typeset .chips.flow span {
+  padding: 0; border: 0; border-radius: 0; background: none;
+  color: inherit; font-size: inherit;
+}
+.md-typeset .chips.flow span:not(:last-child)::after {
+  content: "·"; margin: 0 0.45rem; color: var(--md-default-fg-color--lighter);
 }
 
 /* Badges (niveles de desempeño, estados) */

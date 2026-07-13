@@ -4,6 +4,11 @@
 # {{ espresso.dosis.rango }} {{ espresso.dosis.unidad }}, y los lee
 # scripts/build_formatos_pdf.py para la bitácora imprimible. Editar aquí
 # actualiza a la vez el sitio y los PDF.
+manual:
+  version: "1.0"
+  fecha_publicacion: "10 de julio de 2026"
+  proxima_revision: "10 de julio de 2027"
+
 espresso:
   dosis:       { rango: "18–20", unidad: "g" }
   rendimiento: { rango: "36–42", unidad: "g" }

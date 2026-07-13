@@ -8,21 +8,20 @@ Garantizar un ambiente de trabajo, convivencia y servicio libre de discriminaci�
 
 El presente protocolo es de observancia obligatoria para:
 
-<div class="chips">
-<span>Todo el personal operativo, administrativo, gerencial y directivo</span><span>Personal temporal, practicantes y prestadores de servicios</span><span>Proveedores y contratistas durante su permanencia en las instalaciones</span><span>Clientes y visitantes en su interacción con el personal y otros clientes</span>
-</div>
+- Todo el personal operativo, administrativo, gerencial y directivo
+- Personal temporal, practicantes y prestadores de servicios
+- Proveedores y contratistas durante su permanencia en las instalaciones
+- Clientes y visitantes en su interacción con el personal y otros clientes
 
 ## 2. Principios Generales
 
 Toda persona tiene derecho a:
 
-<ul class="do">
-<li>Recibir un trato digno y respetuoso</li>
-<li>Desarrollar sus actividades en un ambiente libre de discriminación</li>
-<li>Expresar opiniones de forma respetuosa</li>
-<li>Ser evaluada por su desempeño y conducta, no por características personales</li>
-<li>Recibir atención y servicio sin distinción alguna</li>
-</ul>
+- Recibir un trato digno y respetuoso
+- Desarrollar sus actividades en un ambiente libre de discriminación
+- Expresar opiniones de forma respetuosa
+- Ser evaluada por su desempeño y conducta, no por características personales
+- Recibir atención y servicio sin distinción alguna
 
 El establecimiento mantendrá una política de tolerancia cero hacia cualquier conducta discriminatoria.
 
@@ -55,16 +54,18 @@ Se consideran faltas a este protocolo, entre otras:
 
 Todo colaborador deberá:
 
-<ul class="do">
-<li>Mantener una comunicación profesional y respetuosa</li>
-<li>Resolver diferencias mediante el diálogo o los canales internos establecidos</li>
-<li>Evitar confrontaciones, insultos o agresiones</li>
-<li>Respetar la dignidad y privacidad de sus compañeros</li>
-<li>Colaborar en la construcción de un ambiente laboral sano</li>
-</ul>
-
-!!! danger "Queda prohibido"
-    * Intimidar, humillar, ridiculizar o desacreditar a otro miembro del equipo
+<div class="dodont" markdown>
+<div class="dd-do" markdown>
+- Mantener una comunicación profesional y respetuosa
+- Resolver diferencias mediante el diálogo o los canales internos establecidos
+- Evitar confrontaciones, insultos o agresiones
+- Respetar la dignidad y privacidad de sus compañeros
+- Colaborar en la construcción de un ambiente laboral sano
+</div>
+<div class="dd-dont" markdown>
+- Intimidar, humillar, ridiculizar o desacreditar a otro miembro del equipo
+</div>
+</div>
 
 ## 6. Trato hacia Clientes
 
@@ -98,11 +99,9 @@ El personal podrá solicitar apoyo de la supervisión para atender cualquier sit
 
 Cualquier colaborador podrá reportar conductas contrarias a este protocolo mediante:
 
-<ul class="do">
-<li>Comunicación directa con su responsable de turno</li>
-<li>Comunicación con Dirección Operativa</li>
-<li>Reporte escrito mediante el formato de incidencia interna</li>
-</ul>
+<div class="chips flow">
+<span>Comunicación directa con su responsable de turno</span><span>Comunicación con Dirección Operativa</span><span>Reporte escrito mediante el formato de incidencia interna</span>
+</div>
 
 Los reportes serán atendidos de manera confidencial y objetiva.
 
@@ -119,9 +118,11 @@ Las represalias constituyen una falta disciplinaria independiente.
 
 Toda denuncia será revisada considerando:
 
-<div class="chips">
-<span>Declaraciones de las partes involucradas</span><span>Testimonios</span><span>Evidencia documental</span><span>Grabaciones de videovigilancia cuando existan (ver apartado 3.3)</span><span>Cualquier otro elemento pertinente</span>
-</div>
+- Declaraciones de las partes involucradas
+- Testimonios
+- Evidencia documental
+- Grabaciones de videovigilancia cuando existan (ver apartado 3.3)
+- Cualquier otro elemento pertinente
 
 La empresa procurará actuar con imparcialidad y respeto al derecho de audiencia de las personas involucradas.
 

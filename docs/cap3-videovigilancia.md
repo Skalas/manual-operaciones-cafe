@@ -16,13 +16,11 @@ Aplica a todas las cámaras y grabaciones de audio o video instaladas dentro de 
 
 La videovigilancia se utiliza únicamente para:
 
-<ul class="do">
-<li>Proteger la integridad física de clientes, colaboradores y visitantes</li>
-<li>Prevenir y documentar robos, fraudes o daños a bienes</li>
-<li>Respaldar investigaciones internas conforme al apartado 2.3</li>
-<li>Verificar el cumplimiento de procedimientos de seguridad, higiene y manejo de efectivo</li>
-<li>Atender requerimientos de autoridades competentes conforme a la ley</li>
-</ul>
+- Proteger la integridad física de clientes, colaboradores y visitantes
+- Prevenir y documentar robos, fraudes o daños a bienes
+- Respaldar investigaciones internas conforme al apartado 2.3
+- Verificar el cumplimiento de procedimientos de seguridad, higiene y manejo de efectivo
+- Atender requerimientos de autoridades competentes conforme a la ley
 
 Queda prohibido utilizar las cámaras con fines distintos a los aquí señalados.
 
@@ -39,11 +37,9 @@ Las cámaras podrán instalarse en áreas de acceso, barra, caja, almacenes, ár
 
 ## 4. Aviso de Privacidad
 
-<ul class="do">
-<li>La empresa colocará avisos visibles que informen a clientes y visitantes que el área está videovigilada.</li>
-<li>El personal será informado de la existencia del sistema al momento de su contratación y mediante este manual.</li>
-<li>El tratamiento de las imágenes se realizará conforme al aviso de privacidad de la empresa y a la Ley Federal de Protección de Datos Personales en Posesión de los Particulares (LFPDPPP).</li>
-</ul>
+- La empresa colocará avisos visibles que informen a clientes y visitantes que el área está videovigilada.
+- El personal será informado de la existencia del sistema al momento de su contratación y mediante este manual.
+- El tratamiento de las imágenes se realizará conforme al aviso de privacidad de la empresa y a la Ley Federal de Protección de Datos Personales en Posesión de los Particulares (LFPDPPP).
 
 ---
 
@@ -62,11 +58,9 @@ Ningún otro colaborador podrá visualizar, copiar, extraer o difundir grabacion
 
 ## 6. Conservación y Resguardo
 
-<ul class="do">
-<li>Las grabaciones se conservarán por un mínimo de <strong>30 días naturales</strong>, salvo que deban resguardarse por más tiempo debido a una investigación en curso o a un requerimiento legal.</li>
-<li>Los equipos de grabación y respaldo deberán mantenerse en un lugar seguro y con acceso restringido.</li>
-<li>Transcurrido el periodo de conservación, las grabaciones se eliminarán de forma segura, salvo las que estén sujetas a resguardo.</li>
-</ul>
+- Las grabaciones se conservarán por un mínimo de **30 días naturales**, salvo que deban resguardarse por más tiempo debido a una investigación en curso o a un requerimiento legal.
+- Los equipos de grabación y respaldo deberán mantenerse en un lugar seguro y con acceso restringido.
+- Transcurrido el periodo de conservación, las grabaciones se eliminarán de forma segura, salvo las que estén sujetas a resguardo.
 
 ---
 

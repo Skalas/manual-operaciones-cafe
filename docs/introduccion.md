@@ -61,7 +61,7 @@ Las disposiciones contenidas en este Manual son de observancia obligatoria para 
 
 Aplica a:
 
-<div class="chips">
+<div class="chips flow">
 <span>Dirección</span><span>Supervisores</span><span>Baristas</span><span>Cajeros</span><span>Personal de cocina (cuando aplique)</span><span>Personal de apoyo operativo</span><span>Personal en capacitación</span><span>Practicantes y colaboradores temporales, cuando corresponda</span>
 </div>
 

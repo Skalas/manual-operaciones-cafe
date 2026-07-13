@@ -7,7 +7,7 @@ determine. Los campos siguen lo establecido en cada apartado del manual.
 Cada formato tiene un **PDF descargable** listo para imprimir y firmar. También puedes
 descargar el paquete completo:
 
-[⬇ Descargar todos los formatos (PDF)](descargas/formatos-todos.pdf){ .md-button .md-button--primary download="formatos-todos.pdf" }
+[:material-download: Descargar todos los formatos (PDF)](descargas/formatos-todos.pdf){ .md-button .md-button--primary download="formatos-todos.pdf" }
 
 <div class="grid cards" markdown>
 
@@ -51,7 +51,7 @@ descargar el paquete completo:
 
 > Referencia: apartado 2.1, art. 22. Debe archivarse una hoja independiente por colaborador.
 
-[⬇ Descargar PDF](descargas/acuse-recibido.pdf){ .md-button download="acuse-recibido.pdf" }
+[:material-download: Descargar PDF](descargas/acuse-recibido.pdf){ .md-button download="acuse-recibido.pdf" }
 
 Declaro que recibí, leí y comprendí el Manual de Operación de {{ brand.name }}, y me
 comprometo a cumplir las disposiciones contenidas en él.
@@ -71,7 +71,7 @@ comprometo a cumplir las disposiciones contenidas en él.
 > Referencia: apartados 1.3, 2.3 y 2.4. Canal formal para reportar incidentes,
 > inconformidades o posibles incumplimientos.
 
-[⬇ Descargar PDF](descargas/reporte-incidencia.pdf){ .md-button download="reporte-incidencia.pdf" }
+[:material-download: Descargar PDF](descargas/reporte-incidencia.pdf){ .md-button download="reporte-incidencia.pdf" }
 
 | Campo | Información |
 | ----- | ----- |
@@ -96,7 +96,7 @@ comprometo a cumplir las disposiciones contenidas en él.
 
 > Referencia: apartados 4.1 (apertura del turno) y 4.4. Marcar cada punto verificado.
 
-[⬇ Descargar PDF](descargas/checklist-turno.pdf){ .md-button download="checklist-turno.pdf" }
+[:material-download: Descargar PDF](descargas/checklist-turno.pdf){ .md-button download="checklist-turno.pdf" }
 
 **Datos del turno**
 
@@ -136,7 +136,7 @@ comprometo a cumplir las disposiciones contenidas en él.
 
 > Referencia: apartado 4.1, art. 6. Toda calibración debe registrarse.
 
-[⬇ Descargar PDF](descargas/bitacora-calibracion.pdf){ .md-button download="bitacora-calibracion.pdf" }
+[:material-download: Descargar PDF](descargas/bitacora-calibracion.pdf){ .md-button download="bitacora-calibracion.pdf" }
 
 | Fecha | Hora | Café / lote | Dosis (g) | Rendimiento (g) | Tiempo (s) | Temp. (°C) | Responsable |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -152,7 +152,7 @@ Parámetros de referencia: dosis 18–20 g · rendimiento 36–42 g · tiempo 25
 
 > Referencia: apartado 4.2, art. 8. Ninguna merma debe ocultarse ni registrarse de forma incorrecta.
 
-[⬇ Descargar PDF](descargas/registro-mermas.pdf){ .md-button download="registro-mermas.pdf" }
+[:material-download: Descargar PDF](descargas/registro-mermas.pdf){ .md-button download="registro-mermas.pdf" }
 
 | Fecha | Producto | Cantidad | Motivo (operativa / producción / caducidad / daño / extraordinaria) | Responsable |
 | ----- | ----- | ----- | ----- | ----- |
@@ -168,7 +168,7 @@ Consulta los parámetros aceptables en el Anexo B (Mermas Operativas Aceptables 
 
 > Referencia: apartado 4.4, art. 10. Incluye degustaciones, cortesías y bebida de cortesía del personal.
 
-[⬇ Descargar PDF](descargas/registro-consumo.pdf){ .md-button download="registro-consumo.pdf" }
+[:material-download: Descargar PDF](descargas/registro-consumo.pdf){ .md-button download="registro-consumo.pdf" }
 
 | Fecha | Producto | Cantidad | Motivo | Autorizó (nombre / puesto) |
 | ----- | ----- | ----- | ----- | ----- |
@@ -184,7 +184,7 @@ Recordatorio: la bebida de cortesía del personal es **una (1) por turno**, de c
 
 > Referencia: apartado 4.3, arts. 9–11 y 18.
 
-[⬇ Descargar PDF](descargas/arqueo-caja.pdf){ .md-button download="arqueo-caja.pdf" }
+[:material-download: Descargar PDF](descargas/arqueo-caja.pdf){ .md-button download="arqueo-caja.pdf" }
 
 | Campo | Monto |
 | ----- | ----- |
@@ -206,7 +206,7 @@ Recordatorio: la bebida de cortesía del personal es **una (1) por turno**, de c
 
 > Referencia: apartados 3.1, 3.2 (art. 17) y 3.3. Toda emergencia debe documentarse.
 
-[⬇ Descargar PDF](descargas/reporte-incidente.pdf){ .md-button download="reporte-incidente.pdf" }
+[:material-download: Descargar PDF](descargas/reporte-incidente.pdf){ .md-button download="reporte-incidente.pdf" }
 
 | Campo | Información |
 | ----- | ----- |

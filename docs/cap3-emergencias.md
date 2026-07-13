@@ -95,16 +95,16 @@ Ante cualquier emergencia:
 
 Durante el movimiento:
 
-* Conservar la calma.  
-* Alejarse de vidrios, estanterías y objetos que puedan caer.  
-* No correr ni utilizar elevadores.
+1. Conservar la calma.
+2. Alejarse de vidrios, estanterías y objetos que puedan caer.
+3. No correr ni utilizar elevadores.
 
 Al finalizar:
 
-* Evacuar de forma ordenada.  
-* Reunirse en el punto de encuentro.  
-* Pasar lista del personal.  
-* Revisar posibles daños antes de reanudar operaciones.
+1. Evacuar de forma ordenada.
+2. Reunirse en el punto de encuentro.
+3. Pasar lista del personal.
+4. Revisar posibles daños antes de reanudar operaciones.
 
 ---
 
@@ -121,10 +121,10 @@ Al finalizar:
 
 ## 9. Procedimiento por Falla Eléctrica
 
-* Suspender temporalmente la preparación de bebidas si el equipo no opera de forma segura.  
-* Desconectar equipos sensibles cuando exista riesgo de sobrecarga.  
-* Mantener cerrados los refrigeradores para conservar la temperatura.  
-* Evaluar la continuidad de la operación según la duración de la falla.
+1. Suspender temporalmente la preparación de bebidas si el equipo no opera de forma segura.
+2. Desconectar equipos sensibles cuando exista riesgo de sobrecarga.
+3. Mantener cerrados los refrigeradores para conservar la temperatura.
+4. Evaluar la continuidad de la operación según la duración de la falla.
 
 ---
 
@@ -140,22 +140,22 @@ Al finalizar:
 
 ## 11. Procedimiento por Robo o Asalto
 
-* No confrontar al agresor.  
-* Priorizar la integridad física de clientes y colaboradores.  
-* Observar características relevantes sin poner en riesgo la seguridad.  
-* Llamar a las autoridades cuando sea seguro hacerlo.  
-* Preservar la escena para facilitar la investigación.
+1. No confrontar al agresor.
+2. Priorizar la integridad física de clientes y colaboradores.
+3. Observar características relevantes sin poner en riesgo la seguridad.
+4. Llamar a las autoridades cuando sea seguro hacerlo.
+5. Preservar la escena para facilitar la investigación.
 
 ---
 
 ## 12. Procedimiento por Contaminación Alimentaria
 
-* Retirar inmediatamente el producto involucrado.  
-* Aislar el lote correspondiente.  
-* Notificar al responsable operativo.  
-* Registrar el incidente.  
-* Determinar si es necesario suspender la venta del producto.  
-* Investigar la causa y aplicar acciones correctivas.
+1. Retirar inmediatamente el producto involucrado.
+2. Aislar el lote correspondiente.
+3. Notificar al responsable operativo.
+4. Registrar el incidente.
+5. Determinar si es necesario suspender la venta del producto.
+6. Investigar la causa y aplicar acciones correctivas.
 
 ---
 
@@ -175,25 +175,20 @@ Cuando se presente una autoridad competente:
 
 El establecimiento deberá contar, como mínimo, con:
 
-<ul class="do">
-<li>Botiquín de primeros auxilios completo</li>
-<li>Extintores vigentes y señalizados</li>
-<li>Señalización de rutas de evacuación</li>
-<li>Lámparas de emergencia</li>
-<li>Lista visible de teléfonos de emergencia</li>
-<li>Croquis con punto de reunión</li>
-</ul>
+<div class="chips flow">
+<span>Botiquín de primeros auxilios completo</span><span>Extintores vigentes y señalizados</span><span>Señalización de rutas de evacuación</span><span>Lámparas de emergencia</span><span>Lista visible de teléfonos de emergencia</span><span>Croquis con punto de reunión</span>
+</div>
 
 ---
 
 ## 15. Capacitación y Simulacros
 
-<ul class="do">
-<li>Inducción obligatoria para todo colaborador de nuevo ingreso</li>
-<li>Capacitación anual en uso de extintores y primeros auxilios</li>
-<li>Simulacros de evacuación al menos dos veces por año</li>
-<li>Registro documental de cada simulacro y de las acciones de mejora identificadas</li>
-</ul>
+| Actividad | Frecuencia |
+| ----- | ----- |
+| Inducción obligatoria | Todo colaborador de nuevo ingreso |
+| Capacitación en uso de extintores y primeros auxilios | Anual |
+| Simulacros de evacuación | Al menos dos veces por año |
+| Registro documental del simulacro y de las acciones de mejora | Cada simulacro |
 
 ---
 
@@ -201,6 +196,6 @@ El establecimiento deberá contar, como mínimo, con:
 
 Toda emergencia deberá documentarse mediante un reporte que incluya:
 
-<div class="chips">
+<div class="chips flow">
 <span>Fecha y hora</span><span>Tipo de incidente</span><span>Personas involucradas</span><span>Descripción de los hechos</span><span>Acciones realizadas</span><span>Daños materiales o personales</span><span>Causa raíz (cuando sea posible)</span><span>Acciones correctivas y preventivas</span><span>Responsable del seguimiento</span><span>Fecha de cierre</span>
 </div>

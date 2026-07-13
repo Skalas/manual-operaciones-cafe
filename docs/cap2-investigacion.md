@@ -12,15 +12,8 @@ Este procedimiento busca garantizar decisiones objetivas, proporcionales, docume
 
 Aplica a todas las situaciones que involucren:
 
-<div class="chips">
-<span>Incumplimiento de políticas internas</span>
-<span>Conductas inapropiadas</span>
-<span>Conflictos entre colaboradores</span>
-<span>Incidencias operativas</span>
-<span>Problemas de seguridad o higiene</span>
-<span>Manejo de efectivo e inventarios</span>
-<span>Quejas de clientes</span>
-<span>Cualquier situación que requiera análisis disciplinario</span>
+<div class="chips flow">
+<span>Incumplimiento de políticas internas</span><span>Conductas inapropiadas</span><span>Conflictos entre colaboradores</span><span>Incidencias operativas</span><span>Problemas de seguridad o higiene</span><span>Manejo de efectivo e inventarios</span><span>Quejas de clientes</span><span>Cualquier situación que requiera análisis disciplinario</span>
 </div>
 
 ---
@@ -29,14 +22,9 @@ Aplica a todas las situaciones que involucren:
 
 Toda investigación interna se regirá por:
 
-<ul class="do">
-<li>Imparcialidad</li>
-<li>Confidencialidad razonable</li>
-<li>Presunción de inocencia</li>
-<li>Derecho a ser escuchado</li>
-<li>Análisis basado en evidencia</li>
-<li>Proporcionalidad de las medidas</li>
-</ul>
+<div class="chips flow">
+<span>Imparcialidad</span><span>Confidencialidad razonable</span><span>Presunción de inocencia</span><span>Derecho a ser escuchado</span><span>Análisis basado en evidencia</span><span>Proporcionalidad de las medidas</span>
+</div>
 
 La finalidad principal es la corrección y mejora de la operación, no la sanción por sí misma.
 
@@ -46,12 +34,8 @@ La finalidad principal es la corrección y mejora de la operación, no la sanci�
 
 Todo proceso inicia con:
 
-<div class="chips">
-<span>Un reporte interno</span>
-<span>Un formato único de incidencia</span>
-<span>Una queja formal</span>
-<span>Un hallazgo operativo</span>
-<span>Una auditoría</span>
+<div class="chips flow">
+<span>Un reporte interno</span><span>Un formato único de incidencia</span><span>Una queja formal</span><span>Un hallazgo operativo</span><span>Una auditoría</span>
 </div>
 
 El reporte será registrado y asignado a un responsable de seguimiento.
@@ -81,12 +65,8 @@ La persona responsable deberá:
 
 Cuando exista riesgo para personas, clientes, operación o patrimonio, podrán aplicarse medidas temporales como:
 
-<div class="chips">
-<span>Reasignación de funciones</span>
-<span>Separación temporal de áreas</span>
-<span>Suspensión preventiva de actividades específicas</span>
-<span>Retiro de producto o equipo</span>
-<span>Aseguramiento de evidencia</span>
+<div class="chips flow">
+<span>Reasignación de funciones</span><span>Separación temporal de áreas</span><span>Suspensión preventiva de actividades específicas</span><span>Retiro de producto o equipo</span><span>Aseguramiento de evidencia</span>
 </div>
 
 Estas medidas no constituyen una sanción definitiva.
@@ -97,14 +77,8 @@ Estas medidas no constituyen una sanción definitiva.
 
 Cuando el caso lo requiera, se iniciará una investigación interna que podrá incluir:
 
-<div class="chips">
-<span>Entrevista con la persona reportante</span>
-<span>Entrevista con la persona involucrada</span>
-<span>Entrevistas a testigos</span>
-<span>Revisión de registros operativos</span>
-<span>Revisión de inventarios y caja</span>
-<span>Revisión de sistemas y bitácoras</span>
-<span>Revisión de material audiovisual disponible (ver apartado 3.3)</span>
+<div class="chips flow">
+<span>Entrevista con la persona reportante</span><span>Entrevista con la persona involucrada</span><span>Entrevistas a testigos</span><span>Revisión de registros operativos</span><span>Revisión de inventarios y caja</span><span>Revisión de sistemas y bitácoras</span><span>Revisión de material audiovisual disponible (ver apartado 3.3)</span>
 </div>
 
 ---
@@ -113,11 +87,8 @@ Cuando el caso lo requiera, se iniciará una investigación interna que podrá i
 
 Toda persona involucrada tendrá derecho a:
 
-<div class="chips">
-<span>Conocer los hechos que se le atribuyen</span>
-<span>Presentar su versión de los hechos</span>
-<span>Aportar evidencia o testigos</span>
-<span>Explicar circunstancias relevantes</span>
+<div class="chips flow">
+<span>Conocer los hechos que se le atribuyen</span><span>Presentar su versión de los hechos</span><span>Aportar evidencia o testigos</span><span>Explicar circunstancias relevantes</span>
 </div>
 
 La empresa buscará siempre una versión completa de los hechos antes de tomar una decisión.
@@ -128,13 +99,8 @@ La empresa buscará siempre una versión completa de los hechos antes de tomar u
 
 Una vez recopilada la información, se analizará considerando:
 
-<div class="chips">
-<span>Coherencia de los hechos</span>
-<span>Evidencia disponible</span>
-<span>Contexto operativo</span>
-<span>Historial relevante (cuando aplique)</span>
-<span>Impacto en la operación</span>
-<span>Riesgo para clientes, personal o empresa</span>
+<div class="chips flow">
+<span>Coherencia de los hechos</span><span>Evidencia disponible</span><span>Contexto operativo</span><span>Historial relevante (cuando aplique)</span><span>Impacto en la operación</span><span>Riesgo para clientes, personal o empresa</span>
 </div>
 
 ---
@@ -143,12 +109,8 @@ Una vez recopilada la información, se analizará considerando:
 
 Con base en el análisis, se determinará si:
 
-<div class="chips">
-<span>No existe incumplimiento</span>
-<span>Existe incumplimiento leve</span>
-<span>Existe incumplimiento grave</span>
-<span>Existe incumplimiento muy grave</span>
-<span>Se requiere capacitación o corrección operativa</span>
+<div class="chips flow">
+<span>No existe incumplimiento</span><span>Existe incumplimiento leve</span><span>Existe incumplimiento grave</span><span>Existe incumplimiento muy grave</span><span>Se requiere capacitación o corrección operativa</span>
 </div>
 
 ---
@@ -168,11 +130,8 @@ La clasificación de la falta (Leve, Grave o Muy Grave) se determina conforme al
 
 Toda medida deberá ser:
 
-<div class="chips">
-<span>Proporcional a la falta</span>
-<span>Consistente con casos similares</span>
-<span>Justificada con evidencia</span>
-<span>Orientada a la mejora del comportamiento o la operación</span>
+<div class="chips flow">
+<span>Proporcional a la falta</span><span>Consistente con casos similares</span><span>Justificada con evidencia</span><span>Orientada a la mejora del comportamiento o la operación</span>
 </div>
 
 ---
@@ -181,12 +140,8 @@ Toda medida deberá ser:
 
 La resolución deberá comunicarse de forma clara e incluir:
 
-<div class="chips">
-<span>Descripción del hecho</span>
-<span>Evidencia considerada</span>
-<span>Conclusión de la investigación</span>
-<span>Medida aplicada (si existe)</span>
-<span>Recomendaciones o acciones futuras</span>
+<div class="chips flow">
+<span>Descripción del hecho</span><span>Evidencia considerada</span><span>Conclusión de la investigación</span><span>Medida aplicada (si existe)</span><span>Recomendaciones o acciones futuras</span>
 </div>
 
 ---
@@ -195,13 +150,8 @@ La resolución deberá comunicarse de forma clara e incluir:
 
 Todo caso deberá documentarse y archivarse, incluyendo:
 
-<div class="chips">
-<span>Reporte inicial</span>
-<span>Evidencia</span>
-<span>Entrevistas</span>
-<span>Análisis</span>
-<span>Resolución</span>
-<span>Medidas aplicadas</span>
+<div class="chips flow">
+<span>Reporte inicial</span><span>Evidencia</span><span>Entrevistas</span><span>Análisis</span><span>Resolución</span><span>Medidas aplicadas</span>
 </div>
 
 Estos registros serán confidenciales y de uso interno.
@@ -220,11 +170,8 @@ Solo podrán tener acceso las personas directamente involucradas en el proceso.
 
 Los resultados de las investigaciones podrán utilizarse para:
 
-<div class="chips">
-<span>Mejorar procesos operativos</span>
-<span>Ajustar políticas internas</span>
-<span>Fortalecer capacitación</span>
-<span>Reducir riesgos futuros</span>
+<div class="chips flow">
+<span>Mejorar procesos operativos</span><span>Ajustar políticas internas</span><span>Fortalecer capacitación</span><span>Reducir riesgos futuros</span>
 </div>
 
 El objetivo final es mejorar la operación y prevenir la recurrencia de incidentes.
@@ -235,11 +182,8 @@ El objetivo final es mejorar la operación y prevenir la recurrencia de incident
 
 El caso se considerará cerrado cuando:
 
-<div class="chips">
-<span>Se haya comunicado la resolución</span>
-<span>Se hayan aplicado las medidas correspondientes</span>
-<span>Se hayan implementado acciones correctivas cuando aplique</span>
-<span>Se haya registrado la documentación completa</span>
+<div class="chips flow">
+<span>Se haya comunicado la resolución</span><span>Se hayan aplicado las medidas correspondientes</span><span>Se hayan implementado acciones correctivas cuando aplique</span><span>Se haya registrado la documentación completa</span>
 </div>
 
 ---

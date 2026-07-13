@@ -36,7 +36,7 @@ Una gran experiencia puede convertir una bebida en un recuerdo.
 
 Toda decisión operativa deberá considerar:
 
-<div class="chips">
+<div class="chips flow">
 <span>Al cliente</span><span>Al equipo</span><span>Al producto</span><span>A la comunidad</span>
 </div>
 
@@ -110,14 +110,20 @@ Toda decisión operativa deberá considerar:
 
 La comunicación deberá ser:
 
-<div class="chips">
-<span>Clara</span><span>Cercana</span><span>Profesional</span><span>Respetuosa</span>
+<div class="dodont" markdown>
+<div class="dd-do" markdown>
+- Clara
+- Cercana
+- Profesional
+- Respetuosa
 </div>
-
----
-
-!!! danger "Evitamos"
-    Respuestas cortantes · sarcasmo · lenguaje agresivo · actitudes de superioridad.
+<div class="dd-dont" markdown>
+- Respuestas cortantes
+- Sarcasmo
+- Lenguaje agresivo
+- Actitudes de superioridad
+</div>
+</div>
 
 **Preferimos reformular:**
 
@@ -195,7 +201,7 @@ Toda queja representa una oportunidad para mejorar.
 
 Creemos en:
 
-<div class="chips">
+<div class="chips flow">
 <span>Trazabilidad</span><span>Comercio responsable</span><span>Respeto al productor</span><span>Educación accesible</span><span>Calidad constante</span>
 </div>
 

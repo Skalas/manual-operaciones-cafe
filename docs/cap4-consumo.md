@@ -10,12 +10,10 @@ Esta política aplica a todos los colaboradores, socios operativos, practicantes
 
 ## 1. Principios Generales
 
-<ul class="do">
-<li>Ningún producto destinado a la venta se consume sin autorización o registro correspondiente</li>
-<li>Todo consumo está debidamente identificado, autorizado o registrado según los procedimientos establecidos</li>
-<li>El consumo de productos no constituye un derecho adquirido salvo disposición expresa de la empresa</li>
-<li>La empresa podrá modificar o suspender beneficios de consumo interno cuando las condiciones operativas lo requieran</li>
-</ul>
+- Ningún producto destinado a la venta se consume sin autorización o registro correspondiente
+- Todo consumo está debidamente identificado, autorizado o registrado según los procedimientos establecidos
+- El consumo de productos no constituye un derecho adquirido salvo disposición expresa de la empresa
+- La empresa podrá modificar o suspender beneficios de consumo interno cuando las condiciones operativas lo requieran
 
 ---
 
@@ -47,7 +45,7 @@ El consumo de agua potable es libre y no cuenta como la bebida de cortesía (ver
 
 Se consideran degustaciones operativas aquellas necesarias para:
 
-<div class="chips"><span>Control de calidad</span><span>Capacitación</span><span>Desarrollo de productos</span><span>Verificación de recetas</span></div>
+<div class="chips flow"><span>Control de calidad</span><span>Capacitación</span><span>Desarrollo de productos</span><span>Verificación de recetas</span></div>
 
 Estas degustaciones:
 
@@ -64,7 +62,7 @@ Estas degustaciones:
 El personal podrá consumir alimentos propios únicamente en áreas y horarios autorizados.
 
 !!! danger "Queda prohibido"
-    - Consumir alimentos en áreas de preparación.
+    Consumir alimentos en áreas de preparación.
 
 ---
 
@@ -72,12 +70,10 @@ El personal podrá consumir alimentos propios únicamente en áreas y horarios a
 
 Todo producto destinado a la venta que sea consumido por el personal deberá cumplir alguno de los siguientes supuestos:
 
-<ul class="do">
-<li>Haber sido adquirido por el colaborador</li>
-<li>Haber sido autorizado como beneficio interno</li>
-<li>Haber sido autorizado como degustación operativa</li>
-<li>Haber sido clasificado como merma autorizada</li>
-</ul>
+- Haber sido adquirido por el colaborador
+- Haber sido autorizado como beneficio interno
+- Haber sido autorizado como degustación operativa
+- Haber sido clasificado como merma autorizada
 
 Fuera de estos supuestos, el consumo se considerará no autorizado.
 
@@ -87,7 +83,7 @@ Fuera de estos supuestos, el consumo se considerará no autorizado.
 
 Se consideran productos de merma aquellos que:
 
-<div class="chips"><span>No cumplen estándares de presentación</span><span>Se encuentran próximos a vencer</span><span>No son aptos para comercialización pero mantienen condiciones seguras para consumo</span></div>
+<div class="chips flow"><span>No cumplen estándares de presentación</span><span>Se encuentran próximos a vencer</span><span>No son aptos para comercialización pero mantienen condiciones seguras para consumo</span></div>
 
 La autorización para consumo de mermas corresponde exclusivamente al responsable designado por la empresa.
 
@@ -107,7 +103,7 @@ Ningún colaborador podrá otorgar productos gratuitos sin autorización expresa
 
 Cuando la empresa lo determine, los consumos internos deberán registrarse indicando:
 
-<div class="chips"><span>Producto</span><span>Cantidad</span><span>Motivo</span><span>Responsable de autorización</span><span>Fecha</span></div>
+<div class="chips flow"><span>Producto</span><span>Cantidad</span><span>Motivo</span><span>Responsable de autorización</span><span>Fecha</span></div>
 
 La omisión deliberada de registros podrá constituir una falta disciplinaria.
 

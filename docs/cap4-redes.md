@@ -12,7 +12,7 @@ La empresa reconoce el derecho de cada persona a mantener y utilizar sus redes s
 
 Esta política aplica a:
 
-<div class="chips"><span>Publicaciones en redes sociales</span><span>Mensajería instantánea</span><span>Foros digitales</span><span>Plataformas de video</span><span>Blogs</span><span>Podcasts</span><span>Cualquier medio digital de comunicación pública</span></div>
+<div class="chips flow"><span>Publicaciones en redes sociales</span><span>Mensajería instantánea</span><span>Foros digitales</span><span>Plataformas de video</span><span>Blogs</span><span>Podcasts</span><span>Cualquier medio digital de comunicación pública</span></div>
 
 ---
 
@@ -35,7 +35,7 @@ La empresa no pretende supervisar la actividad privada de los colaboradores fuer
 
 Se permite compartir:
 
-<div class="chips"><span>Experiencias laborales positivas</span><span>Actividades autorizadas por la empresa</span><span>Eventos públicos</span><span>Contenido previamente autorizado para difusión</span></div>
+<div class="chips flow"><span>Experiencias laborales positivas</span><span>Actividades autorizadas por la empresa</span><span>Eventos públicos</span><span>Contenido previamente autorizado para difusión</span></div>
 
 Siempre que dicha información:
 
@@ -51,7 +51,18 @@ Siempre que dicha información:
 
 Se considera información confidencial, entre otra:
 
-<div class="chips"><span>Costos y márgenes</span><span>Información financiera</span><span>Ventas</span><span>Inventarios</span><span>Datos de clientes</span><span>Datos personales de colaboradores</span><span>Recetas propietarias</span><span>Procesos internos no públicos</span><span>Estrategias comerciales</span><span>Contratos</span><span>Acuerdos con proveedores</span><span>Información de desarrollo de productos</span></div>
+- Costos y márgenes
+- Información financiera
+- Ventas
+- Inventarios
+- Datos de clientes
+- Datos personales de colaboradores
+- Recetas propietarias
+- Procesos internos no públicos
+- Estrategias comerciales
+- Contratos
+- Acuerdos con proveedores
+- Información de desarrollo de productos
 
 !!! danger "Queda prohibido"
     Su divulgación sin autorización expresa.
@@ -135,11 +146,9 @@ Ningún colaborador deberá presentarse como portavoz oficial sin autorización 
 
 Las cuentas oficiales de la empresa:
 
-<ul class="do">
-<li>Son propiedad de la organización</li>
-<li>No pertenecen a colaboradores individuales</li>
-<li>Deberán utilizarse exclusivamente para fines autorizados</li>
-</ul>
+- Son propiedad de la organización
+- No pertenecen a colaboradores individuales
+- Deberán utilizarse exclusivamente para fines autorizados
 
 Todo acceso deberá mantenerse protegido y confidencial.
 
@@ -175,13 +184,9 @@ Todo material desarrollado dentro de las funciones laborales para la empresa pod
 
 Todo colaborador deberá informar cuando detecte:
 
-<ul class="do">
-<li>Publicaciones falsas relacionadas con la empresa</li>
-<li>Uso indebido de marcas</li>
-<li>Suplantación de identidad</li>
-<li>Filtración de información interna</li>
-<li>Riesgos significativos para la reputación de la organización</li>
-</ul>
+<div class="chips flow">
+<span>Publicaciones falsas relacionadas con la empresa</span><span>Uso indebido de marcas</span><span>Suplantación de identidad</span><span>Filtración de información interna</span><span>Riesgos significativos para la reputación de la organización</span>
+</div>
 
 ---
 
