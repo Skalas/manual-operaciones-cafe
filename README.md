@@ -1,7 +1,7 @@
 # Manual de Operación
 
 Sitio web del Manual de Operación, construido con [MkDocs Material](https://squidfunk.github.io/mkdocs-material/).
-Una sola fuente de contenido genera un sitio por marca (Brown, Aluxe, …).
+Una sola fuente de contenido genera un sitio por marca (Aluxe, …).
 
 ## Estructura
 
@@ -17,8 +17,6 @@ Una sola fuente de contenido genera un sitio por marca (Brown, Aluxe, …).
 | `scripts/build_all.py` | Construye un sitio por marca en `site/<marca>/` + portada. |
 | `scripts/build_manual_pdf.py` | Orquesta los PDF imprimibles del manual en `pdf/` (requiere pandoc + lualatex). |
 | `latex/` | Diseño de los PDF: `preamble.tex` (tipografía, encabezados, cajas), `cover.tex` (portada) y `filters/manual.lua` (adapta los componentes web a imprenta). |
-| `scripts/split_manual.py` | Migración única del `.md` original a `docs/` (registro histórico). |
-| `archive/` | Artefactos de la migración inicial (el `.md` original y scripts de arreglo puntuales). Solo referencia histórica. |
 
 ## Desarrollo local
 
@@ -33,11 +31,11 @@ mkdocs serve                            # vista previa en http://127.0.0.1:8000
 
 > `brand.css` está en `.gitignore`; sin este primer paso el sitio se sirve sin los colores de marca.
 
-Por defecto se usa la marca `brown`. Para previsualizar otra:
+Por defecto se usa la marca `aluxe`. Para previsualizar otra:
 
 ```bash
-BRAND=aluxe python scripts/build_formatos_pdf.py
-BRAND=aluxe SITE_NAME="Manual de Operación — Aluxe" mkdocs serve
+BRAND=<marca> python scripts/build_formatos_pdf.py
+BRAND=<marca> SITE_NAME="Manual de Operación — <Marca>" mkdocs serve
 ```
 
 ## Construir todos los sitios
@@ -81,5 +79,4 @@ El deploy es automático vía GitHub Actions (`.github/workflows/deploy.yml`) en
 URLs resultantes:
 
 - Portada: `https://skalas.github.io/manual-operaciones-cafe/`
-- Brown: `https://skalas.github.io/manual-operaciones-cafe/brown/`
 - Aluxe: `https://skalas.github.io/manual-operaciones-cafe/aluxe/`

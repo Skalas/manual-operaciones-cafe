@@ -1,7 +1,7 @@
 """Módulo de macros para MkDocs (mkdocs-macros-plugin).
 
 Carga la configuración de marca seleccionada por la variable de entorno BRAND
-(por defecto 'brown') desde brands/<BRAND>.yml y la expone en las páginas como
+(por defecto 'aluxe') desde brands/<BRAND>.yml y la expone en las páginas como
 `brand.name`, `brand.short`, `brand.code`.
 
 Uso en Markdown:  {{ brand.name }}, {{ brand.short }}, {{ brand.code }}
@@ -21,7 +21,7 @@ PARAMS_FILE = ROOT / "params.yml"
 
 
 def define_env(env) -> None:
-    brand_id = os.environ.get("BRAND", "brown")
+    brand_id = os.environ.get("BRAND", "aluxe")
     brand_file = BRANDS_DIR / f"{brand_id}.yml"
     if not brand_file.exists():
         raise FileNotFoundError(

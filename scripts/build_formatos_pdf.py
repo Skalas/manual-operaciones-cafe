@@ -21,7 +21,7 @@ from fpdf import FPDF
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "docs" / "descargas"
 
-_brand_id = os.environ.get("BRAND", "brown")
+_brand_id = os.environ.get("BRAND", "aluxe")
 _brand = yaml.safe_load((ROOT / "brands" / f"{_brand_id}.yml").read_text(encoding="utf-8"))
 BRAND = _brand["name"]
 

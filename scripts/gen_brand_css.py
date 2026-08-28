@@ -1,6 +1,6 @@
 """Genera docs/stylesheets/brand.css con el color de acento de la marca activa.
 
-La marca se elige con la variable de entorno BRAND (por defecto 'brown') y sus
+La marca se elige con la variable de entorno BRAND (por defecto 'aluxe') y sus
 colores salen de brands/<BRAND>.yml. Este archivo se regenera en cada build
 (local y en build_all.py) y NO se versiona.
 
@@ -15,7 +15,7 @@ from pathlib import Path
 import yaml
 
 ROOT = Path(__file__).resolve().parent.parent
-BRAND = os.environ.get("BRAND", "brown")
+BRAND = os.environ.get("BRAND", "aluxe")
 data = yaml.safe_load((ROOT / "brands" / f"{BRAND}.yml").read_text(encoding="utf-8"))
 
 missing = [k for k in ("accent", "accent_light") if not data.get(k)]
